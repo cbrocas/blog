@@ -7,235 +7,101 @@
     
       
         <item>
-          <title>For Example of very Long Title Would Be Typography Elements in One</title>
-          <description>&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; This markdown cheatsheet is a typography demo for this theme. Check out this post to learn more about this markdown usage when you want to get started with this theme. Enjoy!&lt;/p&gt;
+          <title>(EN - edited) RMLL Security track - why, how and for which results</title>
+          <description>&lt;h1 id=&quot;rmll-security-track--why-how-and-for-which-results&quot;&gt;RMLL Security track : why, how and for which results&lt;/h1&gt;
 
-&lt;h2 id=&quot;typography-elements-in-one&quot;&gt;Typography Elements in One&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Note: after the lost of the original blogpost from 2017 (ProTip: always double check your current backup policy ;-)), this is an updated version of the original content with additions from late 2019.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Let’s start with a informative paragraph. &lt;strong&gt;This text is bolded.&lt;/strong&gt; But not this one! &lt;em&gt;How about italic text?&lt;/em&gt; Cool right? Ok, let’s &lt;strong&gt;&lt;em&gt;combine&lt;/em&gt;&lt;/strong&gt; them together. Yeah, that’s right! I have code to highlight, so &lt;code class=&quot;highlighter-rouge&quot;&gt;ThisIsMyCode()&lt;/code&gt;. What a nice! Good people will hyperlink away, so &lt;a href=&quot;#&quot;&gt;here we go&lt;/a&gt; or &lt;a href=&quot;http://www.example.com&quot;&gt;http://www.example.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;After many years of curation of the &lt;a href=&quot;https://prog2017.rmll.info/spip.php?page=rmll_progall&amp;amp;lang=en&amp;amp;t=2&quot;&gt;Security Track&lt;/a&gt; of the &lt;a href=&quot;http://rmll.info&quot;&gt;RMLL&lt;/a&gt; (a French generalist multi tracks conference about Free Software), we have decided to create in 2018 a free (as in free beer) event dedicated to Security and Free Software: Pass the SALT, Security And Libre Talks.&lt;/p&gt;
 
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
+&lt;p&gt;For my part, I have started to curate the security track (and adminsys in early years) in &lt;a href=&quot;http://2008.rmll.info/-Securite-.html&quot;&gt;2008 at Mont de Marsan&lt;/a&gt; :)&lt;/p&gt;
 
-&lt;h2 id=&quot;headings-h1-to-h6&quot;&gt;Headings H1 to H6&lt;/h2&gt;
+&lt;p&gt;We have decided to do it because as a technical track, we no more felt “at home” in a conference that went more year after year toward a artistic, political and communities direction. This direction was very interesting for the RMLL but too far from our core topic to feel comfortable enough as track curators but also for the event organizers.&lt;/p&gt;
 
-&lt;h1 id=&quot;h1-heading&quot;&gt;H1 Heading&lt;/h1&gt;
+&lt;p&gt;We are convinced of the value that Free Software provides to all of us, citizens of the world, in the Security area. And having a conference dedicated to it is a way for us to contribute to its expansion.&lt;/p&gt;
 
-&lt;h2 id=&quot;h2-heading&quot;&gt;H2 Heading&lt;/h2&gt;
+&lt;p&gt;On this page, we will expose our goals for this new conference and the way we want to follow to reach them.&lt;/p&gt;
 
-&lt;h3 id=&quot;h3-heading&quot;&gt;H3 Heading&lt;/h3&gt;
+&lt;h2 id=&quot;our-goals-for-pass-the-salt&quot;&gt;Our goals for Pass the SALT&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.pass-the-salt.org/assets/images/werner.jpg&quot; alt=&quot;werner&quot; /&gt;
+&lt;em&gt;Discussion between François Marier, Eric Leblond and Werner Koch during 2013 RMLL Security Track in Brussels - photo CC BY-NC-SA by P. Teuwen&lt;/em&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;h4-heading&quot;&gt;H4 Heading&lt;/h4&gt;
+&lt;p&gt;To understand the objectives and the spirit, Peter Czanik, lecturer, gave us some answers in the &lt;a href=&quot;[https://www.balabit.com/blog/czp-rmll-libre-software-meeting-2017/&quot;&gt;report of his participation in the RMLL 2017&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h5 id=&quot;h5-heading&quot;&gt;H5 Heading&lt;/h5&gt;
+&lt;p&gt;Here is how he summarized his coming at the 2017 RMLL Security track:&lt;/p&gt;
 
-&lt;h6 id=&quot;h6-heading&quot;&gt;H6 Heading&lt;/h6&gt;
+&lt;p&gt;&lt;em&gt;“I participated again in Security track … &lt;strong&gt;“Participated”&lt;/strong&gt; as I did not only give a talk on syslog-ng there, but also sat in to most of the presentations and had &lt;strong&gt;very good discussions both with visitors and fellow speakers&lt;/strong&gt;. The organizers brought together &lt;strong&gt;talks from diverse IT security-related fields&lt;/strong&gt;, a very good opportunity for &lt;strong&gt;cross-pollination of ideas&lt;/strong&gt;”&lt;/em&gt;. Note: emphasis is on our own.&lt;/p&gt;
 
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
+&lt;p&gt;Peter has perfectly synthesized what we are trying to achieve through the RMLL Security track year after year:&lt;/p&gt;
 
-&lt;h2 id=&quot;footnote&quot;&gt;Footnote&lt;/h2&gt;
+&lt;p&gt;Do our best to facilitate meetings and exchanges between lecturers and the public. The goal is that these exchanges generate collaborations between developers or projects but also produce new features in free software of the Security sphere.&lt;/p&gt;
 
-&lt;p&gt;Let’s say you have text that you want to refer with a footnote, you can do that too! This is an example for the footnote number one &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. You can even add more footnotes, with link! &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;And it is what we will want to achieve year after year with Pass the SALT.&lt;/p&gt;
 
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
+&lt;h2 id=&quot;how-to-reach-our-goals&quot;&gt;How to reach our goals&lt;/h2&gt;
 
-&lt;h2 id=&quot;blockquote&quot;&gt;Blockquote&lt;/h2&gt;
+&lt;p&gt;Here, we are not going to give a detailed list of things we think that have to be done but rather, a short list of important (according to us) levers that helped us reaching these goals.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Start by doing what’s necessary; then do what’s possible; and suddenly you are doing the impossible. –Francis of Assisi&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;1&amp;gt; Cost: a free access event&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; This theme does NOT support nested blockquotes.&lt;/p&gt;
+&lt;p&gt;First of all, we want to provide a free event to attendees. According to us, this is the best way to enable all kind of attendees to come : we think about students or people with low income but it is also a way to see professionals coming on their own without having to negociate money with their company.&lt;/p&gt;
 
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;2&amp;gt; Content: a security &amp;amp; free software event with most of the security topics covered&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;list-items&quot;&gt;List Items&lt;/h2&gt;
+&lt;p&gt;While respecting the technical and free software DNA of the conference, we try to ensure that &lt;strong&gt;as many security disciplines as possible are represented&lt;/strong&gt; in the topics covered by the talks and workshops.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;First order list item&lt;/li&gt;
-  &lt;li&gt;Second item&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;During the first 2 Pass the SALT editions, we managed to offer many different sessions with among other topics: low level security, offensive security, secure programming, security at scale, privacy or network security.&lt;/p&gt;
 
+&lt;p&gt;We want both &lt;strong&gt;attendees and speakers to confront to different disciplines and topics of Security&lt;/strong&gt; that are not always familiar to them. This allows everyone to discover new fields of exploration and to pick innovative solutions that she/he can reuse in her/his projects or work.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3&amp;gt; For attendees: an open minded and accessible atmosphere&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Beyond the different and varied subjects, we also try to establish a climate as friendly as possible in order to maximize exchanges. During the conference, it is very rare to find a “star attitude” among our speakers. They are all free software users and/or developers and so, perfectly understand the importance of sharing with and helping people. So, we set up:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Unordered list can use asterisks&lt;/li&gt;
-  &lt;li&gt;Or minuses&lt;/li&gt;
-  &lt;li&gt;Or pluses&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;pauses:&lt;/strong&gt; during which, we do our best to &lt;strong&gt;encourage attendees to interact with speakers,&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;social event:&lt;/strong&gt; organization provides some (usually 2) free drinks and tries to encourage one more time exchanges between people :)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;4&amp;gt; For speakers: a comfortable and caring event&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;code-blocks&quot;&gt;Code Blocks&lt;/h2&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;JavaScript syntax highlighting&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Python syntax highlighting&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;No language indicated, so no syntax highlighting.
-But let's throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;mathematics&quot;&gt;Mathematics&lt;/h2&gt;
-
-&lt;p&gt;The theme comes ready with &lt;a href=&quot;https://www.mathjax.org/&quot;&gt;mathjax&lt;/a&gt; support built in, allowing for both simple inline equations like &lt;script type=&quot;math/tex&quot;&gt;ax^2 + bx + c = 0&lt;/script&gt; and much more complex mathematical expressions such as equation &lt;script type=&quot;math/tex&quot;&gt;\eqref{eq:sample}&lt;/script&gt; below.&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
-\begin{align}
-\nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t}  &amp;= \frac{4\pi}{c}\vec{\mathbf{j}} \\   
-\nabla \cdot \vec{\mathbf{E}} &amp;= 4 \pi \rho \tag{2} \label{eq:sample}\\
-\nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t}  &amp;= \vec{\mathbf{0}} \\
-\nabla \cdot \vec{\mathbf{B}}  &amp;= 0\\
-\end{align} %]]&gt;&lt;/script&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;table&quot;&gt;Table&lt;/h2&gt;
-
-&lt;h3 id=&quot;table-1-with-alignment&quot;&gt;Table 1: With Alignment&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Tables&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Are&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Cool&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;col 3 is&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;right-aligned&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;col 2 is&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;centered&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;zebra stripes&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;are neat&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;table-2-with-typography-elements&quot;&gt;Table 2: With Typography Elements&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Markdown&lt;/th&gt;
-      &lt;th&gt;Less&lt;/th&gt;
-      &lt;th&gt;Pretty&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;em&gt;Still&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;renders&lt;/code&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;nicely&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;2&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;horizontal-line&quot;&gt;Horizontal Line&lt;/h2&gt;
-
-&lt;p&gt;The HTML &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;hr&amp;gt;&lt;/code&gt; element is for creating a “thematic break” between paragraph-level elements. In markdown, you can create a &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;hr&amp;gt;&lt;/code&gt; with any of the following:&lt;/p&gt;
+&lt;p&gt;It is also very important for us that &lt;strong&gt;the speakers feel comfortable&lt;/strong&gt; for coming and attending : they usually don’t know the event (and so its attendees), the city and even sometimes the country. So we provide:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;___&lt;/code&gt;: three consecutive underscores&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;---&lt;/code&gt;: three consecutive dashes&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;***&lt;/code&gt;: three consecutive asterisks&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;a dedicated communication channel:&lt;/strong&gt; on a private mailing list we provide complete information (how to come, to find accommodations, to do their talk, to contact us, to be reimbursed etc.),&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;full contact list and fast feedback loop:&lt;/strong&gt; in order to be able to get in touch and have answers quickly from the org team,&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;speakers dinner:&lt;/strong&gt; during the event, we also set up a speakers’ dinner. The goal is to provide them yet another opportunity to get to know each other better, exchange and let ideas “pollinate” :-)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;renders to:&lt;/p&gt;
+&lt;p&gt;The goal is for all lecturers to come in confidence, get rid of most of their practical questions to be able to take advantage of the event in the most open way.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;h2 id=&quot;and-for-which-result&quot;&gt;And for which result?&lt;/h2&gt;
 
-&lt;hr /&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;media&quot;&gt;Media&lt;/h2&gt;
-
-&lt;h3 id=&quot;youtube-embedded-iframe&quot;&gt;YouTube Embedded Iframe&lt;/h3&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/n1a7o44WxNo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;image&quot;&gt;Image&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://octodex.github.com/images/minion.png&quot; alt=&quot;Minion&quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Footnote number one yeah baby! Long sentence test of footnote to see how the words are wrapping between each other. Might overflowww! &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;A footnote you can link to - &lt;a href=&quot;#&quot;&gt;click here!&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;But so, for real, have you got any results to share? Yes we have!&lt;/strong&gt; Just give a look to &lt;a href=&quot;https://www.pass-the-salt.org/achievements/&quot;&gt;our achievements page&lt;/a&gt; :-)&lt;/p&gt;
 </description>
-          <pubDate>2016-10-18T00:00:00+02:00</pubDate>
-          <link>http://localhost:4000//2016/10/18/very-long-title-post</link>
-          <guid isPermaLink="true">http://localhost:4000//2016/10/18/very-long-title-post</guid>
+          <pubDate>2017-09-13T00:00:00+02:00</pubDate>
+          <link>http://localhost:4000//2017/09/13/RMLL-Security-track-why-how-and-for-which-results</link>
+          <guid isPermaLink="true">http://localhost:4000//2017/09/13/RMLL-Security-track-why-how-and-for-which-results</guid>
         </item>
       
     
       
         <item>
-          <title>Download this Theme</title>
-          <description>&lt;p&gt;The Plain is a minimalist Jekyll theme, designed to focus on writing that really matters to you and your audience. Everything else is just a distraction. Nothing more other than useful and understandable information sharing. I have made a final update to this theme. This theme is suit best for personal blog type, but not limited to.&lt;/p&gt;
+          <title>(EN) My first Unix session was a password hijack experience</title>
+          <description>&lt;p&gt;I discovered Unix (not Linux) at college in Bordeaux, in 1989. After a first course about Unix and its concepts, our professor gave us our credentials to be able to login on our school Unix system.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Fork&lt;/em&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;em&gt;download&lt;/em&gt;&lt;/strong&gt; the theme &lt;a href=&quot;https://github.com/heiswayi/the-plain&quot;&gt;here on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This computer was a &lt;a href=&quot;https://en.wikipedia.org/wiki/HP_9000#Server_models&quot;&gt;HP 9000 server&lt;/a&gt; running a Unix OS. The “machine room” was in fact divided in two rooms. The first one was the “white room”, a restricted access area with only the big box inside aka the main server : 1,5m high and several meters long. The second room was the room dedicated to the twenty passive terminals (VT100 emulation I think) used to login on the Unix system.&lt;/p&gt;
+
+&lt;p&gt;So, with my user account and password, I sat in front of one of the terminals. I entered my user account and my password. &lt;strong&gt;Failed&lt;/strong&gt;. I just thinked that I mispelled one of them, I retried and I managed to log in. The rest of the session was successful : I was able to try the few commands I learned during my first lesson.&lt;/p&gt;
+
+&lt;p&gt;But. The day after, I was not able to log in anymore. 2nd year students were just laughing in the terminals room. I asked why. They stopped laughing, picked a terminal and introduced me to the &lt;strong&gt;.logout functionnality&lt;/strong&gt;. It is used to execute a set of commands when you leave your current session. They have customized their own .logout script in order to display a screen almost identical to the normal login screen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Yes, you see?&lt;/strong&gt; My first try to enter my credentials the day before was done on a &lt;strong&gt;faked login screen&lt;/strong&gt; ;-) The student who was connected before me got my credentials and just has to change my password. After getting my credentials, the commands executed by the .logout script ended and the student session also. So I retried to enter my credentials in front of the real login screen.&lt;/p&gt;
+
+&lt;p&gt;It was in 1989. On a Unix system. Connected to … nothing : no network available at this time on this server. And password theft was already a game :-)&lt;/p&gt;
 </description>
-          <pubDate>2015-09-09T00:00:00+02:00</pubDate>
-          <link>http://localhost:4000//2015/09/09/download-this-theme</link>
-          <guid isPermaLink="true">http://localhost:4000//2015/09/09/download-this-theme</guid>
-        </item>
-      
-    
-      
-        <item>
-          <title>Lorem Ipsum</title>
-          <description>&lt;h3 id=&quot;the-standard-lorem-ipsum-passage-used-since-the-1500s&quot;&gt;The standard Lorem Ipsum passage, used since the 1500s&lt;/h3&gt;
-
-&lt;p&gt;“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”&lt;/p&gt;
-
-&lt;h3 id=&quot;section-11032-of-de-finibus-bonorum-et-malorum-written-by-cicero-in-45-bc&quot;&gt;Section 1.10.32 of “de Finibus Bonorum et Malorum”, written by Cicero in 45 BC&lt;/h3&gt;
-
-&lt;p&gt;“Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?”&lt;/p&gt;
-
-&lt;h3 id=&quot;1914-translation-by-h-rackham&quot;&gt;1914 translation by H. Rackham&lt;/h3&gt;
-
-&lt;p&gt;“But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?”&lt;/p&gt;
-
-&lt;h3 id=&quot;section-11033-of-de-finibus-bonorum-et-malorum-written-by-cicero-in-45-bc&quot;&gt;Section 1.10.33 of “de Finibus Bonorum et Malorum”, written by Cicero in 45 BC&lt;/h3&gt;
-
-&lt;p&gt;“At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.”&lt;/p&gt;
-
-&lt;h3 id=&quot;1914-translation-by-h-rackham-1&quot;&gt;1914 translation by H. Rackham&lt;/h3&gt;
-
-&lt;p&gt;“On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.”&lt;/p&gt;
-</description>
-          <pubDate>2015-09-06T00:00:00+02:00</pubDate>
-          <link>http://localhost:4000//2015/09/06/lorem-ipsum</link>
-          <guid isPermaLink="true">http://localhost:4000//2015/09/06/lorem-ipsum</guid>
+          <pubDate>2015-01-28T00:00:00+01:00</pubDate>
+          <link>http://localhost:4000//2015/01/28/my-first-Unix-session-was-a-password-hijack-experience</link>
+          <guid isPermaLink="true">http://localhost:4000//2015/01/28/my-first-Unix-session-was-a-password-hijack-experience</guid>
         </item>
       
     
@@ -297,6 +163,716 @@ Je souris ;-)&lt;/p&gt;
           <pubDate>2012-12-18T00:00:00+01:00</pubDate>
           <link>http://localhost:4000//2012/12/18/F.,-10-ans,-decouvre-le-web,-wikipedia-et-un-peu-plus</link>
           <guid isPermaLink="true">http://localhost:4000//2012/12/18/F.,-10-ans,-decouvre-le-web,-wikipedia-et-un-peu-plus</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>(FR) Article MISC mai 2007 - Mon serveur DNS, mon IDS oublié</title>
+          <description>&lt;p&gt;Cet article est issu de l’article publié dans le numéro de &lt;strong&gt;MISC n°31 de Mai 2007&lt;/strong&gt;. J’en suis l’auteur (christophe.brocas@free.fr). Tous droits réservés à MISC.&lt;/p&gt;
+
+&lt;p&gt;Je le poste ici car l’idée d’utiliser son serveur DNS semble être dans l’actualité du monde de la détection d’intrusions.&lt;/p&gt;
+
+&lt;h1 id=&quot;mon-serveur-dns-mon-ids-préféré&quot;&gt;Mon serveur DNS, mon IDS préféré&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Christophe Brocas, christophe.brocas@free.fr&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Le Système d’Information (SI) des entreprises est un capital de ressources à protéger des attaques et, si une attaque réussit, la compromission et les évasions de données doivent être détectées le plus tôt possible. Pour détecter des postes compromis sur le réseau de l’entreprise, des solutions complexes et onéreuses sont souvent proposées aux Directeurs Informatiques (DSI) mais le plus souvent, peu de solutions de détection anti-intrusions sont effectivement en place. Or, la bonne compréhension à la fois de son architecture et du comportement des codes malicieux présents sur les postes compromis permet de proposer une première réponse élégante, peu couteuse et efficiente à cette problématique.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-introduction&quot;&gt;1. Introduction&lt;/h2&gt;
+
+&lt;h3 id=&quot;11-compromission-de-postes--une-détection-quelle-détection-&quot;&gt;1.1 Compromission de postes : une détection, quelle détection ?&lt;/h3&gt;
+
+&lt;p&gt;Afin de sécuriser son SI, une entreprise doit déployer une interconnexion applicative filtrée par des proxies et des serveurs dédiées (exemples : filtrage http/smtp, relais dns) afin de pouvoir fixer des règles de sécurité consistantes.&lt;/p&gt;
+
+&lt;p&gt;Cependant, une fois cette architecture déployée, la majorité des entreprises ne semble pas se préoccuper des tentatives de contournement/d’accès direct à l’extérieur depuis un poste du LAN compromis. Elles se reposent généralement sur les différentes alertes que peuvent remonter les solutions d’antivirus postes et serveurs.&lt;/p&gt;
+
+&lt;p&gt;Or, si les protections amont de filtrages des flux HTTP/SMTP sont utiles, la détection des postes compromis est nécessaire tant sur le plan de l’intégrité des données de son SI que sur le plan de la responsabilité de l’entreprise qui pourrait ainsi fournir, par exemple, une base à des réseaux de postes zombies.&lt;/p&gt;
+
+&lt;h3 id=&quot;12-avoir-un-ids-sans-le-savoir&quot;&gt;1.2 Avoir un IDS sans le savoir&lt;/h3&gt;
+
+&lt;p&gt;La solution ? L’analyse des serveurs applicatifs est un moyen simple de connaître les compromissions potentielles dans son LAN. Les logs du serveur DNS et, dans une moindre mesure, ceux du pare-feu sont des sources de données disponibles pour effectuer cette veille anti-intrusion.&lt;/p&gt;
+
+&lt;p&gt;Concentrons-nous sur le DNS : comment diable un serveur DNS peut-il nous révéler les intrusions déjà effectuées sur son réseau ? Et les réponses sont :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;comprendre le comportement des différents types de codes malicieux présents sur les postes compromis ;&lt;/li&gt;
+  &lt;li&gt;en déduire les types de requêtes DNS pouvant être émis par ces codes ;&lt;/li&gt;
+  &lt;li&gt;en fonction de ces profils, analyser les logs du serveur DNS et isoler les postes susceptibles d’être compromis.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2-architecture-à-base-de-proxies-et-de-relais--un-pré-requis-nécessaire&quot;&gt;2. Architecture à base de proxies et de relais : un pré-requis nécessaire&lt;/h2&gt;
+
+&lt;p&gt;Mais, attention, dans les logs d’un serveur DNS, rien ne distingue une requête émise par un poste de celle émise par un autre. Le seul moyen de stigmatiser une requête émise par un poste en particulier est de pouvoir définir le comportement normal d’un poste en termes de requêtes DNS. Et ce, par rapport à celui, différent, des serveurs de type proxies ou relais.&lt;/p&gt;
+
+&lt;h3 id=&quot;21-flux-vers-linternet--authentication-required-&quot;&gt;2.1 Flux vers l’Internet : “authentication required” !&lt;/h3&gt;
+
+&lt;p&gt;Les flux émis vers l’Internet depuis un poste de travail sont nombreux :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;émis consciemment par l’utilisateur : envoi d’email, navigation sur le web ou téléchargement de fichiers etc ;&lt;/li&gt;
+  &lt;li&gt;mais aussi émis de manière invisible pour l’utilisateur : mise à jour du système d’exploitation, rapatriement de mises à jour antivirales etc .&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Et je ne parle que des flux légitimes !&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Figure 1 :&lt;/strong&gt; architecture proxies et serveurs relais&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Et pour être reconnus comme légitimes, l’ensemble de ces flux doivent être soumis à habilitation. Pour cela, il faut que ces flux soient reroutés de manière systématique vers des équipements de filtrage nécessitant une habilitation, à savoir les proxies ou serveur relais. Habilitation que devra renseigner l’utilisateur pour chaque type de flux.&lt;/p&gt;
+
+&lt;h3 id=&quot;22-proxies-et-relais-uniques-émetteurs-de-requêtes-dns-vers-internet&quot;&gt;2.2 Proxies et relais, uniques émetteurs de requêtes DNS vers Internet&lt;/h3&gt;
+
+&lt;p&gt;Les machines proxies ou relais se doivent, pour être utilisées, d’exiger de l’utilisateur une authentification. Cela se traduit par des demandes d’identification HTTP par le proxy HTTP ou l’utilisation de SMTP AUTH pour l’envoi de mail via le serveur SMTP de votre entreprise. Les flux émis par les postes vers Internet sont alors authentifiés, donc moins sujet à être vecteur d’attaques.&lt;/p&gt;
+
+&lt;p&gt;Figure 2 : étapes d’une requête HTTP&lt;/p&gt;
+
+&lt;p&gt;Le gain de cette architecture en termes de détection d’intrusion ? Tout le trafic émis par les postes à destination de l’Internet est dans un premier temps redirigé vers ces machines intermédiaires. Les requêtes DNS de résolution de domaines internet ne sont alors plus émises que par ces équipements proxies et relais :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;En effet, afin de pouvoir router, par exemple, les requêtes HTTP vers google.fr émises par un poste (point 1 sur la figure 2) ;&lt;/li&gt;
+  &lt;li&gt;Le proxy de l’entreprise demande une résolution DNS de type A sur le domaine google.fr (point 2) pour le compte de ce poste ;&lt;/li&gt;
+  &lt;li&gt;La requête peut ensuite être émise vers le serveur HTTP cible (point 3).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;NB : Il en est de même pour les envois de mails où le serveur SMTP joue le rôle du proxy HTTP.&lt;/p&gt;
+
+&lt;p&gt;Comme vous pouvez le voir, grâce à cette architecture centralisée et maîtrisée, les logs de votre serveur DNS deviennent de manière mécanique des sources fiables de données de détection d’intrusion : toute demande de résolution DNS d’un domaine internet émise par un poste lambda peut être considérée comme une alerte d’une compromission potentielle.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-configuration-du-serveur-dns-bind&quot;&gt;3. Configuration du serveur DNS Bind&lt;/h2&gt;
+
+&lt;h3 id=&quot;31-configuration-par-défaut--état-des-lieux&quot;&gt;3.1 Configuration par défaut : état des lieux&lt;/h3&gt;
+
+&lt;p&gt;Les configurations figurant dans cet article décrivent la configuration d’un serveur DNS Bind et ont été testées avec un serveur Bind en version stable 9.3.2 sous Ubuntu 6.06.&lt;/p&gt;
+
+&lt;p&gt;La configuration par défaut d’un serveur DNS Bind ne collecte pas dans ses fichiers de logs les requêtes émises par les clients DNS. En effet, ces requêtes peuvent générer beaucoup d’écritures dans ces fichiers dont la taille peut donc augmenter rapidement. Nous allons donc utiliser la gestion automatique des fichiers de logs fournie par Bind, gestion améliorée depuis la version 9.3 par la gestion d’une taille maximale de fichiers de logs. Une présentation des options de logging de Bind a été faite dans un article précédent de MISC.&lt;/p&gt;
+
+&lt;h3 id=&quot;32-collecte-des-requêtes-clientes-dans-les-logs-de-bind&quot;&gt;3.2 Collecte des requêtes clientes dans les logs de Bind&lt;/h3&gt;
+
+&lt;p&gt;Voici un exemple de définition d’un channel permettant de collecter les requêtes émises par les clients :&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Declenchement du log des requetes au demarrage de Bind
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;querylog&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# paragraphe definissant le logging
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;logging&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+   &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Parametrage&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;du&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;canal&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;des&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;requetes&lt;/span&gt;
+   &lt;span class=&quot;n&quot;&gt;channel&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;querieslogs&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+       &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Envoi&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;vers&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;le&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;fichier&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;queries&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;log&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;avec&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;roulement&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;de&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;archives&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;de&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Mo&lt;/span&gt;
+              &lt;span class=&quot;nb&quot;&gt;file&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;queries.log&quot;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;versions&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;size&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+       &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Affiche&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;la&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;date&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;du&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;message&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dans&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;les&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;logs&lt;/span&gt;
+              &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;time&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;yes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+       &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Affiche&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;le&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;nom&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;de&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;la&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;categorie&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;du&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;message&lt;/span&gt;
+              &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;category&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;yes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+   &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Envoi&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;des&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;requetes&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dans&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;notre&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;canal&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;querieslogs&lt;/span&gt;
+       &lt;span class=&quot;n&quot;&gt;category&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;queries&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;querieslogs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Des fichiers de configuration complets pour chaque type de serveur (cache interne, cache internet, maitre interne et maitre internet avec des sections de logs complètes sont disponibles sur le site de MISC. De plus, vous trouverez la documentation exhaustive des options de log de Bind en ligne sur le site du logiciel.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-que-chercher-dans-les-logs-&quot;&gt;4. Que chercher dans les logs ?&lt;/h2&gt;
+
+&lt;h3 id=&quot;41-topologie-du-comportement-réseaux-des-codes-malicieux&quot;&gt;4.1 Topologie du comportement réseaux des codes malicieux&lt;/h3&gt;
+
+&lt;p&gt;Un poste de travail compromis par un code malicieux a pour vocation de devenir une source d’informations émises à destination de serveurs externes, ou une source d’attaques pouvant être pilôtées ou pas depuis Internet. Dans les deux cas, une communication vers des serveurs externes tentera d’être initiée. Ces serveurs peuvent être des cibles d’attaques (spams, dénis de services distribuées), des serveurs de contrôle fournissant des instructions aux codes malicieux distribuées ou bien des serveurs de collecte d’informations usurpées à l’utilisateur du poste.&lt;/p&gt;
+
+&lt;h3 id=&quot;42-requêtes-dns-émises-par-des-codes-malicieux&quot;&gt;4.2 Requêtes DNS émises par des codes malicieux&lt;/h3&gt;
+
+&lt;p&gt;Ils existent deux grands types de requêtes :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;les requêtes de type MX qui sont émises par les moteurs d’envoi de spams et de virus qui sont lancés sur les postes une fois compromis. De même, ces requêtes servent à ces codes malicieux pour se propager via email. Ce type de requête fournit le nom et l’adresse IP du(des) serveur(s) SMTP réceptionnant pour le domaine passé en paramètre ;&lt;/li&gt;
+  &lt;li&gt;les requêtes de type A représentent la majeure partie des requêtes restantes. Ces requêtes peuvent alors correspondre à des demandes de résolution de noms de futures cibles, de serveurs de téléchargement de nouveaux codes malicieux (ou de mises à jour) ou encore de sites fournissant des ordres aux codes malicieux(serveurs IRC par exemple) .&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pour les requêtes MX, on peut en avoir la trace pas plus loin que dans sa messagerie. Exemple d’entête de spam dans la BAL de votre serviteur :&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;Received&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;200.253.154.11&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;HELO&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;com&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;200.253.154.11&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;by&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;mrelay5&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;1.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;free&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;fr&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SMTP&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;14&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Dec&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2006&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;19&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;44&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;31&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0000&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;Message&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ID&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;01&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;c71fb7&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;588313&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d0&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0200&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a8c0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;servidor&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;Reply&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;To&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Kalpana Lo&quot;&lt;/span&gt; 
+&lt;span class=&quot;n&quot;&gt;From&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Kalpana Lo&quot;&lt;/span&gt; 
+&lt;span class=&quot;n&quot;&gt;To&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Charles Chickering&quot;&lt;/span&gt; 
+&lt;span class=&quot;n&quot;&gt;Subject&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Re&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;On y voit un mail émis directement depuis un poste sur l’Internet vers le serveur MX de l’hébergeur de ma BAL. Cette émission a donc fait l’objet d’une demande de résolution MX pour le domaine free.fr sur le serveur DNS du poste internet.&lt;/p&gt;
+
+&lt;h2 id=&quot;5-exploitation-des-logs-dns&quot;&gt;5. Exploitation des logs DNS&lt;/h2&gt;
+
+&lt;h3 id=&quot;51-extraction-des-données&quot;&gt;5.1 Extraction des données&lt;/h3&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;egrep &lt;span class=&quot;nt&quot;&gt;-v&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;@IP1|@IP2&quot;&lt;/span&gt; /var/log/queries.1og | egrep &lt;span class=&quot;nt&quot;&gt;-v&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; mondomaine.fr
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;La ligne de commandes précédente permet :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;d’isoler l’ensemble des requêtes émises par les postes de travail (premier grep) ;&lt;/li&gt;
+  &lt;li&gt;demandant une requête sur un domaine différent du domaine de l’entreprise ici nommé mondomaine.fr (second grep).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Les données produites par cette commande correspondent à une liste d’adresses IP ayant un comportement DNS anormal selon les critères décrit dans le chapitre 4 :&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;...]
+22-Jan-2007 22:55:24.978 queries: client 192.168.0.190#32788: query: google.fr IN A +
+22-Jan-2007 22:55:49.228 queries: client 192.168.0.190#32788: query: hotmail.com IN MX +
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;...]
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;On voit dans l’exemple ci-dessus un poste interne d’adresse IP 192.168.0.190 demander au DNS l’adresse IP de google.fr ainsi que celle du serveur SMTP gérant le domaine hotmail.com. Or, ces deux requêtes ne devraient jamais être émises par un poste du LAN car elles portent sur un domaine différent de celui de l’entreprise.&lt;/p&gt;
+
+&lt;p&gt;En effet, ces deux requêtes DNS devraient avoir été émises respectivement par le proxy HTTP et par le relais de messagerie de l’entreprise. Ces deux machines ayant auparavant demandé son habilitation HTTP ou l’utilisateur de messagerie à l’utilisateur du poste.&lt;/p&gt;
+
+&lt;p&gt;NB : On peut bien entendu spécialiser cette ligne de commandes pour obtenir soit les requêtes de type MX soit les requêtes de type A.&lt;/p&gt;
+
+&lt;h3 id=&quot;52-faux-positifs--explications-et-actions-correctrices&quot;&gt;5.2 Faux positifs ? Explications et actions correctrices&lt;/h3&gt;
+
+&lt;p&gt;Nous avons décrit dans le chapitre 2 un pré-requis ambitieux qui était que toutes les communications ou tentatives de communication vers Internet émises par les postes de travail passaient par un proxy ou une machine relais. Or, la première analyse que vous allez mener sur les données extraites des logs de votre serveur DNS risque fort de plus vous mettre sur la trace de postes lançant des Windows Update que sur celle de postes zombies (du moins je l’espère pour votre LAN ;-) ).&lt;/p&gt;
+
+&lt;p&gt;Vos premières actions vont donc être de travailler sur ces mécanismes légitimes s’exécutant sur vos postes et émettant des requêtes vers l’Internet :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;de forcer le passage par proxy des actions qui le peuvent ;&lt;/li&gt;
+  &lt;li&gt;d’inactiver les mécanismes s’exécutant mais finalement ne le devant pas ;&lt;/li&gt;
+  &lt;li&gt;de noter les mécanismes devant absolument exécuter des connexions externes directes afin de les exclure des remontées des logs DNS. Notez bien que ce type de connexion devrait être rarissime car étant anormales en termes de politique de sécurité.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;53-gestion-des-alarmes&quot;&gt;5.3 Gestion des alarmes&lt;/h3&gt;
+
+&lt;p&gt;La liste des adresses IP ainsi remontées par la scrutation du fichier queries.log permet aux administrateurs des postes et au responsable sécurité de déclencher les actions appropriées.&lt;/p&gt;
+
+&lt;p&gt;Parmi elles, on peut lister les quelques actions suivantes :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;mise hors réseau du poste incriminé ;&lt;/li&gt;
+  &lt;li&gt;recherche du code malicieux ;&lt;/li&gt;
+  &lt;li&gt;recherche de l’explication de la compromission : manque de suivi des mises à jour antivirales, mise en ligne du poste directement sur le net (ex: à domicile), contournement de la politique de sécurité etc ;&lt;/li&gt;
+  &lt;li&gt;remasterisation du poste avec restauration des données sauvegardées à une date antérieure à la compromission si la date est identifiée ;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;6-limites-et-pistes-daméliorations&quot;&gt;6. Limites et pistes d’améliorations&lt;/h2&gt;
+
+&lt;h3 id=&quot;61-limites&quot;&gt;6.1 Limites&lt;/h3&gt;
+
+&lt;p&gt;Le processus de recherche de postes compromis que nous venons de décrire possède des limites liées au fait que nous travaillons sur le serveur DNS.&lt;/p&gt;
+
+&lt;p&gt;Les limites majeures viennent du fait que l’on suppose que le code malicieux n’utilisera pas de données d’authentification dérobées à l’utilisateur du poste. Ainsi, l’émission de mails en SMTP authentifié à travers le relais SMTP de l’entreprise. Idem pour l’utilisation du proxy HTTP de l’entreprise pour attaquer un site extérieur ou récupérer des ordres d’un serveur de synchronisation.&lt;/p&gt;
+
+&lt;p&gt;La remarque que l’on peut faire est que la majorité des codes malicieux sont conçus pour travailler sur des architectures ouvertes (DNS/SMTP/HTTP ouverts vers l’extérieur).&lt;/p&gt;
+
+&lt;h3 id=&quot;62-pistes-damélioration&quot;&gt;6.2 Pistes d’amélioration&lt;/h3&gt;
+
+&lt;p&gt;Elles sont de deux ordres : exploitabilité de la solution et consolidation des données DNS avec les tentatives d’accès direct à l’extérieur par adresses IP.&lt;/p&gt;
+
+&lt;p&gt;L’exploitabilité de cette solution serait de travailler sur l’enchainement des opérations de recherche dans les fichiers de logs, cyclage, compression et suppression de ces fichiers.&lt;/p&gt;
+
+&lt;p&gt;Pour ce qui est de la consolidation, il faudrait déclencher de telles recherches sur les rejets du Firewall concernant des requêtes en provenance de postes en plan d’adressage interne (ex: 10.0.0.0/8) à destination d’adresses externes (vers l’internet donc).&lt;/p&gt;
+
+&lt;h2 id=&quot;7-conclusion&quot;&gt;7. Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Comme nous venons de le voir, une architecture qui permet de bien maîtriser les flux de données couplée à une analyse des logs de son (ses) serveur(s) DNS permet de disposer d’une sonde de détection de postes compromis. Cette solution a l’avantage d’être légère, non structurante et … ne coûte rien ! Cela n’empêche en aucun cas le RSSI ou le DSI de doter l’entreprise de solutions plus complète (et complexe), intrusive et chère.&lt;/p&gt;
+</description>
+          <pubDate>2009-05-28T00:00:00+02:00</pubDate>
+          <link>http://localhost:4000//2009/05/28/Mon-serveur-DNS,-mon-IDS-oubli%C3%A9</link>
+          <guid isPermaLink="true">http://localhost:4000//2009/05/28/Mon-serveur-DNS,-mon-IDS-oubli%C3%A9</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>(FR) Article MISC janvier 2006 - De la sécurité d'une architecture DNS d'entreprise</title>
+          <description>&lt;h1 id=&quot;de-la-sécurité-dune-architecture-dns-dentreprise&quot;&gt;De la sécurité d’une architecture DNS d’entreprise&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Cet article est issu de l’article publié dans le numéro 23 de MISC. Ses auteurs sont Christophe Brocas (christophe.brocas@free.fr) et Jean-Michel Farin (jeanmichel.farin@free.fr). Tous droits réservés à MISC.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Ces dix dernières années, les entreprises ont vu une interconnexion toujours croissante de leurs systèmes d’informations (SI), entre eux ainsi qu’avec l’internet. Cette interconnexion s’est accompagnée d’une adoption massive de protocoles standards. Parmi ces protocoles, le DNS (Domain Name Service) affiche la double caractéristique d’être le plus systématiquement utilisé et sûrement le moins correctement surveillé.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-introduction&quot;&gt;1. Introduction&lt;/h2&gt;
+&lt;p&gt;Le DNS est souvent vu comme un protocole utilitaire au fonctionnement opaque. Et à la vue de son caractère primordial pour le bon fonctionnement des protocoles applicatifs tels SMTP ou HTTP, les portes de ce protocole sont souvent laissées grandes ouvertes tout au long de la chaîne de liaison du SI (postes, serveurs, routeurs etc).&lt;/p&gt;
+
+&lt;p&gt;Nous verrons dans cet article comment sécuriser ce protocole et en particulier son implémentation dans un réseau d’entreprise. Les exemples de configuration reposeront sur le logiciel Bind, version 9.1.x et suivantes &lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;11-terminologie&quot;&gt;1.1 Terminologie&lt;/h3&gt;
+&lt;p&gt;Avant de plonger dans le DNS, accordons nous sur les termes utilisés dans ce document :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;resolver : logiciel client DNS sollicité par les applications sur les postes clients afin d’obtenir une résolution ;&lt;/li&gt;
+  &lt;li&gt;serveur cache : serveur sollicité par les resolvers ou par d’autres serveurs cache. Ce type de serveur assure la fonction de récupération d’informations auprès de serveurs de noms ou d’autres serveurs cache. Il stocke les informations collectées dans son cache. Ce serveur ne gérant aucune zone DNS, le type de recherche supportée est récursif ;&lt;/li&gt;
+  &lt;li&gt;serveur SOA : serveur de noms faisant autorité répondant aux requêtes pour une (ou plusieurs) zone(s). Ce serveur n’ayant pour mission que de répondre à des requêtes sur un ou plusieurs domaines, dans notre configuration, nous n’autorisons aucune récursion.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;12-les-vulnérabilités-dns&quot;&gt;1.2 Les vulnérabilités DNS&lt;/h3&gt;
+&lt;p&gt;À présent, regardons les différents types de menaces pouvant toucher le DNS :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;la fuite d’informations via des canaux cachés ;&lt;/li&gt;
+  &lt;li&gt;la corruption de résolution DNS permettant d’abuser les utilisateurs du système, d’informations et de leur dérober des informations sensibles ;&lt;/li&gt;
+  &lt;li&gt;le déni de services par l’acceptation de requêtes illégales ou par corruption de données dans les zones hébergées par les serveurs DNS internes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;La fuite d’informations&lt;/strong&gt;
+La fuite d’informations par tunnel DNS a été couverte de manière complète dans les pages de MISC &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Les contre-mesures pour lutter contre ce type d’évasion se concentreront autour de la politique d’accès au service DNS ainsi qu’aux requêtes autorisées en fonction du type de client. La mise en oeuvre de cette politique sera décrite dans le paragraphe “ Configuration du serveur DNS cache interne “.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Corruption de résolution&lt;/strong&gt;
+Ce type d’attaque a pour but de corrompre les données DNS fournies au client afin de, par exemple, le diriger à son insu vers des sites différents de ceux visés. Et ainsi, de lui dérober tout type d’informations sensibles.
+Ce type d’attaque peut être réalisé par :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;compromission du processus de résolution ;&lt;/li&gt;
+  &lt;li&gt;modification du trafic DNS ;&lt;/li&gt;
+  &lt;li&gt;ou compromission des données dans le cache d’un serveurs de noms.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Les réponses que cet article amènera viseront à :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;sécuriser le processus de résolution et en maîtriser les possibilités de modification ;&lt;/li&gt;
+  &lt;li&gt;limiter au strict minimum l’usage des requêtes récursives ;&lt;/li&gt;
+  &lt;li&gt;s’assurer de l’intégrité des transactions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Le déni de services&lt;/strong&gt;
+Le déni de services distribué est une menace commune à tous les protocoles TCP/IP implémentés sur les serveurs accessibles de l’internet. En dehors des mesures de protections réseau (IPS) ou de répartition de charges, peu de réponses spécifiques à la configuration DNS peuvent être appliquées. Cependant, les mesures suivantes permettent limiter l’impact et l’implication des serveurs dns dans ces attaques :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;restriction des transferts de zone ;&lt;/li&gt;
+  &lt;li&gt;interdiction de toute récursion ;&lt;/li&gt;
+  &lt;li&gt;contrôle des requêtes simples ;&lt;/li&gt;
+  &lt;li&gt;restriction des notifications.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2-architecture&quot;&gt;2. Architecture&lt;/h2&gt;
+
+&lt;p&gt;Pour maitriser au mieux le DNS et son utilisation, nous fixons les règles suivantes :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aucune machine du réseau interne ne peut accèder à l’internet. Elles utilisent toutes un proxy HTTP pour le web ou un relais SMTP pour la messagerie;&lt;/li&gt;
+  &lt;li&gt;Aucune machine ne peut donc résoudre autre chose que le domaine mondomaine.fr.
+Cela permet d’être sûr de pouvoir déployer une politique de sécurité maitrisable.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;21-les-serveurs-dns-et-leur-rôle&quot;&gt;2.1 Les serveurs DNS et leur rôle&lt;/h3&gt;
+&lt;p&gt;La base pour fixer une politique de résolution est donc de définir un périmètre et des règles d’accès :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Un serveur DNS cache interne assure la résolution de tout type de requête issue d’une machine du réseau interne ;&lt;/li&gt;
+  &lt;li&gt;Un serveur DNS SOA assure la gestion du domaine de l’entreprise pour le réseau interne de l’entreprise. Ce serveur ne peut être sollicité que par le serveur de résolution ;&lt;/li&gt;
+  &lt;li&gt;Un serveur DNS cache en DMZ assure la résolution des requêtes sur les noms internet issues du serveur DNS cache interne ;&lt;/li&gt;
+  &lt;li&gt;Un serveur DNS SOA externe assure la gestion du domaine de l’entreprise pour les macines de l’internet. Ce serveur sera sollicitable par toute machine sur l’internet.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/articles/archi-dns/archi.png&quot; alt=&quot;archi dns&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;22-résolution-dune-requête-interne-du-domaine-ou-dun-sous-domaine-de-lentreprise&quot;&gt;2.2 Résolution d’une requête interne du domaine ou d’un sous-domaine de l’entreprise&lt;/h3&gt;
+&lt;p&gt;Tout d’abord, le resolver envoie sa requête au serveur DNS référencé dans sa configuration. Ce serveur est un DNS cache qui vérifie que le resolver est habilité à demander des résolutions pour le domaine ou sous-domaine demandé via la mise en place d’ACL sur adresses IP (directive &lt;code class=&quot;highlighter-rouge&quot;&gt;acl&lt;/code&gt;) et de vues (directive &lt;code class=&quot;highlighter-rouge&quot;&gt;view&lt;/code&gt;). Le DNS cache ne contient aucune zone mais sait trouver le serveur maître de la zone interrogée (directive &lt;code class=&quot;highlighter-rouge&quot;&gt;forwarders&lt;/code&gt;). Nous utilisons les fonctionnalités de retransmission sélective pour ce type de résolution (définition de zones de type forward et non maître ou esclave). Afin de préserver les serveurs maîtres au mieux des attaques, ceux-ci sont placés dans des DMZ et seuls les serveurs cache sont autorisés à y accéder.&lt;/p&gt;
+
+&lt;h3 id=&quot;23-résolution-dune-requête-interne-dun-domaine-internet&quot;&gt;2.3 Résolution d’une requête interne d’un domaine Internet&lt;/h3&gt;
+&lt;p&gt;Le resolver interroge le serveur cache référencé. Le serveur cache vérifie que le resolver est habilité à résoudre les domaines inconnus (donc Internet). Le domaine interrogé n’étant pas connu par le serveur cache comme zone faisant l’objet d’une retransmission sélective, le serveur cache retransmet la requête au serveur cache délégué aux résolutions externes que nous avons pris soin de positionner dans une DMZ. Ici aussi, seuls les serveurs cache sont autorisés à y accéder.&lt;/p&gt;
+
+&lt;p&gt;En cas d’attaque (via une hypothétique mauvaise implémentation du contrôle d’état UDP sur notre pare-feu par exemple!), l’attaquant n’accédera qu’à un serveur en DMZ uniquement capable de résoudre des requêtes vers Internet.&lt;/p&gt;
+
+&lt;h3 id=&quot;24-résolution-dune-requête-externe-du-domaine-de-lentreprise&quot;&gt;2.4 Résolution d’une requête externe du domaine de l’entreprise&lt;/h3&gt;
+&lt;p&gt;Dans ce cas, les requêtes proveniennent d’Internet vers un serveur que nous hébergeons. Bien entendu ce serveur est en DMZ. Étant donné le peu de sûreté que constitue Internet, il ne nous semble pas utile de mettre en place des habilitations pour les résolutions. Nous restreignons les données de notre domaine au strict minimum pour Internet. Le resolver trouve alors sa réponse dans le DNS que nous lui proposons, la requête ne doit jamais entrer dans l’entreprise.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-serveur-dns-cache-interne&quot;&gt;3. Serveur DNS cache interne&lt;/h2&gt;
+&lt;h3 id=&quot;31-attention-au-poste-de-travail&quot;&gt;3.1 Attention au poste de travail !&lt;/h3&gt;
+&lt;p&gt;Comme nous le disions en introduction, la corruption de données de résolution est le problème majeur du DNS.&lt;/p&gt;
+
+&lt;p&gt;Et bien, la première attaque DNS est d’éviter toute requête DNS ! En effet, la résolution de noms dans les systèmes d’exploitation modernes impliquent des composants autres que les serveurs DNS.&lt;/p&gt;
+
+&lt;p&gt;Par exemple sous un système Microsoft Windows, le processus de résolution suit les étapes suivantes :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;vérification si on demande la résolution du propre nom de la machine ;&lt;/li&gt;
+  &lt;li&gt;présence du nom dans le fichier hosts (%Systemroot%\System32\Drives\Etc\hosts) ;&lt;/li&gt;
+  &lt;li&gt;DNS ;&lt;/li&gt;
+  &lt;li&gt;WINS ;&lt;/li&gt;
+  &lt;li&gt;broadcast réseaux ;&lt;/li&gt;
+  &lt;li&gt;LMHOSTS.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ainsi, si vous modifier le contenu du fichier hosts, la chaîne de résolution DNS est corrompue. Toute la politique de sécurité DNS est déjà réduite à néant !&lt;/p&gt;
+
+&lt;p&gt;Cette méthode est utilisée par exemple par les vers de la lignée MYTOB &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; qui font ainsi pointer des sites de type symantec.com ou update.symantec.com vers 127.0.0.1 et empêcher ainsi toute mise à jour de l’antivirus.&lt;/p&gt;
+
+&lt;p&gt;La solution est donc de s’assurer que les utilisateurs n’ont pas les droits administrateur et donc ne peuvent exécuter de processus pouvant modifier le fichier hosts. Idem pour ce qui est de l’accès aux paramètres DNS.&lt;/p&gt;
+
+&lt;h3 id=&quot;32-configuration-du-serveur-dns-cache-interne&quot;&gt;3.2 Configuration du serveur DNS cache interne&lt;/h3&gt;
+&lt;p&gt;Une fois que le poste client nous semble correctement configuré, voyons la configuration du serveur de cache interne. Dans notre exemple, les machines du réseau interne sont dans le réseau 10.1.0.0/16 et le serveur cache interne a l’adresse 10.1.255.4.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Les vues sous Bind&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Nos besoins nous conduiront dans le paragraphe suivant à vouloir faire varier les résultats des requêtes en fonction du type de client (ici PC normaux et machines proxies/pivots). Or, Bind nous donne le moyen de réaliser cela : les vues. Une vue est une configuration de Bind pour répondre à certains clients certains résultats grâce aux instructions suivantes :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;acl : permet de définir sous un nom un jeu de clients (adresses IP);&lt;/li&gt;
+  &lt;li&gt;view : définit une configuration complète pour un type de client;&lt;/li&gt;
+  &lt;li&gt;match-clients : instruction indiquant les clients à qui s’adressent une vue.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/articles/archi-dns/vues.png&quot; alt=&quot;Vues&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Au chapitre 2, nous avons défini différents types de clients au sein du réseau interne (machines standards et machines passerelles). Ces différents types de clients vont se traduire par 2 ACLs différentes :&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NB:&lt;/strong&gt; tous les fichiers de configuration sont disponibles sur le site &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;language-apache highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; ENTETE DU FICHIER NAMED.CONF du DNS CACHE INTERNE
+&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; Definition des différents types de clients
+
+&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; les proxies
+acl &quot;passerelles&quot; { 10.1.255.3/32; };
+&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; les machines du reseau interne de l'entreprise
+acl &quot;reseaulocal&quot; { 10.1.0.0/16; };
+&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; le DNS cache en DMZ
+acl &quot;dns-cache-internet&quot; { 10.255.1.4/32; };
+&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; le DNS soa interne
+acl &quot;dns-soa&quot; { 10.255.2.4/32; };
+
+&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; localisation des fichiers de configuration
+&lt;span class=&quot;nc&quot;&gt;options&lt;/span&gt; { directory &quot;/var/named&quot;; 
+version &quot;unavailable&quot;; };
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;À ces 2 types de clients vont correspondre 2 types de vues qui fourniront 2 types de résolution . Voici la vue fournie aux clients de type proxies ou passerelles.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// Suite &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;FICHIER NAMED.CONF &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;DNS CACHE INTERNE
+// vue s adressant aux proxies
+view &lt;span class=&quot;s2&quot;&gt;&quot;passerelles&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; 
+    // machines a qui s&lt;span class=&quot;s1&quot;&gt;'adressent cette vue. Ici les proxies de l'&lt;/span&gt;entreprise.
+    match-clients &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;passerelles&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+    // en cas de requete faite sur un domaine non géré par ce serveur,
+    // envoi des requêtes sur le DNS cache internet
+    forward only&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;        
+    forwarders &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; 10.255.1.4&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+    // requete sur le mondomaine.fr :
+    // redirection de la requete vers le DNS SOA interne
+    zone &lt;span class=&quot;s2&quot;&gt;&quot;mondomaine.fr&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+	  &lt;span class=&quot;nb&quot;&gt;type &lt;/span&gt;forward&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	  forwarders &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; 10.255.2.4&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+          forward only&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+    // redirection identique pour les requetes sur la zone reverse
+    zone &lt;span class=&quot;s2&quot;&gt;&quot;10.in-addr.arpa&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+	  &lt;span class=&quot;nb&quot;&gt;type &lt;/span&gt;forward&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	  forwarders &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; 10.255.2.4&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+      forward only&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/articles/archi-dns/resolution-dns-proxy.png&quot; alt=&quot;Resolution proxy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Les passerelles peuvent effectuer tout type de requête. Ces requêtes seront satisfaites de la maniêre suivante :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;requête sur le domaine mondomaine.fr : envoi d’une requête auprès du serveur maître interne (IP : 10.255.2.4) ;&lt;/li&gt;
+  &lt;li&gt;requête sur tout autre domaine : envoi vers le serveur cache en DMZ (adresse IP 10.255.1.4).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Voici ensuite la vue pour les postes lambda du réseau local :&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// Fin &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;FICHIER NAMED.CONF &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;DNS CACHE INTERNE
+// vue s adressant aux PC &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;reseau interne de l entreprise
+view &lt;span class=&quot;s2&quot;&gt;&quot;reseaulocal&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        // Machines a qui s&lt;span class=&quot;s1&quot;&gt;'adressent cette vue. 
+        // Ici, les machines lambda (PC) du reseau interne.
+	match-clients { &quot;reseaulocal&quot;; };
+      
+        // requete sur le mondomaine.fr :
+        // redirection de la requete vers le DNS SOA interne
+	zone &quot;mondomaine.fr&quot; {
+		type forward;
+		forwarders { 10.255.2.4; };
+                forward only;
+	};
+    
+        // redirection identique pour les requetes sur la zone reverse
+	zone &quot;10.in-addr.arpa&quot; {
+		type forward;
+		forwarders { 10.255.2.4; };
+                forward only;
+	};
+};
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Note :&lt;/strong&gt; les zones de type forward ont été introduites en version 9.1.x de Bind.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/articles/archi-dns/resolution-dns-poste-client.png&quot; alt=&quot;Resolution poste&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cette configuration ne permet de résoudre que des noms dans le domaine &lt;code class=&quot;highlighter-rouge&quot;&gt;mondomaine.fr&lt;/code&gt;. Les autres noms de domaines ne sont résolus que pour les machines passerelles.&lt;/p&gt;
+
+&lt;p&gt;Cette mesure combinée à la fermeture de tous les ports réseaux (comme HTTP/S ou SMTP) pour les machines du LAN au niveau du firewall empêche toute capacité d’évasion par tunnel DNS autonome. Pour que l’évasion soit désormais possible, il faut que l’attaquant dispose du code d’authentification de l’utilisateur sur le proxy applicatif ce qui limite grandement la menace des attaques automatisées. Et nous sortons là du périmètre de la sécurisation du DNS.&lt;/p&gt;
+
+&lt;h3 id=&quot;41-mise-en-sûreté-des-informations&quot;&gt;4.1 Mise en sûreté des informations&lt;/h3&gt;
+&lt;p&gt;Les informations contenues dans le DNS SOA interne font de ce DNS le coeur de notre système. En effet, il est le seul à contenir les données de résolution et doit à ce titre être le plus protégé. Ce DNS est placé derrière un pare-feu voire un IPS implémentant un contrôle d’état sur UDP performant. Des règles de sécurité sont mises en place pour n’autoriser que les DNS cache interne à interroger notre DNS SOA interne. Ces règles sont mises en place sur l’équipement de sécurité réseau et dans la configuration du DNS.&lt;/p&gt;
+
+&lt;p&gt;Ces restrictions limitent les risques de déni de services sur notre DNS SOA interne, le nombre de clients simultanés étant limité par le nombre de DNS cache.&lt;/p&gt;
+
+&lt;h3 id=&quot;42-les-mises-à-jour-dynamiques&quot;&gt;4.2 Les mises à jour dynamiques&lt;/h3&gt;
+&lt;p&gt;Certaines applications de l’entreprise peuvent nécessiter la mise en place des mises à jour dynamiques (serveur DHCP, contrôleur de domaine, etc.) sur notre DNS SOA. Dans ce cas, il est intéressant de créer des sous-domaines particuliers pour ces applications, celles-ci ne peuvent alors pas tout modifier dans notre DNS.&lt;/p&gt;
+
+&lt;p&gt;Par exemple, on peut créer le sous-domaine dhcp.mondomaine.fr sur notre DNS et autoriser le serveur DHCP à y effectuer ses mises à jour sans lui donner de droits sur mondomaine.fr. L’option &lt;code class=&quot;highlighter-rouge&quot;&gt;update-policy&lt;/code&gt; permet de plus de limiter les opérations possibles sur la zone. Ainsi, nous pouvons n’autoriser le serveur DHCP à ne modifier que les enregistrements de type A, garantissant ainsi l’impossibilité de modification nos enregistrements de type NS par exemple.&lt;/p&gt;
+
+&lt;p&gt;L’utilisation de clef TSIG est également une sécurité à mettre en oeuvre autant que possible.&lt;/p&gt;
+
+&lt;h3 id=&quot;43-création-dune-clef-pour-mises-à-jour-dynamiques&quot;&gt;4.3 Création d’une clef pour mises à jour dynamiques&lt;/h3&gt;
+&lt;p&gt;Nous commençons par mettre en place des clefs TSIG pour les serveurs utilisant les mises à jour dynamiques et acceptant d’utiliser ce type de clefs. Nous générerons notre clef avec l’outil dnssec-keygen. Prenons par exemple la mise en place d’une clef pour notre serveur DHCP: &lt;code class=&quot;highlighter-rouge&quot;&gt;dnssec-keygen -a HMAC-MD5 -b 512 -n HOST dhcp.mondomaine.fr&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Explication des options :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;L’option &lt;code class=&quot;highlighter-rouge&quot;&gt;-a&lt;/code&gt; permet de choisir l’algorithme utilisé par la clef (ici HMAC-MD5) ;&lt;/li&gt;
+  &lt;li&gt;L’option &lt;code class=&quot;highlighter-rouge&quot;&gt;-b&lt;/code&gt; est la longueur de la clef (ici 512 bits) ;&lt;/li&gt;
+  &lt;li&gt;L’option &lt;code class=&quot;highlighter-rouge&quot;&gt;-n&lt;/code&gt; spécifie le type de clef créé (dans notre cas, il s’agit d’une clef de type HOST) ;&lt;/li&gt;
+  &lt;li&gt;Le dernier paramètre est le nom de la clef.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nous obtenons deux fichiers du type &lt;code class=&quot;highlighter-rouge&quot;&gt;Kdhcp.mondomaine.fr.+157+55315.key&lt;/code&gt; et &lt;code class=&quot;highlighter-rouge&quot;&gt;Kdhcp.mondomaine.fr.+157+55315.private&lt;/code&gt; contenant chacun la clef. En effet, dans notre cas ces deux fichiers sont identiques. Les noms de ces fichiers sont toujours formés par la lettre K majuscule, suivie du nom de la clef, puis de l’identifiant de l’algorithme utilisé et un identifiant.&lt;/p&gt;
+
+&lt;p&gt;Le fichier en &lt;code class=&quot;highlighter-rouge&quot;&gt;.key&lt;/code&gt; contient notre clef sous la forme:&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dhcp.mondomaine.fr. IN KEY 512 3 157 S5m+161iLtk6Y7+nK+8jpV1fll2AHLxN8SqVeZqzxQyg+L1187PbT5wO pteHcN4NdwO59t2TYZkpsbUocMv1+g&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;et le fichier &lt;code class=&quot;highlighter-rouge&quot;&gt;.private&lt;/code&gt; contient cette même clef mais sous la forme:&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Private-key-format: v1.2
+Algorithm: 157 &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;HMAC_MD5&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+Key: S5m+161iLtk6Y7+nK+8jpV1fll2AHLxN8SqVeZqzxQyg+L1187PbT5wOpteHcN4NdwO59t2TYZkpsbUocMv1+g&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Pour nos besoins, nous créons un nouveau fichier ne contenant que la clef. Ce fichier s’appelle &lt;code class=&quot;highlighter-rouge&quot;&gt;clefdhcp.key&lt;/code&gt; et contient :&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;secret &lt;span class=&quot;s2&quot;&gt;&quot;S5m+161iLtk6Y7+nK+8jpV1fll2AHLxN8SqVeZqzxQyg+L1187PbT5wOpteHcN4NdwO59t2TYZkpsbUocMv1+g==&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3 id=&quot;44-configuration&quot;&gt;4.4 Configuration&lt;/h3&gt;
+&lt;p&gt;Nous filtrons les adresses ip source via l’option &lt;code class=&quot;highlighter-rouge&quot;&gt;allow-query&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;acl &lt;span class=&quot;s2&quot;&gt;&quot;dns-cache-interne&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; 10.1.255.4/32&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+acl &lt;span class=&quot;s2&quot;&gt;&quot;updateservers&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; 10.1.255.7/32&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+options &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; 
+	// Répertoire où se trouvent les fichiers de zone
+	directory &lt;span class=&quot;s2&quot;&gt;&quot;/var/named&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+	// Modification &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;nom de version renvoyé
+	version &lt;span class=&quot;s2&quot;&gt;&quot;unavailable&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+	// Interdiction des transferts de zone
+	allow-transfer&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;none&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+	// Interdiction des notifications de mise à jour
+	allow-notify &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;none&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+	// Autorisations de requêtes internes et pour le DNS cache
+	allow-query &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;127.0.0.1&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;dns-cache-interne&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;updateservers&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+	// Pas de récursion
+	recursion no&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+// Définition de la clef &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;serveur DHCP
+key &lt;span class=&quot;s2&quot;&gt;&quot;key.dhcp.mondomaine.fr&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+	algorithm hmac-md5&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	include &lt;span class=&quot;s2&quot;&gt;&quot;clefdhcp.key&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+// Définition de la sous-zone maitre dhcp
+zone &lt;span class=&quot;s2&quot;&gt;&quot;dhcp.mondomaine.fr&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;nb&quot;&gt;type &lt;/span&gt;master&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	file &lt;span class=&quot;s2&quot;&gt;&quot;db.dhcp.mondomaine.fr&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+	// Définition des droits de mise à jour &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;type &lt;/span&gt;A pour le serveur utilisant la clef dhcp&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+	update-policy &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+		grant key.dhcp.mondomaine.fr name dhcp.mondomaine.fr A &lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	forwarders &lt;span class=&quot;o&quot;&gt;{}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+// Définition de la zone maitre
+zone &lt;span class=&quot;s2&quot;&gt;&quot;mondomaine.fr&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;nb&quot;&gt;type &lt;/span&gt;master&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	file &lt;span class=&quot;s2&quot;&gt;&quot;db.mondomaine.fr&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	forwarders &lt;span class=&quot;o&quot;&gt;{}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;5-serveur-dns-cache-en-dmz&quot;&gt;5. Serveur DNS cache en DMZ&lt;/h2&gt;
+&lt;p&gt;Ce serveur a pour vocation d’effectuer pour le compte du serveur DNS cache interne les résolutions de noms de domaines internet. Cette particularité nous permet de restreindre les clients pouvant le solliciter à ce seul serveur.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note :&lt;/strong&gt; si vous utilisez une version de Bind inférieure à 9.x, il faut prendre soin de se prémunir de 2 risques majeurs de corruption de caches:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;le glue fetching qui consiste pour un serveur, recevant un enregistrement NS sans enregistrement de type A, à chercher à obtenir cet enregistrement A entrainant des risques de corruption du cache,&lt;/li&gt;
+  &lt;li&gt;la prédiction du numéro de l’ID du message DNS &lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; qui rend le serveur sensible aux attaques de force brute.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Voici la configuration du serveur :&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// définition d une ACL pointant le DNS cache interne
+acl &lt;span class=&quot;s2&quot;&gt;&quot;dns-cache-interne&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; 10.255.1.4/32&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+options &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+  // repertoire contenant les fichiers de configuration
+  directory &lt;span class=&quot;s2&quot;&gt;&quot;/var/named&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+  // aucun transfert de zone autorise
+  allow-transfer&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;none&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  // seul le dns cache interne est autorisé à 
+  allow-query &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;dns-cache-interne&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  
+  // pour BIND 8 : randomisation de l ID de message DNS 
+  //use-id-pool &lt;span class=&quot;nb&quot;&gt;yes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
+  // pour Bind 8 : pas de glue fetching
+  //fetch-glue no&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;   
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+// Definition de la zone racine :
+// Elle contient la liste des serveurs racines à qui le serveur va s adresser 
+// pour commencer à resoudre les requetes.
+zone &lt;span class=&quot;s2&quot;&gt;&quot;.&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;type &lt;/span&gt;hint&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  file &lt;span class=&quot;s2&quot;&gt;&quot;/var/named/named.root&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Ports DNS et Firewall&lt;/strong&gt;
+Voici un petit mémento sur les ports utilisés pour les requêtes DNS :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;envoi de la requête port &amp;gt; 1023 vers port 53 en tcp ou udp ;&lt;/li&gt;
+  &lt;li&gt;réponse à la requête : port 53 vers port &amp;gt; 1023 en tcp ou udp.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On dit généralement que l’udp est utilisée pour les requêtes simples et tcp pour les transferts de zones. Mais, en fait, en fonction de la taille de la réponse, tcp peut être obligatoire même pour les requêtes simples.&lt;/p&gt;
+
+&lt;h2 id=&quot;6-serveur-dns-soa-externe&quot;&gt;6. Serveur DNS SOA externe&lt;/h2&gt;
+&lt;p&gt;Le serveur DNS Internet est celui le plus exposé en considérant le danger extérieur (nous ne reviendrons pas sur ce vaste sujet…). Il est donc important de bien lui appliquer les règles de sécurité appliquées à tout serveur disponible sur Internet. Au niveau de la configuration DNS, elle est très simple. Il suffit de créer une zone de type maître sur ce serveur et d’interdire toute récursion. Il faut ensuite remplir la zone avec les données devant être disponibles sur Internet.&lt;/p&gt;
+&lt;div class=&quot;language-apache highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nc&quot;&gt;options&lt;/span&gt; { 
+	// Répertoire où se trouvent les fichiers de zone
+	directory &quot;/var/named&quot;;
+
+	&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; Modification du nom de version renvoyé
+	version &quot;unavailable&quot;;
+
+	&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; Interdiction des transferts de zone
+	&lt;span class=&quot;nc&quot;&gt;allow&lt;/span&gt;-transfer{&quot;none&quot;;};
+
+	&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; Interdiction des notifications de mise à jour
+	&lt;span class=&quot;nc&quot;&gt;allow&lt;/span&gt;-notify {none;};
+
+	&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; Autorisations de requêtes
+	&lt;span class=&quot;nc&quot;&gt;allow&lt;/span&gt;-query {any;};
+
+	&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; Pas de récursion
+	recursion no;
+&lt;span class=&quot;err&quot;&gt;};&lt;/span&gt;
+
+&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; Définition de la zone maitre
+zone &quot;mondomaine.fr&quot; {
+	type master;
+	file &quot;db.mondomaine.fr&quot;;
+	forwarders {};
+&lt;span class=&quot;err&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/articles/archi-dns/resolution-dns-depuis-internet.png&quot; alt=&quot;Resolution internet&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note :&lt;/strong&gt; Nous pouvons fusionner physiquement les 2 serveurs DNS Internet (le cache et le serveur DNS internet). La configuration utiliserait alors le principe des vues en fonction de l’adresse appelante comme nous l’avons vu en chapitre 3 pour la configuration du DNS cache interne.&lt;/p&gt;
+
+&lt;h2 id=&quot;7-les-logs&quot;&gt;7. Les logs&lt;/h2&gt;
+&lt;p&gt;Par défaut, le démon named envoie tous ses messages au syslog de la machine qui peut aussi recevoir les messages des autres démons du système. Le manque de lisibilité d’un tel syslog nuit de manière à la sécurité du DNS en gênant sa supervision.&lt;/p&gt;
+
+&lt;p&gt;Heureusement, il est possible de configurer les logs de named via des canaux de logs afin de, dans notre cas, rediriger certains types de messages dans des fichiers spécifiques. Named peut utiliser plusieurs canaux de logs en parallèle traitant les mêmes informations ou non. Dans notre exemple, nous utilisons deux canaux de logs, un premier pour les messages concernant les problèmes de sécurité et les transferts de zone et un second pour les autres messages et les transferts de zone (messages par défaut).&lt;/p&gt;
+
+&lt;p&gt;Ces lignes de configuration sont à placer dans les fichiers &lt;code class=&quot;highlighter-rouge&quot;&gt;/etc/named.conf&lt;/code&gt; de tous les DNS.&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;logging &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+   // Paramétrage &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;canal des messages de sécurité
+   channel securitylogs &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+       // Envoi vers le fichier dns_security.log avec roulement de 10 archives de 5Mo
+           file &lt;span class=&quot;s2&quot;&gt;&quot;/var/log/named-sec.log&quot;&lt;/span&gt; versions 10 size 5m&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+       // Affichage de tous les messages &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;+messages debug si activation &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;mode debug&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+           severity dynamic&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+       // Affiche le nom de la catégorie &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;message
+           print-category &lt;span class=&quot;nb&quot;&gt;yes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+       // Affiche la sévérité &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;message dans les logs
+           print-severity &lt;span class=&quot;nb&quot;&gt;yes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+       // Affiche la &lt;span class=&quot;nb&quot;&gt;date du &lt;/span&gt;message dans les logs
+           print-time &lt;span class=&quot;nb&quot;&gt;yes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+   // Paramétrage &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;canal par défaut
+   channel defaultlogs &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+       // Envoi vers le fichier dns_default.log avec roulement de 10 archives de 5Mo
+           file &lt;span class=&quot;s2&quot;&gt;&quot;/var/log/named-default.log&quot;&lt;/span&gt; versions 10 size 5m&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+       // Affiche les messages de sévérité &lt;span class=&quot;s2&quot;&gt;&quot;info&quot;&lt;/span&gt; et supérieur
+           severity info&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+       // Affiche le nom de la catégorie &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;message
+           print-category &lt;span class=&quot;nb&quot;&gt;yes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+       // Affiche la sévérité &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;message dans les logs
+           print-severity &lt;span class=&quot;nb&quot;&gt;yes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+       // Affiche la &lt;span class=&quot;nb&quot;&gt;date du &lt;/span&gt;message dans les logs
+           print-time &lt;span class=&quot;nb&quot;&gt;yes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+       &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+   // Envoi des messages par défaut à notre canal defaultlogs
+       category default &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; defaultlogs&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+   // Envoi des messages de transferts a nos canaux defaultlogs et securitylogs
+       category xfer-in &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;  securitylogs&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; defaultlogs&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+       category xfer-out &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;  securitylogs&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; defaultlogs&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+   // Envoi des messages de sécurité à notre canal securitylogs
+       category security &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; securitylogs&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Il est également possible de créer un canal spécial pour les mises a jour dynamiques sur les serveurs utilisant ce service :&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;channel updatelogs &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+           file &lt;span class=&quot;s2&quot;&gt;&quot;/var/log/named-update.log&quot;&lt;/span&gt; versions 10 size 5m&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+           severity dynamic&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+           print-category &lt;span class=&quot;nb&quot;&gt;yes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+           print-severity &lt;span class=&quot;nb&quot;&gt;yes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+           print-time &lt;span class=&quot;nb&quot;&gt;yes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+       &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+category update &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; updatelogs&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Voici deux exemples de messages lus dans le fichier de logs de sécurité :&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Nov 25 10:34:57.910 security: info: client 192.168.9.9#1349: query &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;cache&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; denied
+Nov 25 15:22:53.390 security: error: client 192.168.9.9#32776: zone transfer &lt;span class=&quot;s1&quot;&gt;'mondomaine.fr/IN'&lt;/span&gt; denied
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Ces deux messages ont les significations suivantes :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Le premier est une interdiction d’interrogation ;&lt;/li&gt;
+  &lt;li&gt;Le second est une interdiction de transfert de zone.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;8-conclusion&quot;&gt;8. Conclusion&lt;/h2&gt;
+&lt;p&gt;Comme nous avons pu le voir, la sécurisation du DNS passe avant tout par le fait de se poser les bonnes questions sur son utilisation : qui l’utilise ? pour quels types de résolution ? est-ce légitime ?&lt;/p&gt;
+
+&lt;p&gt;La réponse à ces questions sous l’angle de la sécurité nous a permis d’arriver aux solutions suivantes :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;une séparation des différents services DNS (résolution internet vs résolution du domaine interne) par spécialisation des serveurs ;&lt;/li&gt;
+  &lt;li&gt;une politique centralisée et maîtrisée d’accès à l’internet limitant le spectre de clients pouvant solliciter et donc potentiellement exploiter le DNS.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Une amélioration supplémentaire pourrait être l’utilisation de DNSSEC &lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; pour le contrôle d’intégrité et l’authentification des demandes de résolutions de noms et les réponses associées. Cette utilisation serait à implémenter au niveau du DNS SOA internet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Références :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;[BIND] Page d’accueil de BIND, &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;[TUN] VUILLARD, V. Tunnel DNS : fuite d’information universelle. In:MISC 18, Mars-Avril 2005. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;[VER] TREND Micro System. Description du virus MYTOB.KG, &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;[MISC23] BROCAS C., FARIN J.M.. fichiers de configuration des différents serveurs DNS décrits dans l’article. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;[HEADER] RFC 1035, domain names - implementation and specification, chapitre 4.1.1 &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;[DNSSEC] RFC 4033, 4034 et 4035, Ressources DNSSEC &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+          <pubDate>2006-06-22T00:00:00+02:00</pubDate>
+          <link>http://localhost:4000//2006/06/22/De-la-securite-d-une-architecture-dns-d-entreprise</link>
+          <guid isPermaLink="true">http://localhost:4000//2006/06/22/De-la-securite-d-une-architecture-dns-d-entreprise</guid>
         </item>
       
     
