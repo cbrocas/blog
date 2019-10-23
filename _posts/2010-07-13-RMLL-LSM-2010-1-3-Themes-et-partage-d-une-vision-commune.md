@@ -1,5 +1,5 @@
 ---
-title: RMLL/LSM 2010 - 1/3 - Thèmes et partage d'une vision commune
+title: (FR) RMLL/LSM 2010 - 1/3 - Thèmes et partage d'une vision commune
 ---
 
 Voilà, les [RMLL 2010](http://2010.rmll.info) ont fermé leurs portes au public (beaucoup sont encore en train de ranger ...).
@@ -12,8 +12,8 @@ Il est désormais temps de mettre par écrit quelques sentiments, impressions et
 
 Ce billet est le premier d’une série de 3 qui auront pour sujet :
 * Thèmes et partage d’une vision commune (ce billet)
-* L’internationalisation
-* RMLL : perfect setup
+* [Internationalization (en)](/2010/07/13/RMLL-LSM-2010-2-3-internationalization/)
+* [RMLL : perfect setup (fr)]({% link _posts/2010-07-16-RMLL-LSM-2010-3-3-RMLL-perfect-setup.md %})
 
 _**Disclamer :** ces idées/sentiments/enseignements ne sont que des idées personnelles et ne représentent en aucun cas les idées/sentiments/enseignements du comité d’organisation des RMLL 2010 sur cette édition._
 

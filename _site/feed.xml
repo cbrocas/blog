@@ -159,6 +159,24 @@ Je souris ;-)&lt;/p&gt;
 &lt;p&gt;Pour une soirée d’initiation à Internet et au web, cela a été plutôt riche :) Si cela peut servir à d’autres comme idée d’approche du web …&lt;/p&gt;
 
 &lt;p&gt;Happy :)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Commentaires (récupérés post crash serveur) :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.gravatar.com/avatar/3ac6bd8f5222fed869d6fd03314e25af&quot; alt=&quot;Tristan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://standblog.org/&quot;&gt;Tristan&lt;/a&gt;&lt;/strong&gt;, 18 décembre 2012 :&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Elle en a dans le ciboulot, la petite ! Bravo aux parents :-)
+(Sinon, je viens de porter plainte à la DASS, car faire utiliser Vista à une gamine, c’est trop cruel ;-)”&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.gravatar.com/avatar/b75383270a4fc8457ff2a458f4442ede&quot; alt=&quot;Moi&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Moi&lt;/strong&gt;, 18 décembre 2012 :&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Je lui ferais passer le commentaire, elle appréciera :)
+  Vista : hihihi ;-)”&lt;/em&gt;&lt;/p&gt;
 </description>
           <pubDate>2012-12-18T00:00:00+01:00</pubDate>
           <link>https://blog.brocas.org//2012/12/18/F.,-10-ans,-decouvre-le-web,-wikipedia-et-un-peu-plus/</link>
@@ -168,77 +186,167 @@ Je souris ;-)&lt;/p&gt;
     
       
         <item>
-          <title>RMLL/LSM 2010 - 2/3 - Internationalization</title>
-          <description>&lt;p&gt;Voilà, les &lt;a href=&quot;http://2010.rmll.info&quot;&gt;RMLL 2010&lt;/a&gt; ont fermé leurs portes au public (beaucoup sont encore en train de ranger …).&lt;/p&gt;
+          <title>(EN) RMLL/LSM 2010 - 3/3 - RMLL - perfect setup</title>
+          <description>&lt;p&gt;Ce billet est le dernier d’une série de trois sur le debriefing des RMLL 2010. 3 sujets seront couverts :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/direction.jpg&quot; alt=&quot;direction&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;préambule&quot;&gt;Préambule&lt;/h2&gt;
-
-&lt;p&gt;Il est désormais temps de mettre par écrit quelques sentiments, impressions et enseignements que j’ai pu tirer de cette semaine très chargée en termes de boulot, rencontres et échanges.&lt;/p&gt;
-
-&lt;p&gt;Ce billet est le premier d’une série de 3 qui auront pour sujet :&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Thèmes et partage d’une vision commune (ce billet)&lt;/li&gt;
-  &lt;li&gt;L’internationalisation&lt;/li&gt;
-  &lt;li&gt;RMLL : perfect setup&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2010/07/13/RMLL-LSM-2010-1-3-Themes-et-partage-d-une-vision-commune/&quot;&gt;Topics and sharing a same vision (fr)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2010/07/13/RMLL-LSM-2010-2-3-internationalization/&quot;&gt;Internationalization (en)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;RMLL : perfect setup (ce billet)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclamer :&lt;/strong&gt; ces idées/sentiments/enseignements ne sont que des idées personnelles et ne représentent en aucun cas les idées/sentiments/enseignements du comité d’organisation des RMLL 2010 sur cette édition.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclamer&lt;/strong&gt; : les idées développées ci-dessous sont uniquement les miennes et n’impliquent d’aucune manière l’équipe d’organisation des RMLL 2010.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;gestion-des-thèmes&quot;&gt;Gestion des thèmes&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/building.jpg&quot; alt=&quot;earth&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Cela faisait deux ans que j’étais coordinateur de thème (&lt;a href=&quot;http://2008.rmll.info/-Securite-.html&quot;&gt;sécurité&lt;/a&gt; en 2008 et &lt;a href=&quot;http://2009.rmll.info/-Systemes-et-securite-.html&quot;&gt;adminsys/sécu&lt;/a&gt; en 2009).&lt;/p&gt;
+&lt;h2 id=&quot;et-si-un-seul-point-était-à-modifier-lequel-serait-ce-&quot;&gt;Et si un seul point était à modifier, lequel serait-ce ?&lt;/h2&gt;
 
-&lt;p&gt;Cette année, en tant que régional de l’étape et garçon un peu expérimenté, le comité d’orga m’a proposé d’intégrer le comité de programmes. J’ai accepté avec joie :-)&lt;/p&gt;
+&lt;p&gt;Et bien, incontestablement, ce serait l’éclatement géographique en N lieux (chez nous 4) différents pendant la semaine.&lt;/p&gt;
 
-&lt;p&gt;Une fois la liste des thèmes définie, le travail d’un membre du comité de programmes consiste notamment à trouver les responsables de thèmes qui géreront ces thèmes.&lt;/p&gt;
+&lt;p&gt;En effet, un tel éclatement a un impact notable sur l’organisation mais aussi le vécu des participants.&lt;/p&gt;
 
-&lt;p&gt;Le travail d’un responsable de thèmes est le suivant :&lt;/p&gt;
+&lt;h2 id=&quot;mais-pourquoi-4-lieux-déjà-&quot;&gt;Mais pourquoi 4 lieux, déjà ?&lt;/h2&gt;
+
+&lt;p&gt;Car tout simplement, nous avons pris la problématique dans le sens suivant :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Quels sont les besoins ? Nous trouverons les locaux en fonction.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Si cela peut paraitre sensé dit comme cela (moi même j’ai fini par dire, ben oui, c’est comme cela qu’il faut raisonner), cela nous a surtout poussé à une sorte de course au gigantisme qui, si elle n’a pas été fatale, a eu des impacts notables.&lt;/p&gt;
+
+&lt;h2 id=&quot;mais-il-est-où-le-souci-&quot;&gt;Mais il est où le souci ?&lt;/h2&gt;
+
+&lt;p&gt;Il est dans les points suivants tous remontés par des organisateurs ou des participants :&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;assurer la sélection des conférences qui sont proposées (voire à en chercher d’autres)&lt;/li&gt;
-  &lt;li&gt;assurer le suivi des conférences retenues. Cela inclut leur saisie dans l’interface de programmes, leur planification, le suivi budgétaire du conférencier (niveau de prise en charge) etc.&lt;/li&gt;
-  &lt;li&gt;une fois sur place, être présent dans la salle de conférences pour assurer le bon déroulement : présentation du conférencier, respect des horaires, récupération et mise en ligne de la présentation, suivi des remboursements, debriefing.&lt;/li&gt;
+  &lt;li&gt;un thème majeur était l’accessibilité et notre organisation physique était un contre sens pour des personnes souffrant d’handicap quel qu’il soit&lt;/li&gt;
+  &lt;li&gt;les rencontres (entre les publics, les communautés, les univers) pourtant au coeur de notre événement ont été affectées par cet éclatement&lt;/li&gt;
+  &lt;li&gt;un tel éclatement empêche ou diminue sensiblement la capacité d’appréhension de l’événement par un visiteur étranger&lt;/li&gt;
+  &lt;li&gt;l’organisation pratique (signalisation, conférences, captations vidéo, réseau, village etc) est juste rendue extrêmement plus difficile qu’avec un lieu unique.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Et le tout en concertation permanente avec le comité de programmes : bref, du boulot !&lt;/p&gt;
+&lt;p&gt;Et j’en oublie certainement.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Dernier point important :&lt;/strong&gt; tout le travail de préparation du responsable de thèmes jusqu’à l’événement se fait online. Et surtout il n’a de lien avec l’organisation physique de l’événement que via le comité de programmes (moi et Patrice cette année pour les thèmes techniques).&lt;/p&gt;
+&lt;h2 id=&quot;mais-cest-quoi-ta-solution-magique-à-toi-&quot;&gt;Mais c’est quoi ta solution magique à toi ?&lt;/h2&gt;
 
-&lt;h2 id=&quot;partage-de-vision&quot;&gt;Partage de vision&lt;/h2&gt;
+&lt;p&gt;Je pense qu’il faut sélectionner &lt;strong&gt;un lieu unique&lt;/strong&gt;. Un lieu le plus grand possible, doté des bonnes infrastructures (électricité, réseau, salles) mais un lieu unique.&lt;/p&gt;
 
-&lt;p&gt;Afin de comprendre cet événement, il est bon de savoir que les RMLL c’est :&lt;/p&gt;
+&lt;p&gt;Et après on taille l’événement en fonction :&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;une mission d’&lt;strong&gt;évangélisation&lt;/strong&gt; et de partage sur la région où elles se passent. Cette mission associative et éducative implique que toute personne touchée supplémentaire est un objectif accompli.&lt;/li&gt;
-  &lt;li&gt;une &lt;strong&gt;organisation bénévole&lt;/strong&gt; qui chaque année se renouvelle en grande partie. Cela signifie qu’au niveau des thèmes, nous ne sommes que le bout VISIBLE de l’iceberg qui bosse derrière dans l’ombre pour que ce grand bazar de milliers de spectateurs/participants fonctionne.&lt;/li&gt;
-  &lt;li&gt;une organisation qui est importante en termes de budget géré, partenaires engagés. Cela impose une &lt;strong&gt;implication&lt;/strong&gt; et un &lt;strong&gt;sérieux&lt;/strong&gt; (même en short+tongs !) vital pour que les RMLL soient la manifestation attendue par le public et les partenaires qui l’ont soutenues.&lt;/li&gt;
+  &lt;li&gt;nombre de thèmes et leur durée&lt;/li&gt;
+  &lt;li&gt;taille du village&lt;/li&gt;
+  &lt;li&gt;événements supplémentaires éventuels&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;points-à-améliorer-par-rapport-à-cette-année&quot;&gt;Points à améliorer par rapport à cette année&lt;/h2&gt;
+&lt;p&gt;Cette solution n’est pas magique, elle a aussi des inconvénients comme devoir prioriser des choses par rapport à d’autres (diminuer le nombre de conférences par exemple).&lt;/p&gt;
 
-&lt;p&gt;Le fait de confier la responsabilité d’un thème aux RMLL à quelqu’un implique donc qu’il ait pleinement conscience de ces éléments.&lt;/p&gt;
+&lt;p&gt;Mais, cette solution a le mérite je pense de privilégier la qualité d’accueil, les échanges et la simplicité de l’organisation ce qui me semble primordial.&lt;/p&gt;
 
-&lt;p&gt;Et c’est là où je pense je n’ai pas su anticiper un point pas vital mais tout de même important. Les RMLL ont une mission, une histoire et un fonctionnement qu’il faut partager et servir tous de la même manière.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Commentaires (récupérés post crash serveur) :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Or, à mon niveau, je pense m’être contenté de trouver :&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.gravatar.com/avatar/f2b6e2e7960ddef67eb1073283981a21&quot; alt=&quot;PaulK&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.paulk.fr/&quot;&gt;PaulK&lt;/a&gt;&lt;/strong&gt;, 8 août 2010 :&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Je suis tout à fait d’accord. Ayant participé à ces RMLL, je pense aussi que la séparation entre différents lieux a été le gros point noir (je crois que j’ai eu à courir pour ne pas arriver en retard à une conf’ à peu près chaque les jours).”&lt;/em&gt;&lt;/p&gt;
+
+</description>
+          <pubDate>2010-07-16T00:00:00+02:00</pubDate>
+          <link>https://blog.brocas.org//2010/07/16/RMLL-LSM-2010-3-3-RMLL-perfect-setup/</link>
+          <guid isPermaLink="true">https://blog.brocas.org//2010/07/16/RMLL-LSM-2010-3-3-RMLL-perfect-setup/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>(EN) RMLL/LSM 2010 - 2/3 - Internationalization</title>
+          <description>&lt;p&gt;This post is part of 3 posts about 2010 LSM debriefing. The 3 topics covered will be :&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;une personne compétente sur le thème en question&lt;/li&gt;
-  &lt;li&gt;une personne utilisant/contribuant à des LL&lt;/li&gt;
-  &lt;li&gt;une personne motivée&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2010/07/13/RMLL-LSM-2010-1-3-Themes-et-partage-d-une-vision-commune/&quot;&gt;Topics and sharing a same vision (fr)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;internationalization (this post)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2010/07/16/RMLL-LSM-2010-3-3-RMLL-perfect-setup/&quot;&gt;RMLL : perfect setup (fr)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Et cela ne suffit pas ! J’aurais aussi dû insister sur le caractère associatif, militant et exigeant de cette manifestation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclamer&lt;/strong&gt; : the ideas below are only mine and any way not those of the 2010 LSM organization team.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Etre responsable de thèmes c’est &lt;strong&gt;aussi&lt;/strong&gt; :&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/earth.jpg&quot; alt=&quot;earth&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;prelude&quot;&gt;Prelude&lt;/h2&gt;
+
+&lt;p&gt;Well, let’s speak about something that has been quite important for me this year : setting up a cross technical topics track in english.&lt;/p&gt;
+
+&lt;p&gt;During the 2009 LSM, I have set up with my security topic co-chairmen an English spoken afternoon with the english speakers. The French speakers that have also their talks during this afternoon have to do them in English too.&lt;/p&gt;
+
+&lt;p&gt;After that I have a quite long discussion with &lt;a href=&quot;http://thomas.enix.org/&quot;&gt;Thomas Petazzoni&lt;/a&gt; on internalization of talks and of the event : for Thomas,a solution combining efficiently French and English for talks does not exist. Either LSM is a total French speaking event or LSM will become a full English spoken talks event. For me, combining the two languages is a crucial point. Let’s see why (from my point of view only of course …).&lt;/p&gt;
+
+&lt;h2 id=&quot;why-combining-english-and-french-talks-is-important&quot;&gt;Why combining English and French talks is important?&lt;/h2&gt;
+
+&lt;p&gt;To understand why combining the two languages in talks is important, it is necessary to understand my vision of the utility of events like LSM.&lt;/p&gt;
+
+&lt;p&gt;LSM for me (tends to) address several problems :&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;prendre en compte dans son attitude et sa communication les gens qui travaillent dans l’ombre sur l’événement et/ou depuis très longtemps en amont,&lt;/li&gt;
-  &lt;li&gt;penser collectif, se sentir membre à part entière de l’équipe d’orga et non simplement comme un individu qui gère sa mission&lt;/li&gt;
-  &lt;li&gt;prendre conscience que les RMLL sont un travail militant toujours en cours qui avance d’année en année. On s’inscrit dans une histoire et on monte sur les épaules des gens qui ont travaillé avant nous. Cela mérite le respect.&lt;/li&gt;
+  &lt;li&gt;setting up bridges between free software developers from different communities (embedded vs Internet vs OS vs development etc) and languages&lt;/li&gt;
+  &lt;li&gt;brings free software expertise from whatever it comes to LSM visitors&lt;/li&gt;
+  &lt;li&gt;installs less barriers as possible between expertise and visitors&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Ces trois points, je ne pense pas les avoir assez promus auprès des responsables de thèmes de cette année. Cela n’a rien engendré de facheux, juste quelques incompréhensions inutiles qui, si ce travail amont avait été (mieux) fait, n’auraient pas existées.&lt;/p&gt;
+&lt;p&gt;For me, to meet these expectations we have to be able to :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;invite non french spoken speakers (expertise, bridge)&lt;/li&gt;
+  &lt;li&gt;combine their talks with french talks (bridge, less barriers)&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;En dehors de cela, je pense que les 360 confs/ateliers/tables rondes/etc … n’étaient pas mal du tout :-) &lt;strong&gt;Merci à vous tous&lt;/strong&gt;, responsables de thèmes, pour votre travail !&lt;/p&gt;
+&lt;h2 id=&quot;the-2010-answer-at-a-program-level&quot;&gt;The 2010 answer at a Program level&lt;/h2&gt;
+
+&lt;p&gt;So we invite english spoken speakers.&lt;/p&gt;
+
+&lt;p&gt;And in counterpart, to put them in a situation the more comfortable we can, we decide this year to set up a cross technical topics continuous english spoken track. Our goal was to be able to say to english spearkers that at any hour of any day of LSM, they were able to find a technical talk in english.&lt;/p&gt;
+
+&lt;p&gt;And this is exactly what we manage to set up through the commitment and hard work of all topic chairmen and speakers.&lt;/p&gt;
+
+&lt;p&gt;The result is here :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://2010.rmll.info/+-En-anglais-+.html&quot;&gt;English program details&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://2010.rmll.info/spip.php?page=rmll_progall&amp;amp;lang=en&amp;amp;k=10&quot;&gt;English tracks schedule&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why-we-do-not-succeed-to-provide-a-comfortable-event-for-english-speakers-&quot;&gt;Why we do not succeed to provide a comfortable event for English speakers ?&lt;/h2&gt;
+
+&lt;p&gt;First of all, because if you want to do so, it is definitively not at the Program level you have to work. It is at the top level of the event organization.&lt;/p&gt;
+
+&lt;p&gt;Through several long and deep discussions with &lt;a href=&quot;https://archive.fosdem.org/2006/index/speakers/speakers_pereira.html&quot;&gt;Uriel&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jamey_sharp&quot;&gt;Jamey&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Sage_Sharp&quot;&gt;Sarah Sharp&lt;/a&gt;, and Thomas several points emerge :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;inconsistent signalization and translations&lt;/li&gt;
+  &lt;li&gt;English track for talks has not been actively promoted enough on the website&lt;/li&gt;
+  &lt;li&gt;a single point of contact for foreign speakers has always to be set up because coming from Oslo or Sydney and only speaking English is far not as simple as coming from Paris and speaking French&lt;/li&gt;
+  &lt;li&gt;a single location is a definitive requirement to make talks, people, events easily accessed for English spoken people&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And I mention only a subset of all the remarks they made.&lt;/p&gt;
+
+&lt;h2 id=&quot;ways-to-improve-the-process&quot;&gt;Ways to improve the process&lt;/h2&gt;
+
+&lt;p&gt;First, we have to address above problems.&lt;/p&gt;
+
+&lt;p&gt;But if I have to select one proposal, it would be the proposal made by Jamey which would be a major step IMHO on the road on a successful internationalized event : having a non French speaking person in the core team of the organization to be the “International conscience” of the event. This person would check all materials produced by the organization (website, practical informations, locations, process etc) from an International point of view.&lt;/p&gt;
+
+&lt;p&gt;Jamey said also it would be necessary to made an international call for paper. I agree despite the fact it requires some solids networks to succeed.&lt;/p&gt;
+
+&lt;p&gt;And to understand why even small details can break your initiative on the road to success, I let the final word to Sarah :&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“You want an idea to improve my LSM experience ? Just add a flag on the badge of each person to say what language each person speaks !”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/badge.jpg&quot; alt=&quot;badge&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Enough said !&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;We try, we don’t (entirely) succeed, we want to improve : thank you for your presence and your already made feedbacks ! We welcome another feedbaks of course.&lt;/p&gt;
+
+&lt;p&gt;For my part, I strongly believe mix-language speakers and talks are requirements to improve exchanges, networks but also local (the french area where LSM takes place each year) access to Free Software expertise. But to do so, we have to improve STRONGLY the way we handle internationalization of the event and the way we receive foreign people.&lt;/p&gt;
 
 </description>
           <pubDate>2010-07-13T00:00:00+02:00</pubDate>
@@ -249,7 +357,7 @@ Je souris ;-)&lt;/p&gt;
     
       
         <item>
-          <title>RMLL/LSM 2010 - 1/3 - Thèmes et partage d'une vision commune</title>
+          <title>(FR) RMLL/LSM 2010 - 1/3 - Thèmes et partage d'une vision commune</title>
           <description>&lt;p&gt;Voilà, les &lt;a href=&quot;http://2010.rmll.info&quot;&gt;RMLL 2010&lt;/a&gt; ont fermé leurs portes au public (beaucoup sont encore en train de ranger …).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/direction.jpg&quot; alt=&quot;direction&quot; /&gt;&lt;/p&gt;
@@ -261,8 +369,8 @@ Je souris ;-)&lt;/p&gt;
 &lt;p&gt;Ce billet est le premier d’une série de 3 qui auront pour sujet :&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Thèmes et partage d’une vision commune (ce billet)&lt;/li&gt;
-  &lt;li&gt;L’internationalisation&lt;/li&gt;
-  &lt;li&gt;RMLL : perfect setup&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2010/07/13/RMLL-LSM-2010-2-3-internationalization/&quot;&gt;Internationalization (en)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2010/07/16/RMLL-LSM-2010-3-3-RMLL-perfect-setup/&quot;&gt;RMLL : perfect setup (fr)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclamer :&lt;/strong&gt; ces idées/sentiments/enseignements ne sont que des idées personnelles et ne représentent en aucun cas les idées/sentiments/enseignements du comité d’organisation des RMLL 2010 sur cette édition.&lt;/em&gt;&lt;/p&gt;
