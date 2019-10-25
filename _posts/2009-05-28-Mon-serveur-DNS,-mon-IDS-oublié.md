@@ -1,10 +1,14 @@
 ---
-title: (FR) Article MISC mai 2007 - Mon serveur DNS, mon IDS oublié
+title: Article MISC mai 2007 - Mon serveur DNS, mon IDS oublié
 ---
 
-Cet article est issu de l’article publié dans le numéro de **MISC n°31 de Mai 2007**. J’en suis l’auteur (christophe.brocas@free.fr). Tous droits réservés à MISC.
+_Cet article est issu de l’article publié dans le numéro de **MISC n°31 de Mai 2007**. J’en suis l’auteur (christophe.brocas@free.fr). Tous droits réservés à MISC._
 
 Je le poste ici car l’idée d’utiliser son serveur DNS semble être dans l’actualité du monde de la détection d’intrusions.
+
+{:refdef: style="text-align: center;"}
+![dns](/assets/articles/dns-mort1.jpg)
+{: refdef}
 
 # Mon serveur DNS, mon IDS préféré
 
@@ -45,6 +49,7 @@ Les flux émis vers l’Internet depuis un poste de travail sont nombreux :
 
 Et je ne parle que des flux légitimes !
 
+![archi](/assets/articles/dns-ids-oublie/trame11.jpg)
 _**Figure 1 :** architecture proxies et serveurs relais_
 
 Et pour être reconnus comme légitimes, l’ensemble de ces flux doivent être soumis à habilitation. Pour cela, il faut que ces flux soient reroutés de manière systématique vers des équipements de filtrage nécessitant une habilitation, à savoir les proxies ou serveur relais. Habilitation que devra renseigner l’utilisateur pour chaque type de flux.
@@ -53,15 +58,16 @@ Et pour être reconnus comme légitimes, l’ensemble de ces flux doivent être 
 
 Les machines proxies ou relais se doivent, pour être utilisées, d’exiger de l’utilisateur une authentification. Cela se traduit par des demandes d’identification HTTP par le proxy HTTP ou l’utilisation de SMTP AUTH pour l’envoi de mail via le serveur SMTP de votre entreprise. Les flux émis par les postes vers Internet sont alors authentifiés, donc moins sujet à être vecteur d’attaques.
 
-Figure 2 : étapes d’une requête HTTP
+![etapes](/assets/articles/dns-ids-oublie/trame31.jpg)
+_**Figure 2 :** étapes d’une requête HTTP_
 
 Le gain de cette architecture en termes de détection d’intrusion ? Tout le trafic émis par les postes à destination de l’Internet est dans un premier temps redirigé vers ces machines intermédiaires. Les requêtes DNS de résolution de domaines internet ne sont alors plus émises que par ces équipements proxies et relais :
 
-* En effet, afin de pouvoir router, par exemple, les requêtes HTTP vers google.fr émises par un poste (point 1 sur la figure 2) ;
-* Le proxy de l’entreprise demande une résolution DNS de type A sur le domaine google.fr (point 2) pour le compte de ce poste ;
+* En effet, afin de pouvoir router, par exemple, les requêtes HTTP vers `google.fr` émises par un poste (point 1 sur la figure 2) ;
+* Le proxy de l’entreprise demande une résolution DNS de type A sur le domaine `google.fr` (point 2) pour le compte de ce poste ;
 * La requête peut ensuite être émise vers le serveur HTTP cible (point 3).
 
-NB : Il en est de même pour les envois de mails où le serveur SMTP joue le rôle du proxy HTTP.
+**NB :** Il en est de même pour les envois de mails où le serveur SMTP joue le rôle du proxy HTTP.
 
 Comme vous pouvez le voir, grâce à cette architecture centralisée et maîtrisée, les logs de votre serveur DNS deviennent de manière mécanique des sources fiables de données de détection d’intrusion : toute demande de résolution DNS d’un domaine internet émise par un poste lambda peut être considérée comme une alerte d’une compromission potentielle.
 
@@ -110,10 +116,10 @@ Un poste de travail compromis par un code malicieux a pour vocation de devenir u
 
 Ils existent deux grands types de requêtes :
 
-* les requêtes de type MX qui sont émises par les moteurs d’envoi de spams et de virus qui sont lancés sur les postes une fois compromis. De même, ces requêtes servent à ces codes malicieux pour se propager via email. Ce type de requête fournit le nom et l’adresse IP du(des) serveur(s) SMTP réceptionnant pour le domaine passé en paramètre ;
-* les requêtes de type A représentent la majeure partie des requêtes restantes. Ces requêtes peuvent alors correspondre à des demandes de résolution de noms de futures cibles, de serveurs de téléchargement de nouveaux codes malicieux (ou de mises à jour) ou encore de sites fournissant des ordres aux codes malicieux(serveurs IRC par exemple) .
+* les requêtes de type `MX` qui sont émises par les moteurs d’envoi de spams et de virus qui sont lancés sur les postes une fois compromis. De même, ces requêtes servent à ces codes malicieux pour se propager via email. Ce type de requête fournit le nom et l’adresse IP du(des) serveur(s) SMTP réceptionnant pour le domaine passé en paramètre ;
+* les requêtes de type `A` représentent la majeure partie des requêtes restantes. Ces requêtes peuvent alors correspondre à des demandes de résolution de noms de futures cibles, de serveurs de téléchargement de nouveaux codes malicieux (ou de mises à jour) ou encore de sites fournissant des ordres aux codes malicieux(serveurs IRC par exemple) .
 
-Pour les requêtes MX, on peut en avoir la trace pas plus loin que dans sa messagerie. Exemple d’entête de spam dans la BAL de votre serviteur :
+Pour les requêtes `MX`, on peut en avoir la trace pas plus loin que dans sa messagerie. Exemple d’entête de spam dans la BAL de votre serviteur :
 
 ```python
 [...]
@@ -127,7 +133,7 @@ Subject: Re:
 [...]
 ```
 
-On y voit un mail émis directement depuis un poste sur l’Internet vers le serveur MX de l’hébergeur de ma BAL. Cette émission a donc fait l’objet d’une demande de résolution MX pour le domaine free.fr sur le serveur DNS du poste internet.
+On y voit un mail émis directement depuis un poste sur l’Internet vers le serveur `MX` de l’hébergeur de ma BAL. Cette émission a donc fait l’objet d’une demande de résolution `MX` pour le domaine `free.fr` sur le serveur DNS du poste internet.
 
 ## 5. Exploitation des logs DNS
 
@@ -142,7 +148,7 @@ La ligne de commandes précédente permet :
 * d’isoler l’ensemble des requêtes émises par les postes de travail (premier grep) ;
 * demandant une requête sur un domaine différent du domaine de l’entreprise ici nommé mondomaine.fr (second grep).
 
-Les données produites par cette commande correspondent à une liste d’adresses IP ayant un comportement DNS anormal selon les critères décrit dans le chapitre 4 :
+Les données produites par cette commande correspondent à une liste d’adresses IP ayant un comportement DNS anormal selon les critères décrit dans le [chapitre 4](#42-requêtes-dns-émises-par-des-codes-malicieux) :
 
 ```bash
 [...]
@@ -151,15 +157,15 @@ Les données produites par cette commande correspondent à une liste d’adresse
 [...]
 ```
 
-On voit dans l’exemple ci-dessus un poste interne d’adresse IP 192.168.0.190 demander au DNS l’adresse IP de google.fr ainsi que celle du serveur SMTP gérant le domaine hotmail.com. Or, ces deux requêtes ne devraient jamais être émises par un poste du LAN car elles portent sur un domaine différent de celui de l’entreprise.
+On voit dans l’exemple ci-dessus un poste interne d’adresse IP `192.168.0.190` demander au DNS l’adresse IP de google.fr ainsi que celle du serveur SMTP gérant le domaine `hotmail.com`. Or, ces deux requêtes ne devraient jamais être émises par un poste du LAN car elles portent sur un domaine différent de celui de l’entreprise.
 
 En effet, ces deux requêtes DNS devraient avoir été émises respectivement par le proxy HTTP et par le relais de messagerie de l’entreprise. Ces deux machines ayant auparavant demandé son habilitation HTTP ou l’utilisateur de messagerie à l’utilisateur du poste.
 
-NB : On peut bien entendu spécialiser cette ligne de commandes pour obtenir soit les requêtes de type MX soit les requêtes de type A.
+**NB :** On peut bien entendu spécialiser cette ligne de commandes pour obtenir soit les requêtes de type `MX` soit les requêtes de type `A`.
 
 ### 5.2 Faux positifs ? Explications et actions correctrices
 
-Nous avons décrit dans le chapitre 2 un pré-requis ambitieux qui était que toutes les communications ou tentatives de communication vers Internet émises par les postes de travail passaient par un proxy ou une machine relais. Or, la première analyse que vous allez mener sur les données extraites des logs de votre serveur DNS risque fort de plus vous mettre sur la trace de postes lançant des Windows Update que sur celle de postes zombies (du moins je l’espère pour votre LAN ;-) ).
+Nous avons décrit dans le chapitre 2 un [pré-requis ambitieux](#2-architecture-à-base-de-proxies-et-de-relais--un-pré-requis-nécessaire) qui était que toutes les communications ou tentatives de communication vers Internet émises par les postes de travail passaient par un proxy ou une machine relais. Or, la première analyse que vous allez mener sur les données extraites des logs de votre serveur DNS risque fort de plus vous mettre sur la trace de postes lançant des Windows Update que sur celle de postes zombies (du moins je l’espère pour votre LAN ;-) ).
 
 Vos premières actions vont donc être de travailler sur ces mécanismes légitimes s’exécutant sur vos postes et émettant des requêtes vers l’Internet :
 
@@ -193,7 +199,7 @@ Elles sont de deux ordres : exploitabilité de la solution et consolidation des 
 
 L’exploitabilité de cette solution serait de travailler sur l’enchainement des opérations de recherche dans les fichiers de logs, cyclage, compression et suppression de ces fichiers.
 
-Pour ce qui est de la consolidation, il faudrait déclencher de telles recherches sur les rejets du Firewall concernant des requêtes en provenance de postes en plan d’adressage interne (ex: 10.0.0.0/8) à destination d’adresses externes (vers l’internet donc).
+Pour ce qui est de la consolidation, il faudrait déclencher de telles recherches sur les rejets du Firewall concernant des requêtes en provenance de postes en plan d’adressage interne (ex: `10.0.0.0/8`) à destination d’adresses externes (vers l’internet donc).
 
 ## 7. Conclusion
 
