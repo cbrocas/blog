@@ -1,10 +1,16 @@
 ---
-title: (EN - edited) RMLL Security track - why, how and for which results
+title: RMLL Security track - why, how and for which results
 ---
+
+{:refdef: style="text-align: center;"}
+![JC Jones](https://archives.pass-the-salt.org/RMLL%20Security%20Tracks/2016/photos/PhotosRMLLSEC%202016-by-regiteric/20160705_0015_01.jpg)
+<br> 
+_JC Jones during RMLL Sec 2016 - photo by Eric Leblond under CC BY-NC-SA_
+{: refdef}
 
 # RMLL Security track : why, how and for which results
 
-*Note: after the lost of the original blogpost from 2017 (ProTip: always double check your current backup policy ;-)), this is an updated version of the original content with additions from late 2019.*
+_**Note:** after the lost of the original blogpost from 2017, I have restored an original version that I have updated with additions from late 2019._
 
 After many years of curation of the [Security Track](https://prog2017.rmll.info/spip.php?page=rmll_progall&lang=en&t=2) of the [RMLL](http://rmll.info) (a French generalist multi tracks conference about Free Software), we have decided to create in 2018 a free (as in free beer) event dedicated to Security and Free Software: Pass the SALT, Security And Libre Talks. 
 
@@ -24,7 +30,9 @@ To understand the objectives and the spirit, Peter Czanik, lecturer, gave us som
 
 Here is how he summarized his coming at the 2017 RMLL Security track:
 
-*“I participated again in Security track … **“Participated”** as I did not only give a talk on syslog-ng there, but also sat in to most of the presentations and had **very good discussions both with visitors and fellow speakers**. The organizers brought together **talks from diverse IT security-related fields**, a very good opportunity for **cross-pollination of ideas**”*. Note: emphasis is on our own.
+> _“I participated again in Security track … **“Participated”** as I did not only give a talk on syslog-ng there, but also sat in to most of the presentations and had **very good discussions both with visitors and fellow speakers**. The organizers brought together **talks from diverse IT security-related fields**, a very good opportunity for **cross-pollination of ideas**.”_ 
+
+**Note:** emphasis is on our own.
 
 Peter has perfectly synthesized what we are trying to achieve through the RMLL Security track year after year:
 

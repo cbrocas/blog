@@ -6,7 +6,7 @@ logo_url:           https://avatars0.githubusercontent.com/cbrocas # Get it from
 
 # Site Settings
 url:                https://blog.brocas.org # main url
-baseurl:            / 
+baseurl:            "" 
 permalink:          /:year/:month/:day/:title/ # Post permalink
 timezone:           Europe/Paris # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable

@@ -1,6 +1,10 @@
 ---
-title: (EN) RMLL/LSM 2010 - 2/3 - Internationalization
+title: RMLL/LSM 2010 - 2/3 - Internationalization
 ---
+
+{:refdef: style="text-align: center;"}
+![earth](/assets/earth.jpg)
+{: refdef}
 
 This post is part of 3 posts about 2010 LSM debriefing. The 3 topics covered will be :
 
@@ -9,8 +13,6 @@ This post is part of 3 posts about 2010 LSM debriefing. The 3 topics covered wil
 * [RMLL : perfect setup (fr)]({% link _posts/2010-07-16-RMLL-LSM-2010-3-3-RMLL-perfect-setup.md %})
 
 ___Disclamer__ : the ideas below are only mine and any way not those of the 2010 LSM organization team._
-
-![earth](/assets/earth.jpg)
 
 ## Prelude
 
@@ -25,9 +27,9 @@ After that I have a quite long discussion with [Thomas Petazzoni](http://thomas.
 To understand why combining the two languages in talks is important, it is necessary to understand my vision of the utility of events like LSM.
 
 LSM for me (tends to) address several problems :
-* setting up bridges between free software developers from different communities (embedded vs Internet vs OS vs development etc) and languages
-* brings free software expertise from whatever it comes to LSM visitors
-* installs less barriers as possible between expertise and visitors
+* **setting up bridges between free software developers from different communities** (embedded vs Internet vs OS vs development etc) and languages
+* **brings free software expertise from whatever it comes** to LSM visitors
+* **installs less barriers as possible between expertise and visitors**
 
 For me, to meet these expectations we have to be able to :
 * invite non french spoken speakers (expertise, bridge)
@@ -50,10 +52,10 @@ The result is here :
 First of all, because if you want to do so, it is definitively not at the Program level you have to work. It is at the top level of the event organization.
 
 Through several long and deep discussions with [Uriel](https://archive.fosdem.org/2006/index/speakers/speakers_pereira.html), [Jamey](https://twitter.com/jamey_sharp) and [Sarah Sharp](https://en.wikipedia.org/wiki/Sage_Sharp), and Thomas several points emerge :
-* inconsistent signalization and translations
-* English track for talks has not been actively promoted enough on the website
-* a single point of contact for foreign speakers has always to be set up because coming from Oslo or Sydney and only speaking English is far not as simple as coming from Paris and speaking French
-* a single location is a definitive requirement to make talks, people, events easily accessed for English spoken people
+* **inconsistent signalization and translations**
+* **English track for talks has not been actively promoted enough** on the website
+* **a single point of contact for foreign speakers has always to be set up** because coming from Oslo or Sydney and only speaking English is far not as simple as coming from Paris and speaking French
+* **a single location is a definitive requirement** to make talks, people, events easily accessed for English spoken people
 
 And I mention only a subset of all the remarks they made.
 
@@ -67,7 +69,7 @@ Jamey said also it would be necessary to made an international call for paper. I
 
 And to understand why even small details can break your initiative on the road to success, I let the final word to Sarah :
 
-_"You want an idea to improve my LSM experience ? Just add a flag on the badge of each person to say what language each person speaks !"_
+> _"You want an idea to improve my LSM experience ? Just add a flag on the badge of each person to say what language each person speaks !"_
 
 ![badge](/assets/badge.jpg)
 

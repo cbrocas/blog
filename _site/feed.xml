@@ -3,14 +3,18 @@
   <channel>
     <title>Blog</title>
     <description>Some thoughts</description>
-    <link>https://blog.brocas.org/</link>
+    <link>https://blog.brocas.org</link>
     
       
         <item>
-          <title>(EN - edited) RMLL Security track - why, how and for which results</title>
-          <description>&lt;h1 id=&quot;rmll-security-track--why-how-and-for-which-results&quot;&gt;RMLL Security track : why, how and for which results&lt;/h1&gt;
+          <title>RMLL Security track - why, how and for which results</title>
+          <description>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;https://archives.pass-the-salt.org/RMLL%20Security%20Tracks/2016/photos/PhotosRMLLSEC%202016-by-regiteric/20160705_0015_01.jpg&quot; alt=&quot;JC Jones&quot; /&gt;
+&lt;br /&gt; 
+&lt;em&gt;JC Jones during RMLL Sec 2016 - photo by Eric Leblond under CC BY-NC-SA&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Note: after the lost of the original blogpost from 2017 (ProTip: always double check your current backup policy ;-)), this is an updated version of the original content with additions from late 2019.&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&quot;rmll-security-track--why-how-and-for-which-results&quot;&gt;RMLL Security track : why, how and for which results&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Note:&lt;/strong&gt; after the lost of the original blogpost from 2017, I have restored an original version that I have updated with additions from late 2019.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;After many years of curation of the &lt;a href=&quot;https://prog2017.rmll.info/spip.php?page=rmll_progall&amp;amp;lang=en&amp;amp;t=2&quot;&gt;Security Track&lt;/a&gt; of the &lt;a href=&quot;http://rmll.info&quot;&gt;RMLL&lt;/a&gt; (a French generalist multi tracks conference about Free Software), we have decided to create in 2018 a free (as in free beer) event dedicated to Security and Free Software: Pass the SALT, Security And Libre Talks.&lt;/p&gt;
 
@@ -30,7 +34,11 @@
 
 &lt;p&gt;Here is how he summarized his coming at the 2017 RMLL Security track:&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;“I participated again in Security track … &lt;strong&gt;“Participated”&lt;/strong&gt; as I did not only give a talk on syslog-ng there, but also sat in to most of the presentations and had &lt;strong&gt;very good discussions both with visitors and fellow speakers&lt;/strong&gt;. The organizers brought together &lt;strong&gt;talks from diverse IT security-related fields&lt;/strong&gt;, a very good opportunity for &lt;strong&gt;cross-pollination of ideas&lt;/strong&gt;”&lt;/em&gt;. Note: emphasis is on our own.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“I participated again in Security track … &lt;strong&gt;“Participated”&lt;/strong&gt; as I did not only give a talk on syslog-ng there, but also sat in to most of the presentations and had &lt;strong&gt;very good discussions both with visitors and fellow speakers&lt;/strong&gt;. The organizers brought together &lt;strong&gt;talks from diverse IT security-related fields&lt;/strong&gt;, a very good opportunity for &lt;strong&gt;cross-pollination of ideas&lt;/strong&gt;.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; emphasis is on our own.&lt;/p&gt;
 
 &lt;p&gt;Peter has perfectly synthesized what we are trying to achieve through the RMLL Security track year after year:&lt;/p&gt;
 
@@ -79,17 +87,20 @@
 &lt;p&gt;&lt;strong&gt;But so, for real, have you got any results to share? Yes we have!&lt;/strong&gt; Just give a look to &lt;a href=&quot;https://www.pass-the-salt.org/achievements/&quot;&gt;our achievements page&lt;/a&gt; :-)&lt;/p&gt;
 </description>
           <pubDate>2017-09-13T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org//2017/09/13/RMLL-Security-track-why-how-and-for-which-results/</link>
-          <guid isPermaLink="true">https://blog.brocas.org//2017/09/13/RMLL-Security-track-why-how-and-for-which-results/</guid>
+          <link>https://blog.brocas.org/2017/09/13/RMLL-Security-track-why-how-and-for-which-results/</link>
+          <guid isPermaLink="true">https://blog.brocas.org/2017/09/13/RMLL-Security-track-why-how-and-for-which-results/</guid>
         </item>
       
     
       
         <item>
-          <title>(EN) My first Unix session was a password hijack experience</title>
-          <description>&lt;p&gt;I discovered Unix (not Linux) at college in Bordeaux, in 1989. After a first course about Unix and its concepts, our professor gave us our credentials to be able to login on our school Unix system.&lt;/p&gt;
+          <title>My first Unix session was a password hijack experience</title>
+          <description>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/DEC_vt220.jpg/1920px-DEC_vt220.jpg&quot; alt=&quot;dns&quot; /&gt;
+&lt;em&gt;VT220 terminal - Photo under Public Domain license by Shansov.net / Wikimedia&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;This computer was a &lt;a href=&quot;https://en.wikipedia.org/wiki/HP_9000#Server_models&quot;&gt;HP 9000 server&lt;/a&gt; running a Unix OS. The “machine room” was in fact divided in two rooms. The first one was the “white room”, a restricted access area with only the big box inside aka the main server : 1,5m high and several meters long. The second room was the room dedicated to the twenty passive terminals (VT100 emulation I think) used to login on the Unix system.&lt;/p&gt;
+&lt;p&gt;I discovered Unix (not Linux) at college in Bordeaux, in 1989. After a first course about Unix and its concepts, our professor gave us our credentials to be able to login on our school Unix system.&lt;/p&gt;
+
+&lt;p&gt;This computer was a &lt;a href=&quot;https://en.wikipedia.org/wiki/HP_9000#Server_models&quot;&gt;HP 9000 server&lt;/a&gt; running a Unix OS. The “machine room” was in fact divided in two rooms. The first one was the “white room”, a restricted access area with only the big box inside aka the main server : 1,5m high and several meters long. The second room was the room dedicated to the twenty passive terminals (VT100/VT220 emulation maybe) used to login on the Unix system.&lt;/p&gt;
 
 &lt;p&gt;So, with my user account and password, I sat in front of one of the terminals. I entered my user account and my password. &lt;strong&gt;Failed&lt;/strong&gt;. I just thinked that I mispelled one of them, I retried and I managed to log in. The rest of the session was successful : I was able to try the few commands I learned during my first lesson.&lt;/p&gt;
 
@@ -100,15 +111,15 @@
 &lt;p&gt;It was in 1989. On a Unix system. Connected to … nothing : no network available at this time on this server. And password theft was already a game :-)&lt;/p&gt;
 </description>
           <pubDate>2015-01-28T00:00:00+01:00</pubDate>
-          <link>https://blog.brocas.org//2015/01/28/my-first-Unix-session-was-a-password-hijack-experience/</link>
-          <guid isPermaLink="true">https://blog.brocas.org//2015/01/28/my-first-Unix-session-was-a-password-hijack-experience/</guid>
+          <link>https://blog.brocas.org/2015/01/28/my-first-Unix-session-was-a-password-hijack-experience/</link>
+          <guid isPermaLink="true">https://blog.brocas.org/2015/01/28/my-first-Unix-session-was-a-password-hijack-experience/</guid>
         </item>
       
     
       
         <item>
-          <title>(FR) F., 10 ans, découvre le web, wikipedia et un peu plus ...</title>
-          <description>&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Lady_with_unicorn_by_Rafael_Santi.jpg/260px-Lady_with_unicorn_by_Rafael_Santi.jpg&quot; alt=&quot;dame tableau&quot; /&gt;
+          <title>F., 10 ans, découvre le web, wikipedia et un peu plus ...</title>
+          <description>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Lady_with_unicorn_by_Rafael_Santi.jpg/260px-Lady_with_unicorn_by_Rafael_Santi.jpg&quot; alt=&quot;dame tableau&quot; /&gt;
 &lt;br /&gt;&lt;em&gt;Dame à Licorne par Raphaël, licence CC BY-SA Wikipedia&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Je voulais vous faire un petit retour sur un moment que j’ai vécu l’an passé avec ma fille cadette. Contrairement à l’ainée, elle n’avait jamais eu envie d’aller sur Internet et je me disais que son apprentissage allait être plus laborieux que pour sa sœur.&lt;/p&gt;
@@ -121,13 +132,13 @@
 
 &lt;p&gt;Du coup, on démarre sous son profil sur Ubuntu. Je lui explique les bases d’un navigateur web (Firefox inside ;) ) : la zone d’adresse, la zone de recherche, les moteurs de recherches enregistrés.&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;On peut rajouter des moteurs de recherches ? Trop classe !&lt;/em&gt;
+  &lt;p&gt;&lt;em&gt;“On peut rajouter des moteurs de recherches ? Trop classe !”&lt;/em&gt;
 Je souris ;-)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Puis explication des liens hypertextes, changement de pages, puis explication de Wikipedia, son fonctionnement, ses limites :&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;Wikipedia est écrit par des gens comme toi et moi. Ils peuvent faire des erreurs. Il faut croiser ses sources (dico, magazines etc)&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;“Wikipedia est écrit par des gens comme toi et moi. Ils peuvent faire des erreurs. Il faut croiser ses sources (dico, magazines etc)”&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Mais je sentais bien que je &lt;strong&gt;la barbais un peu&lt;/strong&gt;.&lt;/p&gt;
@@ -152,10 +163,10 @@ Je souris ;-)&lt;/p&gt;
 
 &lt;p&gt;J’étais vraiment content qu’elle ait pu voir &lt;strong&gt;par elle même&lt;/strong&gt; que :&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;ce qu’elle lit sur Internet doit être vérifié
-   le principal intérêt des constructions collaboratives comme Wikipédia, c’est la capacité à apporter aux autres sa connaissance et ce, sans entrave.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;ce qu’elle lit sur Internet doit être vérifié&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;le principal intérêt des &lt;strong&gt;constructions collaboratives comme Wikipédia&lt;/strong&gt;, c’est &lt;strong&gt;la capacité à apporter aux autres&lt;/strong&gt; sa connaissance et ce, sans entrave.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Du coup, &lt;strong&gt;le premier jour de sa découverte du web&lt;/strong&gt;, elle fit &lt;strong&gt;sa première contribution&lt;/strong&gt; en &lt;a href=&quot;https://fr.wikipedia.org/w/index.php?title=Rapha%C3%ABl_%28peintre%29&amp;amp;diff=71014717&amp;amp;oldid=70781184&quot;&gt;modifiant la page de Raphael sur Wikipedia FR&lt;/a&gt; !&lt;/p&gt;
 
@@ -182,15 +193,17 @@ Je souris ;-)&lt;/p&gt;
   Vista : hihihi ;-)”&lt;/em&gt;&lt;/p&gt;
 </description>
           <pubDate>2012-12-18T00:00:00+01:00</pubDate>
-          <link>https://blog.brocas.org//2012/12/18/F.,-10-ans,-decouvre-le-web,-wikipedia-et-un-peu-plus/</link>
-          <guid isPermaLink="true">https://blog.brocas.org//2012/12/18/F.,-10-ans,-decouvre-le-web,-wikipedia-et-un-peu-plus/</guid>
+          <link>https://blog.brocas.org/2012/12/18/F.,-10-ans,-decouvre-le-web,-wikipedia-et-un-peu-plus/</link>
+          <guid isPermaLink="true">https://blog.brocas.org/2012/12/18/F.,-10-ans,-decouvre-le-web,-wikipedia-et-un-peu-plus/</guid>
         </item>
       
     
       
         <item>
-          <title>(EN) RMLL/LSM 2010 - 3/3 - RMLL - perfect setup</title>
-          <description>&lt;p&gt;Ce billet est le dernier d’une série de trois sur le debriefing des RMLL 2010. 3 sujets seront couverts :&lt;/p&gt;
+          <title>RMLL/LSM 2010 - 3/3 - RMLL - perfect setup</title>
+          <description>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;/assets/building.jpg&quot; alt=&quot;building&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ce billet est le dernier d’une série de trois sur le debriefing des RMLL 2010. 3 sujets seront couverts :&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/2010/07/13/RMLL-LSM-2010-1-3-Themes-et-partage-d-une-vision-commune/&quot;&gt;Topics and sharing a same vision (fr)&lt;/a&gt;&lt;/li&gt;
@@ -199,8 +212,6 @@ Je souris ;-)&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclamer&lt;/strong&gt; : les idées développées ci-dessous sont uniquement les miennes et n’impliquent d’aucune manière l’équipe d’organisation des RMLL 2010.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/building.jpg&quot; alt=&quot;earth&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;et-si-un-seul-point-était-à-modifier-lequel-serait-ce-&quot;&gt;Et si un seul point était à modifier, lequel serait-ce ?&lt;/h2&gt;
 
@@ -213,7 +224,7 @@ Je souris ;-)&lt;/p&gt;
 &lt;p&gt;Car tout simplement, nous avons pris la problématique dans le sens suivant :&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;Quels sont les besoins ? Nous trouverons les locaux en fonction.&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;“Quels sont les besoins ? Nous trouverons les locaux en fonction.”&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Si cela peut paraitre sensé dit comme cela (moi même j’ai fini par dire, ben oui, c’est comme cela qu’il faut raisonner), cela nous a surtout poussé à une sorte de course au gigantisme qui, si elle n’a pas été fatale, a eu des impacts notables.&lt;/p&gt;
@@ -256,15 +267,17 @@ Je souris ;-)&lt;/p&gt;
 
 </description>
           <pubDate>2010-07-16T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org//2010/07/16/RMLL-LSM-2010-3-3-RMLL-perfect-setup/</link>
-          <guid isPermaLink="true">https://blog.brocas.org//2010/07/16/RMLL-LSM-2010-3-3-RMLL-perfect-setup/</guid>
+          <link>https://blog.brocas.org/2010/07/16/RMLL-LSM-2010-3-3-RMLL-perfect-setup/</link>
+          <guid isPermaLink="true">https://blog.brocas.org/2010/07/16/RMLL-LSM-2010-3-3-RMLL-perfect-setup/</guid>
         </item>
       
     
       
         <item>
-          <title>(EN) RMLL/LSM 2010 - 2/3 - Internationalization</title>
-          <description>&lt;p&gt;This post is part of 3 posts about 2010 LSM debriefing. The 3 topics covered will be :&lt;/p&gt;
+          <title>RMLL/LSM 2010 - 2/3 - Internationalization</title>
+          <description>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;/assets/earth.jpg&quot; alt=&quot;earth&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This post is part of 3 posts about 2010 LSM debriefing. The 3 topics covered will be :&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/2010/07/13/RMLL-LSM-2010-1-3-Themes-et-partage-d-une-vision-commune/&quot;&gt;Topics and sharing a same vision (fr)&lt;/a&gt;&lt;/li&gt;
@@ -273,8 +286,6 @@ Je souris ;-)&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclamer&lt;/strong&gt; : the ideas below are only mine and any way not those of the 2010 LSM organization team.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/earth.jpg&quot; alt=&quot;earth&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;prelude&quot;&gt;Prelude&lt;/h2&gt;
 
@@ -290,9 +301,9 @@ Je souris ;-)&lt;/p&gt;
 
 &lt;p&gt;LSM for me (tends to) address several problems :&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;setting up bridges between free software developers from different communities (embedded vs Internet vs OS vs development etc) and languages&lt;/li&gt;
-  &lt;li&gt;brings free software expertise from whatever it comes to LSM visitors&lt;/li&gt;
-  &lt;li&gt;installs less barriers as possible between expertise and visitors&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;setting up bridges between free software developers from different communities&lt;/strong&gt; (embedded vs Internet vs OS vs development etc) and languages&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;brings free software expertise from whatever it comes&lt;/strong&gt; to LSM visitors&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;installs less barriers as possible between expertise and visitors&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;For me, to meet these expectations we have to be able to :&lt;/p&gt;
@@ -321,10 +332,10 @@ Je souris ;-)&lt;/p&gt;
 
 &lt;p&gt;Through several long and deep discussions with &lt;a href=&quot;https://archive.fosdem.org/2006/index/speakers/speakers_pereira.html&quot;&gt;Uriel&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jamey_sharp&quot;&gt;Jamey&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Sage_Sharp&quot;&gt;Sarah Sharp&lt;/a&gt;, and Thomas several points emerge :&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;inconsistent signalization and translations&lt;/li&gt;
-  &lt;li&gt;English track for talks has not been actively promoted enough on the website&lt;/li&gt;
-  &lt;li&gt;a single point of contact for foreign speakers has always to be set up because coming from Oslo or Sydney and only speaking English is far not as simple as coming from Paris and speaking French&lt;/li&gt;
-  &lt;li&gt;a single location is a definitive requirement to make talks, people, events easily accessed for English spoken people&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;inconsistent signalization and translations&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;English track for talks has not been actively promoted enough&lt;/strong&gt; on the website&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;a single point of contact for foreign speakers has always to be set up&lt;/strong&gt; because coming from Oslo or Sydney and only speaking English is far not as simple as coming from Paris and speaking French&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;a single location is a definitive requirement&lt;/strong&gt; to make talks, people, events easily accessed for English spoken people&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;And I mention only a subset of all the remarks they made.&lt;/p&gt;
@@ -339,7 +350,9 @@ Je souris ;-)&lt;/p&gt;
 
 &lt;p&gt;And to understand why even small details can break your initiative on the road to success, I let the final word to Sarah :&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;“You want an idea to improve my LSM experience ? Just add a flag on the badge of each person to say what language each person speaks !”&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“You want an idea to improve my LSM experience ? Just add a flag on the badge of each person to say what language each person speaks !”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/badge.jpg&quot; alt=&quot;badge&quot; /&gt;&lt;/p&gt;
 
@@ -353,17 +366,17 @@ Je souris ;-)&lt;/p&gt;
 
 </description>
           <pubDate>2010-07-13T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org//2010/07/13/RMLL-LSM-2010-2-3-internationalization/</link>
-          <guid isPermaLink="true">https://blog.brocas.org//2010/07/13/RMLL-LSM-2010-2-3-internationalization/</guid>
+          <link>https://blog.brocas.org/2010/07/13/RMLL-LSM-2010-2-3-internationalization/</link>
+          <guid isPermaLink="true">https://blog.brocas.org/2010/07/13/RMLL-LSM-2010-2-3-internationalization/</guid>
         </item>
       
     
       
         <item>
-          <title>(FR) RMLL/LSM 2010 - 1/3 - Thèmes et partage d'une vision commune</title>
-          <description>&lt;p&gt;Voilà, les &lt;a href=&quot;http://2010.rmll.info&quot;&gt;RMLL 2010&lt;/a&gt; ont fermé leurs portes au public (beaucoup sont encore en train de ranger …).&lt;/p&gt;
+          <title>RMLL/LSM 2010 - 1/3 - Thèmes et partage d'une vision commune</title>
+          <description>&lt;p&gt;&lt;img src=&quot;/assets/direction.jpg&quot; alt=&quot;direction&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/direction.jpg&quot; alt=&quot;direction&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Voilà, les &lt;a href=&quot;http://2010.rmll.info&quot;&gt;RMLL 2010&lt;/a&gt; ont fermé leurs portes au public (beaucoup sont encore en train de ranger …).&lt;/p&gt;
 
 &lt;h2 id=&quot;préambule&quot;&gt;Préambule&lt;/h2&gt;
 
@@ -434,8 +447,8 @@ Je souris ;-)&lt;/p&gt;
 
 </description>
           <pubDate>2010-07-13T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org//2010/07/13/RMLL-LSM-2010-1-3-Themes-et-partage-d-une-vision-commune/</link>
-          <guid isPermaLink="true">https://blog.brocas.org//2010/07/13/RMLL-LSM-2010-1-3-Themes-et-partage-d-une-vision-commune/</guid>
+          <link>https://blog.brocas.org/2010/07/13/RMLL-LSM-2010-1-3-Themes-et-partage-d-une-vision-commune/</link>
+          <guid isPermaLink="true">https://blog.brocas.org/2010/07/13/RMLL-LSM-2010-1-3-Themes-et-partage-d-une-vision-commune/</guid>
         </item>
       
     
@@ -654,8 +667,8 @@ Je souris ;-)&lt;/p&gt;
 &lt;p&gt;Comme nous venons de le voir, une architecture qui permet de bien maîtriser les flux de données couplée à une analyse des logs de son (ses) serveur(s) DNS permet de disposer d’une sonde de détection de postes compromis. Cette solution a l’avantage d’être légère, non structurante et … ne coûte rien ! Cela n’empêche en aucun cas le RSSI ou le DSI de doter l’entreprise de solutions plus complète (et complexe), intrusive et chère.&lt;/p&gt;
 </description>
           <pubDate>2009-05-28T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org//2009/05/28/Mon-serveur-DNS,-mon-IDS-oubli%C3%A9/</link>
-          <guid isPermaLink="true">https://blog.brocas.org//2009/05/28/Mon-serveur-DNS,-mon-IDS-oubli%C3%A9/</guid>
+          <link>https://blog.brocas.org/2009/05/28/Mon-serveur-DNS,-mon-IDS-oubli%C3%A9/</link>
+          <guid isPermaLink="true">https://blog.brocas.org/2009/05/28/Mon-serveur-DNS,-mon-IDS-oubli%C3%A9/</guid>
         </item>
       
     
@@ -1148,8 +1161,8 @@ Nov 25 15:22:53.390 security: error: client 192.168.9.9#32776: zone transfer &lt
 &lt;/div&gt;
 </description>
           <pubDate>2006-06-22T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org//2006/06/22/De-la-securite-d-une-architecture-dns-d-entreprise/</link>
-          <guid isPermaLink="true">https://blog.brocas.org//2006/06/22/De-la-securite-d-une-architecture-dns-d-entreprise/</guid>
+          <link>https://blog.brocas.org/2006/06/22/De-la-securite-d-une-architecture-dns-d-entreprise/</link>
+          <guid isPermaLink="true">https://blog.brocas.org/2006/06/22/De-la-securite-d-une-architecture-dns-d-entreprise/</guid>
         </item>
       
     

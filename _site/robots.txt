@@ -1,4 +1,4 @@
-sitemap: https://blog.brocas.org//sitemap.xml
+sitemap: https://blog.brocas.org/sitemap.xml
 
 user-agent: EmailCollector
 disallow: /

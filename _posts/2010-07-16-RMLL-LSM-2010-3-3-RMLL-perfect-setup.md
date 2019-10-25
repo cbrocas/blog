@@ -1,6 +1,10 @@
 ---
-title: (EN) RMLL/LSM 2010 - 3/3 - RMLL - perfect setup
+title: RMLL/LSM 2010 - 3/3 - RMLL - perfect setup
 ---
+
+{:refdef: style="text-align: center;"}
+![building](/assets/building.jpg)
+{: refdef}
 
 Ce billet est le dernier d'une série de trois sur le debriefing des RMLL 2010. 3 sujets seront couverts :
 
@@ -9,8 +13,6 @@ Ce billet est le dernier d'une série de trois sur le debriefing des RMLL 2010. 
 * RMLL : perfect setup (ce billet)
 
 ___Disclamer__ : les idées développées ci-dessous sont uniquement les miennes et n'impliquent d'aucune manière l'équipe d'organisation des RMLL 2010._
-
-![earth](/assets/building.jpg)
 
 ## Et si un seul point était à modifier, lequel serait-ce ?
 
@@ -22,7 +24,7 @@ En effet, un tel éclatement a un impact notable sur l'organisation mais aussi l
 
 Car tout simplement, nous avons pris la problématique dans le sens suivant :
 
-> _Quels sont les besoins ? Nous trouverons les locaux en fonction._
+> _"Quels sont les besoins ? Nous trouverons les locaux en fonction."_
 
 Si cela peut paraitre sensé dit comme cela (moi même j'ai fini par dire, ben oui, c'est comme cela qu'il faut raisonner), cela nous a surtout poussé à une sorte de course au gigantisme qui, si elle n'a pas été fatale, a eu des impacts notables.
 
