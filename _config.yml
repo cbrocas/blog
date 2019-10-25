@@ -1,6 +1,6 @@
 # Site Info
 title:              "Blog"
-description:        "Some thoughts"
+description:        "Some thoughts from the Internets"
 author_name:        "Christophe Brocas" # change this to your name
 logo_url:           https://avatars0.githubusercontent.com/cbrocas # Get it from GitHub API: https://api.github.com/users/<username>
 
