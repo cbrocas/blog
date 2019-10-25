@@ -3,7 +3,7 @@
   <channel>
     <title>Blog</title>
     <description>Some thoughts</description>
-    <link>https://blog.brocas.org/</link>
+    <link>http://localhost:4000/</link>
     
       
         <item>
@@ -79,8 +79,8 @@
 &lt;p&gt;&lt;strong&gt;But so, for real, have you got any results to share? Yes we have!&lt;/strong&gt; Just give a look to &lt;a href=&quot;https://www.pass-the-salt.org/achievements/&quot;&gt;our achievements page&lt;/a&gt; :-)&lt;/p&gt;
 </description>
           <pubDate>2017-09-13T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org//2017/09/13/RMLL-Security-track-why-how-and-for-which-results/</link>
-          <guid isPermaLink="true">https://blog.brocas.org//2017/09/13/RMLL-Security-track-why-how-and-for-which-results/</guid>
+          <link>http://localhost:4000//2017/09/13/RMLL-Security-track-why-how-and-for-which-results/</link>
+          <guid isPermaLink="true">http://localhost:4000//2017/09/13/RMLL-Security-track-why-how-and-for-which-results/</guid>
         </item>
       
     
@@ -100,8 +100,8 @@
 &lt;p&gt;It was in 1989. On a Unix system. Connected to … nothing : no network available at this time on this server. And password theft was already a game :-)&lt;/p&gt;
 </description>
           <pubDate>2015-01-28T00:00:00+01:00</pubDate>
-          <link>https://blog.brocas.org//2015/01/28/my-first-Unix-session-was-a-password-hijack-experience/</link>
-          <guid isPermaLink="true">https://blog.brocas.org//2015/01/28/my-first-Unix-session-was-a-password-hijack-experience/</guid>
+          <link>http://localhost:4000//2015/01/28/my-first-Unix-session-was-a-password-hijack-experience/</link>
+          <guid isPermaLink="true">http://localhost:4000//2015/01/28/my-first-Unix-session-was-a-password-hijack-experience/</guid>
         </item>
       
     
@@ -182,8 +182,8 @@ Je souris ;-)&lt;/p&gt;
   Vista : hihihi ;-)”&lt;/em&gt;&lt;/p&gt;
 </description>
           <pubDate>2012-12-18T00:00:00+01:00</pubDate>
-          <link>https://blog.brocas.org//2012/12/18/F.,-10-ans,-decouvre-le-web,-wikipedia-et-un-peu-plus/</link>
-          <guid isPermaLink="true">https://blog.brocas.org//2012/12/18/F.,-10-ans,-decouvre-le-web,-wikipedia-et-un-peu-plus/</guid>
+          <link>http://localhost:4000//2012/12/18/F.,-10-ans,-decouvre-le-web,-wikipedia-et-un-peu-plus/</link>
+          <guid isPermaLink="true">http://localhost:4000//2012/12/18/F.,-10-ans,-decouvre-le-web,-wikipedia-et-un-peu-plus/</guid>
         </item>
       
     
@@ -256,8 +256,8 @@ Je souris ;-)&lt;/p&gt;
 
 </description>
           <pubDate>2010-07-16T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org//2010/07/16/RMLL-LSM-2010-3-3-RMLL-perfect-setup/</link>
-          <guid isPermaLink="true">https://blog.brocas.org//2010/07/16/RMLL-LSM-2010-3-3-RMLL-perfect-setup/</guid>
+          <link>http://localhost:4000//2010/07/16/RMLL-LSM-2010-3-3-RMLL-perfect-setup/</link>
+          <guid isPermaLink="true">http://localhost:4000//2010/07/16/RMLL-LSM-2010-3-3-RMLL-perfect-setup/</guid>
         </item>
       
     
@@ -353,8 +353,8 @@ Je souris ;-)&lt;/p&gt;
 
 </description>
           <pubDate>2010-07-13T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org//2010/07/13/RMLL-LSM-2010-2-3-internationalization/</link>
-          <guid isPermaLink="true">https://blog.brocas.org//2010/07/13/RMLL-LSM-2010-2-3-internationalization/</guid>
+          <link>http://localhost:4000//2010/07/13/RMLL-LSM-2010-2-3-internationalization/</link>
+          <guid isPermaLink="true">http://localhost:4000//2010/07/13/RMLL-LSM-2010-2-3-internationalization/</guid>
         </item>
       
     
@@ -434,8 +434,8 @@ Je souris ;-)&lt;/p&gt;
 
 </description>
           <pubDate>2010-07-13T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org//2010/07/13/RMLL-LSM-2010-1-3-Themes-et-partage-d-une-vision-commune/</link>
-          <guid isPermaLink="true">https://blog.brocas.org//2010/07/13/RMLL-LSM-2010-1-3-Themes-et-partage-d-une-vision-commune/</guid>
+          <link>http://localhost:4000//2010/07/13/RMLL-LSM-2010-1-3-Themes-et-partage-d-une-vision-commune/</link>
+          <guid isPermaLink="true">http://localhost:4000//2010/07/13/RMLL-LSM-2010-1-3-Themes-et-partage-d-une-vision-commune/</guid>
         </item>
       
     
@@ -650,14 +650,14 @@ Je souris ;-)&lt;/p&gt;
 &lt;p&gt;Comme nous venons de le voir, une architecture qui permet de bien maîtriser les flux de données couplée à une analyse des logs de son (ses) serveur(s) DNS permet de disposer d’une sonde de détection de postes compromis. Cette solution a l’avantage d’être légère, non structurante et … ne coûte rien ! Cela n’empêche en aucun cas le RSSI ou le DSI de doter l’entreprise de solutions plus complète (et complexe), intrusive et chère.&lt;/p&gt;
 </description>
           <pubDate>2009-05-28T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org//2009/05/28/Mon-serveur-DNS,-mon-IDS-oubli%C3%A9/</link>
-          <guid isPermaLink="true">https://blog.brocas.org//2009/05/28/Mon-serveur-DNS,-mon-IDS-oubli%C3%A9/</guid>
+          <link>http://localhost:4000//2009/05/28/Mon-serveur-DNS,-mon-IDS-oubli%C3%A9/</link>
+          <guid isPermaLink="true">http://localhost:4000//2009/05/28/Mon-serveur-DNS,-mon-IDS-oubli%C3%A9/</guid>
         </item>
       
     
       
         <item>
-          <title>(FR) Article MISC janvier 2006 - De la sécurité d'une architecture DNS d'entreprise</title>
+          <title>Article MISC janvier 2006 - De la sécurité d'une architecture DNS d'entreprise</title>
           <description>&lt;h1 id=&quot;de-la-sécurité-dune-architecture-dns-dentreprise&quot;&gt;De la sécurité d’une architecture DNS d’entreprise&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Cet article est issu de l’article publié dans le numéro 23 de MISC. Ses auteurs sont Christophe Brocas (christophe.brocas@free.fr) et Jean-Michel Farin (jeanmichel.farin@free.fr). Tous droits réservés à MISC.&lt;/em&gt;&lt;/p&gt;
@@ -672,17 +672,17 @@ Je souris ;-)&lt;/p&gt;
 &lt;h3 id=&quot;11-terminologie&quot;&gt;1.1 Terminologie&lt;/h3&gt;
 &lt;p&gt;Avant de plonger dans le DNS, accordons nous sur les termes utilisés dans ce document :&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;resolver : logiciel client DNS sollicité par les applications sur les postes clients afin d’obtenir une résolution ;&lt;/li&gt;
-  &lt;li&gt;serveur cache : serveur sollicité par les resolvers ou par d’autres serveurs cache. Ce type de serveur assure la fonction de récupération d’informations auprès de serveurs de noms ou d’autres serveurs cache. Il stocke les informations collectées dans son cache. Ce serveur ne gérant aucune zone DNS, le type de recherche supportée est récursif ;&lt;/li&gt;
-  &lt;li&gt;serveur SOA : serveur de noms faisant autorité répondant aux requêtes pour une (ou plusieurs) zone(s). Ce serveur n’ayant pour mission que de répondre à des requêtes sur un ou plusieurs domaines, dans notre configuration, nous n’autorisons aucune récursion.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;resolver :&lt;/strong&gt; logiciel client DNS sollicité par les applications sur les postes clients afin d’obtenir une résolution ;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;serveur cache :&lt;/strong&gt; serveur sollicité par les resolvers ou par d’autres serveurs cache. Ce type de serveur assure la fonction de récupération d’informations auprès de serveurs de noms ou d’autres serveurs cache. Il stocke les informations collectées dans son cache. Ce serveur ne gérant aucune zone DNS, le type de recherche supportée est récursif ;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;serveur SOA :&lt;/strong&gt; serveur de noms faisant autorité répondant aux requêtes pour une (ou plusieurs) zone(s). Ce serveur n’ayant pour mission que de répondre à des requêtes sur un ou plusieurs domaines, dans notre configuration, nous n’autorisons aucune récursion.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;12-les-vulnérabilités-dns&quot;&gt;1.2 Les vulnérabilités DNS&lt;/h3&gt;
 &lt;p&gt;À présent, regardons les différents types de menaces pouvant toucher le DNS :&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;la fuite d’informations via des canaux cachés ;&lt;/li&gt;
-  &lt;li&gt;la corruption de résolution DNS permettant d’abuser les utilisateurs du système, d’informations et de leur dérober des informations sensibles ;&lt;/li&gt;
-  &lt;li&gt;le déni de services par l’acceptation de requêtes illégales ou par corruption de données dans les zones hébergées par les serveurs DNS internes.&lt;/li&gt;
+  &lt;li&gt;la &lt;strong&gt;fuite d’informations&lt;/strong&gt; via des canaux cachés ;&lt;/li&gt;
+  &lt;li&gt;la &lt;strong&gt;corruption de résolution DNS&lt;/strong&gt; permettant d’abuser les utilisateurs du système, d’informations et de leur dérober des informations sensibles ;&lt;/li&gt;
+  &lt;li&gt;le &lt;strong&gt;déni de services&lt;/strong&gt; par l’acceptation de requêtes illégales ou par corruption de données dans les zones hébergées par les serveurs DNS internes.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;La fuite d’informations&lt;/strong&gt;
@@ -718,17 +718,17 @@ Le déni de services distribué est une menace commune à tous les protocoles TC
 &lt;p&gt;Pour maitriser au mieux le DNS et son utilisation, nous fixons les règles suivantes :&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Aucune machine du réseau interne ne peut accèder à l’internet. Elles utilisent toutes un proxy HTTP pour le web ou un relais SMTP pour la messagerie;&lt;/li&gt;
-  &lt;li&gt;Aucune machine ne peut donc résoudre autre chose que le domaine mondomaine.fr.
+  &lt;li&gt;Aucune machine ne peut donc résoudre autre chose que le domaine &lt;code class=&quot;highlighter-rouge&quot;&gt;mondomaine.fr&lt;/code&gt;.
 Cela permet d’être sûr de pouvoir déployer une politique de sécurité maitrisable.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;21-les-serveurs-dns-et-leur-rôle&quot;&gt;2.1 Les serveurs DNS et leur rôle&lt;/h3&gt;
 &lt;p&gt;La base pour fixer une politique de résolution est donc de définir un périmètre et des règles d’accès :&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Un serveur DNS cache interne assure la résolution de tout type de requête issue d’une machine du réseau interne ;&lt;/li&gt;
-  &lt;li&gt;Un serveur DNS SOA assure la gestion du domaine de l’entreprise pour le réseau interne de l’entreprise. Ce serveur ne peut être sollicité que par le serveur de résolution ;&lt;/li&gt;
-  &lt;li&gt;Un serveur DNS cache en DMZ assure la résolution des requêtes sur les noms internet issues du serveur DNS cache interne ;&lt;/li&gt;
-  &lt;li&gt;Un serveur DNS SOA externe assure la gestion du domaine de l’entreprise pour les macines de l’internet. Ce serveur sera sollicitable par toute machine sur l’internet.&lt;/li&gt;
+  &lt;li&gt;Un &lt;strong&gt;serveur DNS cache interne&lt;/strong&gt; assure la résolution de tout type de requête issue d’une machine du réseau interne ;&lt;/li&gt;
+  &lt;li&gt;Un &lt;strong&gt;serveur DNS SOA&lt;/strong&gt; assure la gestion du domaine de l’entreprise pour le réseau interne de l’entreprise. Ce serveur ne peut être sollicité que par le serveur de résolution ;&lt;/li&gt;
+  &lt;li&gt;Un &lt;strong&gt;serveur DNS cache en DMZ&lt;/strong&gt; assure la résolution des requêtes sur les noms internet issues du serveur DNS cache interne ;&lt;/li&gt;
+  &lt;li&gt;Un &lt;strong&gt;serveur DNS SOA externe&lt;/strong&gt; assure la gestion du domaine de l’entreprise pour les macines de l’internet. Ce serveur sera sollicitable par toute machine sur l’internet.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/articles/archi-dns/archi.png&quot; alt=&quot;archi dns&quot; /&gt;&lt;/p&gt;
@@ -753,7 +753,7 @@ Cela permet d’être sûr de pouvoir déployer une politique de sécurité mait
 &lt;p&gt;Par exemple sous un système Microsoft Windows, le processus de résolution suit les étapes suivantes :&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;vérification si on demande la résolution du propre nom de la machine ;&lt;/li&gt;
-  &lt;li&gt;présence du nom dans le fichier hosts (%Systemroot%\System32\Drives\Etc\hosts) ;&lt;/li&gt;
+  &lt;li&gt;présence du nom dans le fichier hosts (&lt;code class=&quot;highlighter-rouge&quot;&gt;%Systemroot%\System32\Drives\Etc\hosts&lt;/code&gt;) ;&lt;/li&gt;
   &lt;li&gt;DNS ;&lt;/li&gt;
   &lt;li&gt;WINS ;&lt;/li&gt;
   &lt;li&gt;broadcast réseaux ;&lt;/li&gt;
@@ -762,20 +762,20 @@ Cela permet d’être sûr de pouvoir déployer une politique de sécurité mait
 
 &lt;p&gt;Ainsi, si vous modifier le contenu du fichier hosts, la chaîne de résolution DNS est corrompue. Toute la politique de sécurité DNS est déjà réduite à néant !&lt;/p&gt;
 
-&lt;p&gt;Cette méthode est utilisée par exemple par les vers de la lignée MYTOB &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; qui font ainsi pointer des sites de type symantec.com ou update.symantec.com vers 127.0.0.1 et empêcher ainsi toute mise à jour de l’antivirus.&lt;/p&gt;
+&lt;p&gt;Cette méthode est utilisée par exemple par les vers de la lignée MYTOB &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; qui font ainsi pointer des sites de type &lt;code class=&quot;highlighter-rouge&quot;&gt;symantec.com&lt;/code&gt; ou &lt;code class=&quot;highlighter-rouge&quot;&gt;update.symantec.com&lt;/code&gt; vers &lt;code class=&quot;highlighter-rouge&quot;&gt;127.0.0.1&lt;/code&gt; et empêcher ainsi toute mise à jour de l’antivirus.&lt;/p&gt;
 
 &lt;p&gt;La solution est donc de s’assurer que les utilisateurs n’ont pas les droits administrateur et donc ne peuvent exécuter de processus pouvant modifier le fichier hosts. Idem pour ce qui est de l’accès aux paramètres DNS.&lt;/p&gt;
 
 &lt;h3 id=&quot;32-configuration-du-serveur-dns-cache-interne&quot;&gt;3.2 Configuration du serveur DNS cache interne&lt;/h3&gt;
-&lt;p&gt;Une fois que le poste client nous semble correctement configuré, voyons la configuration du serveur de cache interne. Dans notre exemple, les machines du réseau interne sont dans le réseau 10.1.0.0/16 et le serveur cache interne a l’adresse 10.1.255.4.&lt;/p&gt;
+&lt;p&gt;Une fois que le poste client nous semble correctement configuré, voyons la configuration du serveur de cache interne. Dans notre exemple, les machines du réseau interne sont dans le réseau &lt;code class=&quot;highlighter-rouge&quot;&gt;10.1.0.0/16&lt;/code&gt; et le serveur cache interne a l’adresse &lt;code class=&quot;highlighter-rouge&quot;&gt;10.1.255.4&lt;/code&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Les vues sous Bind&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Nos besoins nous conduiront dans le paragraphe suivant à vouloir faire varier les résultats des requêtes en fonction du type de client (ici PC normaux et machines proxies/pivots). Or, Bind nous donne le moyen de réaliser cela : les vues. Une vue est une configuration de Bind pour répondre à certains clients certains résultats grâce aux instructions suivantes :&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;acl : permet de définir sous un nom un jeu de clients (adresses IP);&lt;/li&gt;
-  &lt;li&gt;view : définit une configuration complète pour un type de client;&lt;/li&gt;
-  &lt;li&gt;match-clients : instruction indiquant les clients à qui s’adressent une vue.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;acl&lt;/code&gt; : permet de définir sous un nom un jeu de clients (adresses IP);&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;view&lt;/code&gt; : définit une configuration complète pour un type de client;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;match-clients&lt;/code&gt; : instruction indiquant les clients à qui s’adressent une vue.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/articles/archi-dns/vues.png&quot; alt=&quot;Vues&quot; /&gt;&lt;/p&gt;
@@ -784,21 +784,21 @@ Cela permet d’être sûr de pouvoir déployer une politique de sécurité mait
 
 &lt;p&gt;&lt;strong&gt;NB:&lt;/strong&gt; tous les fichiers de configuration sont disponibles sur le site &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
-&lt;div class=&quot;language-apache highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; ENTETE DU FICHIER NAMED.CONF du DNS CACHE INTERNE
-&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; Definition des différents types de clients
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// ENTETE DU FICHIER NAMED.CONF &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;DNS CACHE INTERNE
+// Definition des différents types de clients
 
-&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; les proxies
-acl &quot;passerelles&quot; { 10.1.255.3/32; };
-&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; les machines du reseau interne de l'entreprise
-acl &quot;reseaulocal&quot; { 10.1.0.0/16; };
-&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; le DNS cache en DMZ
-acl &quot;dns-cache-internet&quot; { 10.255.1.4/32; };
-&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; le DNS soa interne
-acl &quot;dns-soa&quot; { 10.255.2.4/32; };
+// les proxies
+acl &lt;span class=&quot;s2&quot;&gt;&quot;passerelles&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; 10.1.255.3/32&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+// les machines &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;reseau interne de l entreprise
+acl &lt;span class=&quot;s2&quot;&gt;&quot;reseaulocal&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; 10.1.0.0/16&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+// le DNS cache en DMZ
+acl &lt;span class=&quot;s2&quot;&gt;&quot;dns-cache-internet&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; 10.255.1.4/32&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+// le DNS soa interne
+acl &lt;span class=&quot;s2&quot;&gt;&quot;dns-soa&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; 10.255.2.4/32&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
-&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; localisation des fichiers de configuration
-&lt;span class=&quot;nc&quot;&gt;options&lt;/span&gt; { directory &quot;/var/named&quot;; 
-version &quot;unavailable&quot;; };
+// localisation des fichiers de configuration
+options &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; directory &lt;span class=&quot;s2&quot;&gt;&quot;/var/named&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
+version &lt;span class=&quot;s2&quot;&gt;&quot;unavailable&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;À ces 2 types de clients vont correspondre 2 types de vues qui fourniront 2 types de résolution . Voici la vue fournie aux clients de type proxies ou passerelles.&lt;/p&gt;
@@ -835,8 +835,8 @@ view &lt;span class=&quot;s2&quot;&gt;&quot;passerelles&quot;&lt;/span&gt; &lt;s
 
 &lt;p&gt;Les passerelles peuvent effectuer tout type de requête. Ces requêtes seront satisfaites de la maniêre suivante :&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;requête sur le domaine mondomaine.fr : envoi d’une requête auprès du serveur maître interne (IP : 10.255.2.4) ;&lt;/li&gt;
-  &lt;li&gt;requête sur tout autre domaine : envoi vers le serveur cache en DMZ (adresse IP 10.255.1.4).&lt;/li&gt;
+  &lt;li&gt;requête sur le domaine &lt;code class=&quot;highlighter-rouge&quot;&gt;mondomaine.fr&lt;/code&gt; : envoi d’une requête auprès du serveur maître interne (IP : &lt;code class=&quot;highlighter-rouge&quot;&gt;10.255.2.4&lt;/code&gt;) ;&lt;/li&gt;
+  &lt;li&gt;requête sur tout autre domaine : envoi vers le serveur cache en DMZ (adresse IP &lt;code class=&quot;highlighter-rouge&quot;&gt;10.255.1.4&lt;/code&gt;).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Voici ensuite la vue pour les postes lambda du réseau local :&lt;/p&gt;
@@ -844,26 +844,26 @@ view &lt;span class=&quot;s2&quot;&gt;&quot;passerelles&quot;&lt;/span&gt; &lt;s
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// Fin &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;FICHIER NAMED.CONF &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;DNS CACHE INTERNE
 // vue s adressant aux PC &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;reseau interne de l entreprise
 view &lt;span class=&quot;s2&quot;&gt;&quot;reseaulocal&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
-        // Machines a qui s&lt;span class=&quot;s1&quot;&gt;'adressent cette vue. 
-        // Ici, les machines lambda (PC) du reseau interne.
-	match-clients { &quot;reseaulocal&quot;; };
+        // Machines a qui s adressent cette vue. 
+        // Ici, les machines lambda &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;PC&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;reseau interne.
+	match-clients &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;reseaulocal&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
       
         // requete sur le mondomaine.fr :
         // redirection de la requete vers le DNS SOA interne
-	zone &quot;mondomaine.fr&quot; {
-		type forward;
-		forwarders { 10.255.2.4; };
-                forward only;
-	};
+	zone &lt;span class=&quot;s2&quot;&gt;&quot;mondomaine.fr&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+		&lt;span class=&quot;nb&quot;&gt;type &lt;/span&gt;forward&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+		forwarders &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; 10.255.2.4&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+                forward only&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
     
         // redirection identique pour les requetes sur la zone reverse
-	zone &quot;10.in-addr.arpa&quot; {
-		type forward;
-		forwarders { 10.255.2.4; };
-                forward only;
-	};
-};
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+	zone &lt;span class=&quot;s2&quot;&gt;&quot;10.in-addr.arpa&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+		&lt;span class=&quot;nb&quot;&gt;type &lt;/span&gt;forward&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+		forwarders &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; 10.255.2.4&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+                forward only&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Note :&lt;/strong&gt; les zones de type forward ont été introduites en version 9.1.x de Bind.&lt;/p&gt;
 
@@ -1008,32 +1008,32 @@ Voici un petit mémento sur les ports utilisés pour les requêtes DNS :&lt;/p&g
 
 &lt;h2 id=&quot;6-serveur-dns-soa-externe&quot;&gt;6. Serveur DNS SOA externe&lt;/h2&gt;
 &lt;p&gt;Le serveur DNS Internet est celui le plus exposé en considérant le danger extérieur (nous ne reviendrons pas sur ce vaste sujet…). Il est donc important de bien lui appliquer les règles de sécurité appliquées à tout serveur disponible sur Internet. Au niveau de la configuration DNS, elle est très simple. Il suffit de créer une zone de type maître sur ce serveur et d’interdire toute récursion. Il faut ensuite remplir la zone avec les données devant être disponibles sur Internet.&lt;/p&gt;
-&lt;div class=&quot;language-apache highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nc&quot;&gt;options&lt;/span&gt; { 
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;options &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; 
 	// Répertoire où se trouvent les fichiers de zone
-	directory &quot;/var/named&quot;;
+	directory &lt;span class=&quot;s2&quot;&gt;&quot;/var/named&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
-	&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; Modification du nom de version renvoyé
-	version &quot;unavailable&quot;;
+	// Modification &lt;span class=&quot;nb&quot;&gt;du &lt;/span&gt;nom de version renvoyé
+	version &lt;span class=&quot;s2&quot;&gt;&quot;unavailable&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
-	&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; Interdiction des transferts de zone
-	&lt;span class=&quot;nc&quot;&gt;allow&lt;/span&gt;-transfer{&quot;none&quot;;};
+	// Interdiction des transferts de zone
+	allow-transfer&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;none&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
-	&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; Interdiction des notifications de mise à jour
-	&lt;span class=&quot;nc&quot;&gt;allow&lt;/span&gt;-notify {none;};
+	// Interdiction des notifications de mise à jour
+	allow-notify &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;none&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
-	&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; Autorisations de requêtes
-	&lt;span class=&quot;nc&quot;&gt;allow&lt;/span&gt;-query {any;};
+	// Autorisations de requêtes
+	allow-query &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;any&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
-	&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; Pas de récursion
-	recursion no;
-&lt;span class=&quot;err&quot;&gt;};&lt;/span&gt;
+	// Pas de récursion
+	recursion no&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
-&lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; Définition de la zone maitre
-zone &quot;mondomaine.fr&quot; {
-	type master;
-	file &quot;db.mondomaine.fr&quot;;
-	forwarders {};
-&lt;span class=&quot;err&quot;&gt;};&lt;/span&gt;
+// Définition de la zone maitre
+zone &lt;span class=&quot;s2&quot;&gt;&quot;mondomaine.fr&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;nb&quot;&gt;type &lt;/span&gt;master&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	file &lt;span class=&quot;s2&quot;&gt;&quot;db.mondomaine.fr&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	forwarders &lt;span class=&quot;o&quot;&gt;{}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/articles/archi-dns/resolution-dns-depuis-internet.png&quot; alt=&quot;Resolution internet&quot; /&gt;&lt;/p&gt;
 
@@ -1144,8 +1144,8 @@ Nov 25 15:22:53.390 security: error: client 192.168.9.9#32776: zone transfer &lt
 &lt;/div&gt;
 </description>
           <pubDate>2006-06-22T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org//2006/06/22/De-la-securite-d-une-architecture-dns-d-entreprise/</link>
-          <guid isPermaLink="true">https://blog.brocas.org//2006/06/22/De-la-securite-d-une-architecture-dns-d-entreprise/</guid>
+          <link>http://localhost:4000//2006/06/22/De-la-securite-d-une-architecture-dns-d-entreprise/</link>
+          <guid isPermaLink="true">http://localhost:4000//2006/06/22/De-la-securite-d-une-architecture-dns-d-entreprise/</guid>
         </item>
       
     

@@ -1,5 +1,5 @@
 ---
-title: (FR) Article MISC janvier 2006 - De la sécurité d'une architecture DNS d'entreprise
+title: Article MISC janvier 2006 - De la sécurité d'une architecture DNS d'entreprise
 ---
 
 # De la sécurité d'une architecture DNS d'entreprise
@@ -15,15 +15,15 @@ Nous verrons dans cet article comment sécuriser ce protocole et en particulier 
 
 ### 1.1 Terminologie
 Avant de plonger dans le DNS, accordons nous sur les termes utilisés dans ce document :
-* resolver : logiciel client DNS sollicité par les applications sur les postes clients afin d’obtenir une résolution ;
-* serveur cache : serveur sollicité par les resolvers ou par d’autres serveurs cache. Ce type de serveur assure la fonction de récupération d’informations auprès de serveurs de noms ou d’autres serveurs cache. Il stocke les informations collectées dans son cache. Ce serveur ne gérant aucune zone DNS, le type de recherche supportée est récursif ;
-* serveur SOA : serveur de noms faisant autorité répondant aux requêtes pour une (ou plusieurs) zone(s). Ce serveur n’ayant pour mission que de répondre à des requêtes sur un ou plusieurs domaines, dans notre configuration, nous n’autorisons aucune récursion.
+* **resolver :** logiciel client DNS sollicité par les applications sur les postes clients afin d’obtenir une résolution ;
+* **serveur cache :** serveur sollicité par les resolvers ou par d’autres serveurs cache. Ce type de serveur assure la fonction de récupération d’informations auprès de serveurs de noms ou d’autres serveurs cache. Il stocke les informations collectées dans son cache. Ce serveur ne gérant aucune zone DNS, le type de recherche supportée est récursif ;
+* **serveur SOA :** serveur de noms faisant autorité répondant aux requêtes pour une (ou plusieurs) zone(s). Ce serveur n’ayant pour mission que de répondre à des requêtes sur un ou plusieurs domaines, dans notre configuration, nous n’autorisons aucune récursion.
 
 ### 1.2 Les vulnérabilités DNS
 À présent, regardons les différents types de menaces pouvant toucher le DNS :
-* la fuite d’informations via des canaux cachés ;
-* la corruption de résolution DNS permettant d’abuser les utilisateurs du système, d’informations et de leur dérober des informations sensibles ;
-* le déni de services par l’acceptation de requêtes illégales ou par corruption de données dans les zones hébergées par les serveurs DNS internes.
+* la **fuite d’informations** via des canaux cachés ;
+* la **corruption de résolution DNS** permettant d’abuser les utilisateurs du système, d’informations et de leur dérober des informations sensibles ;
+* le **déni de services** par l’acceptation de requêtes illégales ou par corruption de données dans les zones hébergées par les serveurs DNS internes.
 
 **La fuite d’informations**
 La fuite d’informations par tunnel DNS a été couverte de manière complète dans les pages de MISC [^1]. Les contre-mesures pour lutter contre ce type d’évasion se concentreront autour de la politique d’accès au service DNS ainsi qu’aux requêtes autorisées en fonction du type de client. La mise en oeuvre de cette politique sera décrite dans le paragraphe " Configuration du serveur DNS cache interne ".
@@ -51,15 +51,15 @@ Le déni de services distribué est une menace commune à tous les protocoles TC
 
 Pour maitriser au mieux le DNS et son utilisation, nous fixons les règles suivantes :
 * Aucune machine du réseau interne ne peut accèder à l’internet. Elles utilisent toutes un proxy HTTP pour le web ou un relais SMTP pour la messagerie;
-* Aucune machine ne peut donc résoudre autre chose que le domaine mondomaine.fr.
+* Aucune machine ne peut donc résoudre autre chose que le domaine `mondomaine.fr`.
 Cela permet d’être sûr de pouvoir déployer une politique de sécurité maitrisable.
 
 ### 2.1 Les serveurs DNS et leur rôle
 La base pour fixer une politique de résolution est donc de définir un périmètre et des règles d’accès :
-* Un serveur DNS cache interne assure la résolution de tout type de requête issue d’une machine du réseau interne ;
-* Un serveur DNS SOA assure la gestion du domaine de l’entreprise pour le réseau interne de l’entreprise. Ce serveur ne peut être sollicité que par le serveur de résolution ;
-* Un serveur DNS cache en DMZ assure la résolution des requêtes sur les noms internet issues du serveur DNS cache interne ;
-* Un serveur DNS SOA externe assure la gestion du domaine de l’entreprise pour les macines de l’internet. Ce serveur sera sollicitable par toute machine sur l’internet.
+* Un **serveur DNS cache interne** assure la résolution de tout type de requête issue d’une machine du réseau interne ;
+* Un **serveur DNS SOA** assure la gestion du domaine de l’entreprise pour le réseau interne de l’entreprise. Ce serveur ne peut être sollicité que par le serveur de résolution ;
+* Un **serveur DNS cache en DMZ** assure la résolution des requêtes sur les noms internet issues du serveur DNS cache interne ;
+* Un **serveur DNS SOA externe** assure la gestion du domaine de l’entreprise pour les macines de l’internet. Ce serveur sera sollicitable par toute machine sur l’internet.
 
 ![archi dns](/assets/articles/archi-dns/archi.png)
 
@@ -82,7 +82,7 @@ Et bien, la première attaque DNS est d’éviter toute requête DNS ! En effe
 
 Par exemple sous un système Microsoft Windows, le processus de résolution suit les étapes suivantes :
 * vérification si on demande la résolution du propre nom de la machine ;
-* présence du nom dans le fichier hosts (%Systemroot%\System32\Drives\Etc\hosts) ;
+* présence du nom dans le fichier hosts (`%Systemroot%\System32\Drives\Etc\hosts`) ;
 * DNS ;
 * WINS ;
 * broadcast réseaux ;
@@ -90,19 +90,19 @@ Par exemple sous un système Microsoft Windows, le processus de résolution suit
 
 Ainsi, si vous modifier le contenu du fichier hosts, la chaîne de résolution DNS est corrompue. Toute la politique de sécurité DNS est déjà réduite à néant !
 
-Cette méthode est utilisée par exemple par les vers de la lignée MYTOB [^2] qui font ainsi pointer des sites de type symantec.com ou update.symantec.com vers 127.0.0.1 et empêcher ainsi toute mise à jour de l’antivirus.
+Cette méthode est utilisée par exemple par les vers de la lignée MYTOB [^2] qui font ainsi pointer des sites de type `symantec.com` ou `update.symantec.com` vers `127.0.0.1` et empêcher ainsi toute mise à jour de l’antivirus.
 
 La solution est donc de s’assurer que les utilisateurs n’ont pas les droits administrateur et donc ne peuvent exécuter de processus pouvant modifier le fichier hosts. Idem pour ce qui est de l’accès aux paramètres DNS.
 
 ### 3.2 Configuration du serveur DNS cache interne
-Une fois que le poste client nous semble correctement configuré, voyons la configuration du serveur de cache interne. Dans notre exemple, les machines du réseau interne sont dans le réseau 10.1.0.0/16 et le serveur cache interne a l’adresse 10.1.255.4. 
+Une fois que le poste client nous semble correctement configuré, voyons la configuration du serveur de cache interne. Dans notre exemple, les machines du réseau interne sont dans le réseau `10.1.0.0/16` et le serveur cache interne a l’adresse `10.1.255.4`. 
 
 **Les vues sous Bind**
 
 Nos besoins nous conduiront dans le paragraphe suivant à vouloir faire varier les résultats des requêtes en fonction du type de client (ici PC normaux et machines proxies/pivots). Or, Bind nous donne le moyen de réaliser cela : les vues. Une vue est une configuration de Bind pour répondre à certains clients certains résultats grâce aux instructions suivantes :
-* acl : permet de définir sous un nom un jeu de clients (adresses IP);
-* view : définit une configuration complète pour un type de client;
-* match-clients : instruction indiquant les clients à qui s’adressent une vue.
+* `acl` : permet de définir sous un nom un jeu de clients (adresses IP);
+* `view` : définit une configuration complète pour un type de client;
+* `match-clients` : instruction indiquant les clients à qui s’adressent une vue.
 
 ![Vues](/assets/articles/archi-dns/vues.png)
 
@@ -110,13 +110,13 @@ Au chapitre 2, nous avons défini différents types de clients au sein du résea
 
 **NB:** tous les fichiers de configuration sont disponibles sur le site [^3].
 
-```apache
+```bash
 // ENTETE DU FICHIER NAMED.CONF du DNS CACHE INTERNE
 // Definition des différents types de clients
 
 // les proxies
 acl "passerelles" { 10.1.255.3/32; };
-// les machines du reseau interne de l'entreprise
+// les machines du reseau interne de l entreprise
 acl "reseaulocal" { 10.1.0.0/16; };
 // le DNS cache en DMZ
 acl "dns-cache-internet" { 10.255.1.4/32; };
@@ -162,8 +162,8 @@ view "passerelles" {
 ![Resolution proxy](/assets/articles/archi-dns/resolution-dns-proxy.png)
 
 Les passerelles peuvent effectuer tout type de requête. Ces requêtes seront satisfaites de la maniêre suivante :
-* requête sur le domaine mondomaine.fr : envoi d’une requête auprès du serveur maître interne (IP : 10.255.2.4) ;
-* requête sur tout autre domaine : envoi vers le serveur cache en DMZ (adresse IP 10.255.1.4).
+* requête sur le domaine `mondomaine.fr` : envoi d’une requête auprès du serveur maître interne (IP : `10.255.2.4`) ;
+* requête sur tout autre domaine : envoi vers le serveur cache en DMZ (adresse IP `10.255.1.4`).
 
 Voici ensuite la vue pour les postes lambda du réseau local :
 
@@ -171,7 +171,7 @@ Voici ensuite la vue pour les postes lambda du réseau local :
 // Fin du FICHIER NAMED.CONF du DNS CACHE INTERNE
 // vue s adressant aux PC du reseau interne de l entreprise
 view "reseaulocal" {
-        // Machines a qui s'adressent cette vue. 
+        // Machines a qui s adressent cette vue. 
         // Ici, les machines lambda (PC) du reseau interne.
 	match-clients { "reseaulocal"; };
       
@@ -334,7 +334,7 @@ On dit généralement que l’udp est utilisée pour les requêtes simples et tc
 
 ## 6. Serveur DNS SOA externe
 Le serveur DNS Internet est celui le plus exposé en considérant le danger extérieur (nous ne reviendrons pas sur ce vaste sujet...). Il est donc important de bien lui appliquer les règles de sécurité appliquées à tout serveur disponible sur Internet. Au niveau de la configuration DNS, elle est très simple. Il suffit de créer une zone de type maître sur ce serveur et d’interdire toute récursion. Il faut ensuite remplir la zone avec les données devant être disponibles sur Internet.
-```apache
+```bash
 options { 
 	// Répertoire où se trouvent les fichiers de zone
 	directory "/var/named";
