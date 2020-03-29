@@ -179,8 +179,21 @@ _Distanciation sociale :_ cette expression sortie de nulle part et que tout le m
 
 Les jours s'écoulent doucement. 
 
-Vendredi soir, un premier concours familial de création s'est conclu par la révélation des productions autour d'un petit apéritif. Thème : le printemps. Deux origamis (une fleur, une hirondelle), une poème sous forme de recette du bonheur et un masque de fleur porté lors d'une performance. 
+Vendredi soir, un premier concours familial de création s'est conclu par la révélation des productions autour d'un petit apéritif. Thème : le printemps. Deux origamis (une fleur, une hirondelle), une poème sous forme de recette du bonheur et un masque de fleur porté lors d'une performance. Moment doux, rieur, chaleureux.
 
-Beaucoup d'heures s'écoulent autour de la lecture.
+Au delà des tâches ménagères habituelles du week end, beaucoup d'heures s'écoulent autour de la lecture. Plaisir.
 
-Un moment de cette semaine me trotte tout de même dans la tête. Assez spontanément, des collègues se sont mis à partager dans le chan Keybase leur environnement de travail. Et des remarques fusent. Sans se demander . De la même manière, .
+**Je voulais juste revenir sur un moment de cette semaine qui a prouvé que le télétravail s'apprend et n'est pas inné pour la majorité d'entre nous**. 
+
+Démonstration par l'exemple : 
+* assez spontanément, des collègues se sont mis à partager dans le chan Keybase leur environnement de travail sur la thématique _"Voici mon bureau de télétravail"_. 
+* Sympathique initiative à la base. Et s'enchainent ensuite quelques remarques sur le thème _"c'est pas optimal chez toi"_ : trop sombre, pas assez grand etc. Sans se poser un instant la question des conditions de vie du ou de la collègue. 
+* Et bien entendu, les remarques venaient de ceux qui vivent sans contrainte d'espace, à la campagne et non des urbains reclus avec leur famille dans un 60m2. 
+
+De la même manière :
+* se succédèrent quelques photos de jardin et de barbecue partagées sur le thème _"nous vous envoyons un peu de bonheur"_. Cela relève, bien entendu, d'un bon sentiment initial et non de la malice. 
+* **Malheureusement, le message reçu était plutôt :** _"Vas y, étale ton hectare de terrain et ton BBQ  pendant que je prends le risque de choper le COVID19 en descendant mes poubelles dans les parties communes de mon immeuble"_. 
+
+Ce type de publications ne prouvait que le manque de volonté spontanée des gens à se mettre à la place des autres. 
+
+Leçon à partager : **le télétravail exige de chacun beaucoup plus d'empathie et de prise en compte de l'autre que le travail en présenciel**. 
