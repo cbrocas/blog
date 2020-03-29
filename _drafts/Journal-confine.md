@@ -174,3 +174,13 @@ E. a fini quant à elle sa période de quarantaine depuis son retour d'Italie. P
 [[src]](https://twitter.com/IrenaBuzarewicz/status/1243053576680869889)
 
 _Distanciation sociale :_ cette expression sortie de nulle part et que tout le monde utilise partout sur Terre ! #AssezDingue
+
+# Confinement : jour 14 (dimanche 29 mars 2020)
+
+Les jours s'écoulent doucement. 
+
+Vendredi soir, un premier concours familial de création s'est conclu par la révélation des productions autour d'un petit apéritif. Thème : le printemps. Deux origamis (une fleur, une hirondelle), une poème sous forme de recette du bonheur et un masque de fleur porté lors d'une performance. 
+
+Beaucoup d'heures s'écoulent autour de la lecture.
+
+Un moment de cette semaine me trotte tout de même dans la tête. Assez spontanément, des collègues se sont mis à partager dans le chan Keybase leur environnement de travail. Et des remarques fusent. Sans se demander . De la même manière, .
