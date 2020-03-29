@@ -1,18 +1,18 @@
 ---
 title: Journal confiné 
+date: 19/03/2020
 ---
 
 {:refdef: style="text-align: center;"}
-![JC Jones](https://archives.pass-the-salt.org/RMLL%20Security%20Tracks/2016/photos/PhotosRMLLSEC%202016-by-regiteric/20160705_0015_01.jpg)
-<br> 
-_JC Jones during RMLL Sec 2016 - photo by Eric Leblond under CC BY-NC-SA_
+![etagere](/assets/articles/journal-confine/chat.jpeg)<br> 
+_Confinement Master_
 {: refdef}
 
 # Confinement : les 2 semaines d'avant
 
 Notre confinement a véritablement commencé le lundi 16 mars 2020. 
 
-Mais nous étions déjà bien impactés les deux semaines précédentes car notre fille ainée avait débuté un semestre d'études Erasmus à Pise, qui n'était pas en zone rouge, le lundi 2 mars 2020 :
+Mais nous étions déjà bien impactés les deux semaines précédentes car notre fille ainée E. avait débuté un semestre d'études Erasmus à Pise, qui n'était pas en zone rouge, le lundi 2 mars 2020 :
 * jeudi 5 mars : les facultés et écoles fermaient pour d'abord 10 jours puis pour plusieurs semaines.
 * samedi 7 mars : fermeture des musées, commerces.
 * lundi 9 mars : tout le pays bascule en confinement, plus de zones rouges et de zones blanches.
@@ -29,7 +29,7 @@ Panique dans la voix. On lui dit que l'on cherche un autre vol et qu'on la rappe
 
 C'est finalement elle qui nous rappelle car elle a un vol possible chez RyanAir Pise - Charleroi(BE) puis Charleroi - Bordeaux le lendemain. Elle nous demande de s'occuper de la réservation car elle est trop stressée et fatiguée. On s'en occupe.
 
-__En passant :__ on regarde les messages dédiés au COVID-19 sur le site de **RyanAir**. Là, **contrairement à EasyJet** qui te permet toujours de réserver des vols qui ont toutes les chances de sauter, RyanAir explique sa politique jusqu'à la fin de la semaine. Ils ferment leur desserte de l'Italie vendredi 13 mars à minuit. Ils préviennent leurs passagers des semaines suivantes pour qu'ils basculent sur les vols de la semaine en cours qui sont **tous maintenus**. **Clair, net et précis**. 
+__En passant, côté fiabilité de la communication (et des opérations !) de crise : RyanAir > EasyJet.__ On regarde les messages dédiés au COVID-19 sur le site de **RyanAir**. Là, **contrairement à EasyJet** qui te permet toujours de réserver des vols qui ont toutes les chances de sauter, RyanAir explique sa politique jusqu'à la fin de la semaine. Ils ferment leur desserte de l'Italie vendredi 13 mars à minuit. Ils préviennent leurs passagers des semaines suivantes pour qu'ils basculent sur les vols de la semaine en cours qui sont **tous maintenus**. **Clair, net et précis**. 
 
 Un peu rassurés, on réserve donc les 2 vols via Charleroi, notre fille réserve un taxi via une application car les transports publics de Pise ne sont pas sûrs d'être opérationnels à 7h du matin le lendemain. Elle ne dort pas beaucoup.
 
@@ -39,9 +39,8 @@ Depuis, elle est en confinement total à la maison. Paix.
 
 **Roll forward :** 
 * **jeudi 12 mars au soir :** allocution présidentielle annonçant la fermeture des écoles le lundi suivant.
-* **samedi 14 mars au soir :** annonce de la fermeture de tous les lieux publics « non indispensables » par le premier ministre le samedi soir. Premier tour des élections cependant maintenues.
+* **samedi 14 mars au soir :** annonce de la fermeture de tous les lieux publics « non indispensables » par le premier ministre le samedi soir. Premier tour des élections cependant maintenu.
 * **dimanche 15 mars après midi :** annonce par SMS de la fermeture des sites de mon entreprise partout en France (sauf besoin urgent). Bascule en télétravail. Bon.
-
 
 Nous y sommes.
 
@@ -49,15 +48,15 @@ Nous y sommes.
 
 Premier jour de télétravail pour moi. Je n'avais pas de compte VPN full access jusqu'à maintenant. Mais la semaine passée, voyant la situation évoluer rapidement, j'ai fait les démarches RH. Tout est en règle ce matin. Plus qu'à attendre les modifications de mes habilitations par les collègues du réseau. Ce qi est fait à 14h. Merci !
 
-Séverine est partie travailler à l'école. J'ai peur pour elle. L'anxiété de voir Séverine touchée ou pire me saisit là, maintenant. Je sais que cette peur ne me quittera plus pendant longtemps. Je suis terrifié.
+Mon épouse S. est partie travailler à l'école. J'ai peur pour elle. L'anxiété de la voir touchée ou pire me saisit là, maintenant. Je sais que cette peur ne me quittera plus pendant longtemps. 
 
-Eloïse continue son Erasmus à distance comme ... tous les étudiants italiens de son semestre. Elle déguste mais elle tient le choc.
+E. continue son Erasmus à distance comme ... tous les étudiants italiens de son semestre. Elle déguste mais elle tient le choc.
 
 Une petite belote le soir.
 
 # Confinement : jour 2 (mardi 17 mars 2020)
 
-Séverine est à la maison. De mon côté, le boulot est compliqué, les accès VPN sont dédiés aux CPAM et aux admins de productin (legit).
+S. est à la maison. De mon côté, le boulot est compliqué, les accès VPN sont dédiés aux CPAM et aux admins de productin (legit).
 
 Le soir, regarder un film avec Omar Sy sur Canal+ qui a basculé en clair jusqu'au 15 avril. C'est un moment tranquille, cosy.
 
@@ -65,7 +64,7 @@ Le soir, regarder un film avec Omar Sy sur Canal+ qui a basculé en clair jusqu'
 
 Côté travail, on bascule sur un pad hébergé sur un serveur d'un membre de l'équipe. On retrouve de la réactivité, de l'envie de produire ensemble. C'est bien.
 
-**Supermarché :** premières courses par Séverine. Pas de cohue, les caissières sont protégées : on dépose en bout de tapis, quand on a fini on passe la caisse d'à côté pour ne passer devant la caissière et on récupère à l'autre bout. C'est bien, on ne les expose pas. **Merci très sincèrement à tous les employés des commerces alimentaires, vraiment !**
+**Supermarché :** premières courses par S. Pas de cohue, les caissières sont protégées : on dépose en bout de tapis, quand on a fini on passe la caisse d'à côté pour ne passer devant la caissière et on récupère à l'autre bout. C'est bien, on ne les expose pas. **Merci très sincèrement à tous les employés des commerces alimentaires, vraiment !**
 
 # Confinement : jour 4 (jeudi 19 mars 2020)
 
@@ -77,7 +76,7 @@ Recul d'un pas, extinctivement, de la part de notre amie.
 
 Le boulot est très compliqué et épuisant du fait de devoir laisser le VPN aux gens des CPAM (legit) et aux admins/dev (legit aussi). On se rabat sur le site du réseau social d'entreprise Jamespot qui rame atrocement.
 
-Travaux de jardinage dans la cour pour Séverine en fin d'après midi que j'achève à la débauche. Cela fait du bien de faire et de penser à autre chose.
+Travaux de jardinage dans la cour pour S. en fin d'après midi que j'achève à la débauche. Cela fait du bien de faire et de penser à autre chose.
 
 Je commence à écrire ce journal.
 
@@ -99,6 +98,79 @@ C'est le premier week-end du jour d'après.
 
 Cette semaine, une routine de travail s'est installée peu à peu. 
 
-Les deux filles et moi restont à travailler dans une chambre tandis que Séverine vaque dans la salle, la cuisine ou la cour. On se retrouve pour manger. Pour Eloïse, le midi, c'est en général au lance pierre car les intercours de midi en Italie sont, de manière contre intuitive, des plus restreints.
+Les deux filles et moi restons à travailler dans une chambre tandis que S. travaille dans la salle, la cuisine ou la cour. On se retrouve pour manger. Pour l'ainée, le midi, c'est en général au lance pierre car les intercours de midi en Italie sont, de manière contre intuitive, des plus restreints.
 
 Le temps est frais le matin et printanier le reste de la journée. La cour aide au moral des troupes cloitrées : oiseaux qui volètent en piallant et végétation renaissante font du bien à l'oeil, à l'oreille et au coeur.
+
+Aujourd'hui, coup de stress d'E. en soirée avec des quintes de toux et des difficultés à respirer. Au final, une nuit calme tout de même.
+
+# Confinement : jour 7 (dimanche 22 mars 2020)
+
+Uniquement présent au marché de la place Marie Brizard, le boulanger. 2m entre chaque client.
+
+Je consacre la fin de matinée et l'après midi à faire du bricolage :
+* trouver du bois dans le fond du garage pour bâtir une sorte de marche / étagère puis la fixer sur le mur de la cour pour aider la chatte à y monter et à en descendre. 
+* changer ensuite le luminaire extérieur qui était tout cassé ... 
+
+**Utile et occupant l'esprit**. 
+
+Comme m'a dit un copain et comme a dû longtemps le penser ma femme : *"Et dire qu'il t'a fallu une pandémie pour t'y mettre ..."*. 
+
+Tristounet mais vrai ;-)
+
+![etagere](/assets/articles/journal-confine/etagere.jpeg)
+<br> 
+
+# Confinement : jour 8 (lundi 23 mars 2020)
+
+E. à J+12. Crossing fingers.
+
+Les pollens sont là même en Belgique où ceux de Bouleau sont déclarés là et en avance. Ca va pas améliorer le niveau de stress des gens qui vont tousser et avoir la gorge qui gratte.
+
+Cette après-midi, j'ai réalisé un vieux "fantasme" : travailler à la maison et avoir mon chat qui rentre dans la chambre, saute sur le lit afin de quémander des calins.
+
+J'ai fait ma PREMIERE PAUSE CHAT :D
+
+![chat](/assets/articles/journal-confine/chat.jpeg)
+
+Autre moment insolite mais aussi porteur de sens quand arrive un message Signal d'un ami qui me joint une photo d'un faisan qui est sur le rebord de sa fenêtre de sa maison à la campagne. Les êtres humains cloitrés depuis une semaine et la nature se réapproprie (déjà) l'espace :-)
+
+![faisan](/assets/articles/journal-confine/faisan.jpeg)
+<br> 
+
+# Confinement : jour 9 (mardi 24 mars 2020)
+
+E. à J+13 ce soir. 
+
+S. tousse pas mal, respire fortement la nuit. COVID en développement, pollens ? Pas de possibilité de test, du coup on reste dans le brouillard et le stress :-(
+
+Des amis me passent des liens vers Twitter ou des blogposts d'informations. Je les décline et/ou ne les lis pas. Je n'y arrive pas. Je ressens leur incompréhension voire leur désapprobation mais c'est comme cela.
+
+La soirée fut agréable :
+* triage de timbres pour certains, 
+* visionnage d'un Astérix en animation pour d'autres (Uderzo décédé aujourd'hui). 
+* un [journal de confinement](https://www.facebook.com/830424935/posts/10158229157259936/?d=n) relayé par S. nous a fait beaucoup rire. Je l'ai fait suivre à mon tour à des amis et collègues. Inspiré, "prospectif" et plein d'humour. Beaucoup plus que celui-ci en tous les cas ! ;-)
+
+# Confinement : jour 10 (mercredi 25 mars 2020)
+
+Recommandation du conseil scientifique : c'est parti à priori pour 6 semaines de confinement au total. Bon. Logique.
+
+Le temps est toujours frais et sec. Les oiseaux chantent, c'est agréable. En parlant de chants d'oiseaux, pas mal de gens se font la remarque que le bruit urbain a quasi disparu. C'est vrai ici aussi et on s'y fait. Le retour "à la normale" va être *particulier*.
+
+Bon, allez, on laisse tomber le chan sur Jamespot, c'est trop l'enfer les temps de réponse de ce site. 
+
+Direction Keybase et sa fonctionnalité de chats de groupes (teams). C'est juste parfait : 
+* chiffrement de bout en bout (pas de fuite de données en cas de piratage des serveurs), 
+* dépôt de fichiers, 
+* réactivité.
+
+Sinon, S. et moi continuons à tousser ¯\_(ツ)_/¯
+
+E. a fini quant à elle sa période de quarantaine depuis son retour d'Italie. Pas de symptôme autre que sa toux du week-end dernier. Considérons la donc comme sortie d'affaire. Soulagement.
+
+# Confinement : jour 12 (vendredi 27 mars 2020)
+
+![socialdistance](/assets/articles/journal-confine/socialdistancing.jpeg)
+[[src]](https://twitter.com/IrenaBuzarewicz/status/1243053576680869889)
+
+_Distanciation sociale :_ cette expression sortie de nulle part et que tout le monde utilise partout sur Terre ! #AssezDingue

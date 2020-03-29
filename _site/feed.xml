@@ -3,7 +3,9 @@
   <channel>
     <title>Blog</title>
     <description>Some thoughts from the Internets</description>
-    <link>https://blog.brocas.org</link>
+    <link>http://localhost:4000</link>
+    
+      
     
       
         <item>
@@ -87,8 +89,8 @@
 &lt;p&gt;&lt;strong&gt;But so, for real, have you got any results to share? Yes we have!&lt;/strong&gt; Just give a look to &lt;a href=&quot;https://www.pass-the-salt.org/achievements/&quot;&gt;our achievements page&lt;/a&gt; :-)&lt;/p&gt;
 </description>
           <pubDate>2017-09-13T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org/2017/09/13/RMLL-Security-track-why-how-and-for-which-results/</link>
-          <guid isPermaLink="true">https://blog.brocas.org/2017/09/13/RMLL-Security-track-why-how-and-for-which-results/</guid>
+          <link>http://localhost:4000/2017/09/13/RMLL-Security-track-why-how-and-for-which-results/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/09/13/RMLL-Security-track-why-how-and-for-which-results/</guid>
         </item>
       
     
@@ -111,8 +113,8 @@
 &lt;p&gt;It was in 1989. On a Unix system. Connected to … nothing : no network available at this time on this server. And password theft was already a game :-)&lt;/p&gt;
 </description>
           <pubDate>2015-01-28T00:00:00+01:00</pubDate>
-          <link>https://blog.brocas.org/2015/01/28/my-first-Unix-session-was-a-password-hijack-experience/</link>
-          <guid isPermaLink="true">https://blog.brocas.org/2015/01/28/my-first-Unix-session-was-a-password-hijack-experience/</guid>
+          <link>http://localhost:4000/2015/01/28/my-first-Unix-session-was-a-password-hijack-experience/</link>
+          <guid isPermaLink="true">http://localhost:4000/2015/01/28/my-first-Unix-session-was-a-password-hijack-experience/</guid>
         </item>
       
     
@@ -193,8 +195,8 @@ Je souris ;-)&lt;/p&gt;
   Vista : hihihi ;-)”&lt;/em&gt;&lt;/p&gt;
 </description>
           <pubDate>2012-12-18T00:00:00+01:00</pubDate>
-          <link>https://blog.brocas.org/2012/12/18/F.,-10-ans,-decouvre-le-web,-wikipedia-et-un-peu-plus/</link>
-          <guid isPermaLink="true">https://blog.brocas.org/2012/12/18/F.,-10-ans,-decouvre-le-web,-wikipedia-et-un-peu-plus/</guid>
+          <link>http://localhost:4000/2012/12/18/F.,-10-ans,-decouvre-le-web,-wikipedia-et-un-peu-plus/</link>
+          <guid isPermaLink="true">http://localhost:4000/2012/12/18/F.,-10-ans,-decouvre-le-web,-wikipedia-et-un-peu-plus/</guid>
         </item>
       
     
@@ -267,8 +269,8 @@ Je souris ;-)&lt;/p&gt;
 
 </description>
           <pubDate>2010-07-16T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org/2010/07/16/RMLL-LSM-2010-3-3-RMLL-perfect-setup/</link>
-          <guid isPermaLink="true">https://blog.brocas.org/2010/07/16/RMLL-LSM-2010-3-3-RMLL-perfect-setup/</guid>
+          <link>http://localhost:4000/2010/07/16/RMLL-LSM-2010-3-3-RMLL-perfect-setup/</link>
+          <guid isPermaLink="true">http://localhost:4000/2010/07/16/RMLL-LSM-2010-3-3-RMLL-perfect-setup/</guid>
         </item>
       
     
@@ -366,8 +368,8 @@ Je souris ;-)&lt;/p&gt;
 
 </description>
           <pubDate>2010-07-13T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org/2010/07/13/RMLL-LSM-2010-2-3-internationalization/</link>
-          <guid isPermaLink="true">https://blog.brocas.org/2010/07/13/RMLL-LSM-2010-2-3-internationalization/</guid>
+          <link>http://localhost:4000/2010/07/13/RMLL-LSM-2010-2-3-internationalization/</link>
+          <guid isPermaLink="true">http://localhost:4000/2010/07/13/RMLL-LSM-2010-2-3-internationalization/</guid>
         </item>
       
     
@@ -447,8 +449,8 @@ Je souris ;-)&lt;/p&gt;
 
 </description>
           <pubDate>2010-07-13T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org/2010/07/13/RMLL-LSM-2010-1-3-Themes-et-partage-d-une-vision-commune/</link>
-          <guid isPermaLink="true">https://blog.brocas.org/2010/07/13/RMLL-LSM-2010-1-3-Themes-et-partage-d-une-vision-commune/</guid>
+          <link>http://localhost:4000/2010/07/13/RMLL-LSM-2010-1-3-Themes-et-partage-d-une-vision-commune/</link>
+          <guid isPermaLink="true">http://localhost:4000/2010/07/13/RMLL-LSM-2010-1-3-Themes-et-partage-d-une-vision-commune/</guid>
         </item>
       
     
@@ -667,8 +669,8 @@ Je souris ;-)&lt;/p&gt;
 &lt;p&gt;Comme nous venons de le voir, une architecture qui permet de bien maîtriser les flux de données couplée à une analyse des logs de son (ses) serveur(s) DNS permet de disposer d’une sonde de détection de postes compromis. Cette solution a l’avantage d’être légère, non structurante et … ne coûte rien ! Cela n’empêche en aucun cas le RSSI ou le DSI de doter l’entreprise de solutions plus complète (et complexe), intrusive et chère.&lt;/p&gt;
 </description>
           <pubDate>2009-05-28T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org/2009/05/28/Mon-serveur-DNS,-mon-IDS-oubli%C3%A9/</link>
-          <guid isPermaLink="true">https://blog.brocas.org/2009/05/28/Mon-serveur-DNS,-mon-IDS-oubli%C3%A9/</guid>
+          <link>http://localhost:4000/2009/05/28/Mon-serveur-DNS,-mon-IDS-oubli%C3%A9/</link>
+          <guid isPermaLink="true">http://localhost:4000/2009/05/28/Mon-serveur-DNS,-mon-IDS-oubli%C3%A9/</guid>
         </item>
       
     
@@ -1161,8 +1163,8 @@ Nov 25 15:22:53.390 security: error: client 192.168.9.9#32776: zone transfer &lt
 &lt;/div&gt;
 </description>
           <pubDate>2006-06-22T00:00:00+02:00</pubDate>
-          <link>https://blog.brocas.org/2006/06/22/De-la-securite-d-une-architecture-dns-d-entreprise/</link>
-          <guid isPermaLink="true">https://blog.brocas.org/2006/06/22/De-la-securite-d-une-architecture-dns-d-entreprise/</guid>
+          <link>http://localhost:4000/2006/06/22/De-la-securite-d-une-architecture-dns-d-entreprise/</link>
+          <guid isPermaLink="true">http://localhost:4000/2006/06/22/De-la-securite-d-une-architecture-dns-d-entreprise/</guid>
         </item>
       
     
