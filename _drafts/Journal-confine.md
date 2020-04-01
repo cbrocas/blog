@@ -175,11 +175,11 @@ E. a fini quant à elle sa période de quarantaine depuis son retour d'Italie. P
 
 _Distanciation sociale :_ cette expression sortie de nulle part et que tout le monde utilise partout sur Terre ! #AssezDingue
 
+Vendredi soir, un premier concours familial de création s'est conclu par la révélation des productions autour d'un petit apéritif. Thème : le printemps. Deux origamis (une fleur, une hirondelle), une poème sous forme de recette du bonheur et un masque de fleur porté lors d'une performance. Moment doux, rieur, chaleureux.
+
 # Confinement : jour 14 (dimanche 29 mars 2020)
 
 Les jours s'écoulent doucement. 
-
-Vendredi soir, un premier concours familial de création s'est conclu par la révélation des productions autour d'un petit apéritif. Thème : le printemps. Deux origamis (une fleur, une hirondelle), une poème sous forme de recette du bonheur et un masque de fleur porté lors d'une performance. Moment doux, rieur, chaleureux.
 
 Au delà des tâches ménagères habituelles du week end, beaucoup d'heures s'écoulent autour de la lecture. Plaisir.
 
@@ -194,6 +194,30 @@ De la même manière :
 * se succédèrent quelques photos de jardin et de barbecue partagées sur le thème _"nous vous envoyons un peu de bonheur"_. Cela relève, bien entendu, d'un bon sentiment initial et non de la malice. 
 * **Malheureusement, le message reçu était plutôt :** _"Vas y, étale ton hectare de terrain et ton BBQ  pendant que je prends le risque de choper le COVID19 en descendant mes poubelles dans les parties communes de mon immeuble"_. 
 
-Ce type de publications ne prouvait que le manque de volonté spontanée des gens à se mettre à la place des autres. 
+Ce type de publications ne prouvait que l'incapacité naturelle des gens à se mettre à la place des autres. 
 
 Leçon à partager : **le télétravail exige de chacun beaucoup plus d'empathie et de prise en compte de l'autre que le travail en présenciel**. 
+
+# Confinement : jour 15 (lundi 30 mars 2020)
+
+Il est tombé quelques flocons. Froid humide. Morne journée en perspective ...
+
+# Confinement : jour 16 (mardi 31 mars 2020)
+
+Evier de salle de bain bouché. La vidange et le curage du siphon habituels n'y font rien. Une bonne partie de la journée passée dessus par S. dessus se solde par une dépose totale du siphon et 2h de furet pour arriver à passer 2 coudes et enfin attraper le bouchon logé 1,5m plus loin ... #ouf
+
+# Confinement : jour 17 (mercredi 1er avril 2020)
+
+Au boulot, je communique à la hiérarchie le RETEX sur Keybase. De même, une expérimentation NextCloud semble vouloir être lancée par le DSI. J'appuie le collègue Sécurité qui va suivre le sujet. Qui sait, verra-t-on peut être ce soft que j'utilise et apprécie personnellement au sein de mon entreprise. La recommendation d'authentification 2FA est poussée. Wait and see. Et pour finir la journée, une avalanche d'analyse sécurité et privacy sur Zoom. On fait notamment un retour sur une VLN de RCE (exploitation path UNC) avec des propositions de mitigation. Bonne journée ;-)
+
+Sinon, ce matin, une collègue du site de Bordeaux m'a proposé, pour rétablir un peu de lien, de relancer l'idée du concours photo que j'avais initié il y a quelques annéees. Très bonne idée :)
+
+Ce sera sous la variation suivante :
+* concours hebdo
+* tous les agents du site et leurs proches confinés peuvent participer
+* envoi de la photo/titre/nom par mail
+* publication en ligne via une galerie Twitter
+
+On verra bien le résultat ¯\_(ツ)_/¯
+
+Et au sein du service, ce fut une [première playlist de confinement](https://www.youtube.com/playlist?list=PL4R3_KN738PSXUpdzYPYouzp7284ELuSF) que j'ai lancée. Bonne écoute !
