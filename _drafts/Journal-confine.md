@@ -204,7 +204,7 @@ Il est tombé quelques flocons. Froid humide. Morne journée en perspective ...
 
 # Confinement : jour 16 (mardi 31 mars 2020)
 
-Evier de salle de bain bouché. La vidange et le curage du siphon habituels n'y font rien. Une bonne partie de la journée passée dessus par S. dessus se solde par une dépose totale du siphon et 2h de furet pour arriver à passer 2 coudes et enfin attraper le bouchon logé 1,5m plus loin ... #ouf
+Evier de salle de bain bouché. La vidange et le curage du siphon habituels n'y font rien. Une bonne partie de la journée passée dessus par S. se solde par une dépose totale du siphon et 2h de furet pour arriver à passer 2 coudes et enfin attraper le bouchon logé 1,5m plus loin ... #ouf
 
 # Confinement : jour 17 (mercredi 1er avril 2020)
 
@@ -221,3 +221,22 @@ Ce sera sous la variation suivante :
 On verra bien le résultat ¯\_(ツ)_/¯
 
 Et au sein du service, ce fut une [première playlist de confinement](https://www.youtube.com/playlist?list=PL4R3_KN738PSXUpdzYPYouzp7284ELuSF) que j'ai lancée. Bonne écoute !
+
+# Confinement : jour 19 (vendredi 3 avril 2020)
+
+Je parlais plus tôt dans ce journal que la DSI souhaitait une expérimentation de Nextcloud. J'avais proposé de mettre nos architectes en relation avec Cédric Foll, DSI de l'université de Lille, qui a déployé cette solution à l'échelle pour plusieurs dizaines de milliers d'utilisateurs.
+
+Que pensez vous qu'il arriva ?
+
+Nos architectes ont préféré faire appel à leur sous traitant attitré, ATOS, qui fournit des _"**expertises**"_ en tout.
+
+Et devinez ce qu'a fait l'expert mandaté ? Il s'est mis à bosser en mettant en oeuvre son expertise que l'on paie ? **Perdu !**
+
+Il est allé chercher de l'_**aide gratuite**_ de la même université de Lille. De l'art et la manière de vendre une expertise que l'on n'a pas et que l'on acquiert avec les sous du client. Et si avec tout ça, on peut en plus devenir _"Partenaire Nextcloud"_, pourquoi pas hein !
+
+![atos](/assets/articles/journal-confine/atos.png)
+
+**Src :** demande de mise en relation entre ATOS et la DSI de l'université de Lille.
+
+**Du bon siphonage des deniers publics par les grosses SSII !**
+
