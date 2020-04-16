@@ -13,13 +13,13 @@ _Confinement Master_
 Notre confinement a véritablement commencé le lundi 16 mars 2020. 
 
 Mais nous étions déjà bien impactés les deux semaines précédentes car notre fille ainée E. avait débuté un semestre d'études Erasmus à Pise, qui n'était pas en zone rouge, le lundi 2 mars 2020 :
-* jeudi 5 mars : les facultés et écoles fermaient pour d'abord 10 jours puis pour plusieurs semaines.
-* samedi 7 mars : fermeture des musées, commerces.
-* lundi 9 mars : tout le pays bascule en confinement, plus de zones rouges et de zones blanches.
+* **jeudi 5 mars :** les facultés et écoles fermaient pour d'abord 10 jours puis pour plusieurs semaines.
+* **samedi 7 mars :** fermeture des musées, commerces.
+* **lundi 9 mars :** tout le pays bascule en confinement, plus de zones rouges et de zones blanches.
 
 Le stress monte très rapidement pour notre fille isolée dans sa chambre dans un pays étranger qui se ferme. De notre côté, en tant que parents, un sentiment d'impuissance monte aussi en cas de souci de santé éventuel.
 
-Mardi 10 mars en fin d'après midi, nous prenons la décision collectivement du retour. Nous réservons un vol Pise - Paris (Orly) sur EasyJet pour notre fille le lendemain. De son côté, elle prend une réservation de navette pour rejoindre Montparnasse et de là prendre un TGV pour Bordeaux.
+**Mardi 10 mars en fin d'après midi, nous prenons la décision collectivement du retour**. Nous réservons un vol Pise - Paris (Orly) sur EasyJet pour notre fille le lendemain. De son côté, elle prend une réservation de navette pour rejoindre Montparnasse et de là prendre un TGV pour Bordeaux.
 
 Tout est booké, la sérénité revient. Au bémol qu'une majorité de compagnies aériennes annoncent la fermeture plus ou moins rapide de leur desserte de l'Italie.
 
@@ -29,7 +29,9 @@ Panique dans la voix. On lui dit que l'on cherche un autre vol et qu'on la rappe
 
 C'est finalement elle qui nous rappelle car elle a un vol possible chez RyanAir Pise - Charleroi(BE) puis Charleroi - Bordeaux le lendemain. Elle nous demande de s'occuper de la réservation car elle est trop stressée et fatiguée. On s'en occupe.
 
-__En passant, côté fiabilité de la communication (et des opérations !) de crise : RyanAir > EasyJet.__ On regarde les messages dédiés au COVID-19 sur le site de **RyanAir**. Là, **contrairement à EasyJet** qui te permet toujours de réserver des vols qui ont toutes les chances de sauter, RyanAir explique sa politique jusqu'à la fin de la semaine. Ils ferment leur desserte de l'Italie vendredi 13 mars à minuit. Ils préviennent leurs passagers des semaines suivantes pour qu'ils basculent sur les vols de la semaine en cours qui sont **tous maintenus**. **Clair, net et précis**. 
+__Côté fiabilité de la communication et des opérations de crise, RyanAir a été définitivement meilleur qu'EasyJet.__ 
+
+En effet, quand on regarde la page dédiée au COVID-19 sur le site de **RyanAir**, tout est clair et carré. **Contrairement à EasyJet** qui te permet toujours de réserver des vols qui ont toutes les chances de sauter, RyanAir explique sa politique jusqu'à la fin de la semaine. Ils ferment leur desserte de l'Italie vendredi 13 mars à minuit. Ils préviennent leurs passagers des semaines suivantes pour qu'ils basculent sur les vols de la semaine en cours qui sont **tous maintenus**. **Clair, net et précis**. 
 
 Un peu rassurés, on réserve donc les 2 vols via Charleroi, notre fille réserve un taxi via une application car les transports publics de Pise ne sont pas sûrs d'être opérationnels à 7h du matin le lendemain. Elle ne dort pas beaucoup.
 
@@ -222,21 +224,51 @@ On verra bien le résultat ¯\_(ツ)_/¯
 
 Et au sein du service, ce fut une [première playlist de confinement](https://www.youtube.com/playlist?list=PL4R3_KN738PSXUpdzYPYouzp7284ELuSF) que j'ai lancée. Bonne écoute !
 
-# Confinement : jour 19 (vendredi 3 avril 2020)
+# Confinement : jour 21 (dimanche 5 avril 2020)
 
-Je parlais plus tôt dans ce journal que la DSI souhaitait une expérimentation de Nextcloud. J'avais proposé de mettre nos architectes en relation avec Cédric Foll, DSI de l'université de Lille, qui a déployé cette solution à l'échelle pour plusieurs dizaines de milliers d'utilisateurs.
+Le week-end fut plus long que les précédents. 
 
-Que pensez vous qu'il arriva ?
+Le bricolage qui serait possible voire nécessaire se heurte au manque de matières premières : plus assez de peinture au fond du pot, la pâte à bois qui a séché ...
 
-Nos architectes ont préféré faire appel à leur sous traitant attitré, ATOS, qui fournit des _"**expertises**"_ en tout.
+J'ai repris un peu l'appareil photo pour le concours photo. Cela faisait du bien. 
 
-Et devinez ce qu'a fait l'expert mandaté ? Il s'est mis à bosser en mettant en oeuvre son expertise que l'on paie ? **Perdu !**
+Il va falloir que je m'astreigne à sortir marcher dans le quartier car là, cela devient compliqué. 
 
-Il est allé chercher de l'_**aide gratuite**_ de la même université de Lille. De l'art et la manière de vendre une expertise que l'on n'a pas et que l'on acquiert avec les sous du client. Et si avec tout ça, on peut en plus devenir _"Partenaire Nextcloud"_, pourquoi pas hein !
+3 semaines que le confinement a débuté. Bientôt 4 semaines qu'E. est revenue d'Italie. Si peu de temps et pourtant une éternité ... Cela pèse.
 
-![atos](/assets/articles/journal-confine/atos.png)
+# Confinement : jour 22 (lundi 6 avril 2020)
 
-**Src :** demande de mise en relation entre ATOS et la DSI de l'université de Lille.
+Ce matin, comme tous les matins de la semaine, un voisin du quartier vient chercher son scooter stationné sur la place pour aller à son travail. 
 
-**Du bon siphonage des deniers publics par les grosses SSII !**
+A l'attention que la personne porte à la manière dont la machine démarre, on ressent l'angoisse que son moyen de locomotion tombe en rade et l'empêche d'aller travailler. 
+
+La vie.
+
+# Confinement : jour 26 (vendredi 10 avril 2020)
+
+Le besoin d'écrire, de témoigner s'éloigne, en même temps que la peur, me semble-t-il. Ce qui n'est ni très sain ni très objectif. Le danger d'être contaminé est toujours présent à chaque sortie, aucun traitement n'est disponible. La seule réaction de son corps nous assure de s'en sortir. Ou pas. On est pas sortis des ennuis ...
+
+Sinon, une petite satistaction au travail : un sujet que j'ai pu faire laborieusement avancer pendant plusieurs mois nous a permis de récolter une remontée responsable d'une vulnérabilité sur un de nos portails web. Content.
+
+Mercredi, j'ai mis en ligne les clichés du [premier concours photo de confinement](https://www.flickr.com/gp/102517556@N08/ji4m9q). Sympa :-)
+
+A la maison, l'atmosphère est toujours sereine. Cela fait du bien.
+
+# Confinement : jour 32 (jeudi 16 avril 2020)
+
+Un long week-end est encore passé. C'était celui de Pâques ponctué de sa chasse aux oeufs et de son bon repas du dimanche. Moments toujours délicieux. Le confinement est toujours de rigueur chez nous, on ne sort que pour les courses, jamais pour se promener. On devrait, je pense, mais pour ce qui me concerne, je n'y arrive pas.
+
+Seule variation dans un concert d'activités de week-ends : une petite réparation pour un lit qui tombe en lambeaux ;-)
+
+Sinon comme tous les week-ends désormais, nous avons notre petit concours. Cette semaine, le thème était le "Voyage". 
+
+Concernant les concours, celui de photographie que je co-anime au travail continue : "Au coeur de la cuisine".
+
+Ah si, une première pour nous : une visio familiale avec trois parties. Cela a bien fonctionné et nous avons eu de bonnes nouvelles de tout le monde. Safe.
+
+Lundi soir, le président a donné la date du 11 mai pour un début de confinement. De manière incompréhensible pour moi, il veut commencer avec les écoles. Nous verrons bien mais j'ai un gros doute.
+
+La box Internet montre des faiblesses (WiFi qui tombe, la box qui reboote ...). Va falloir surveiller ça et surtout croiser les doigts. 
+
+De manière préventive, j'ai commandé un AP pour suppléer la box si le WiFi venait à lâcher définitivement. Reste à ce que l'AP arrive ... Nous verrons bien.
 
