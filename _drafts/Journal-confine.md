@@ -248,7 +248,7 @@ La vie.
 
 Le besoin d'écrire, de témoigner s'éloigne, en même temps que la peur, me semble-t-il. Ce qui n'est ni très sain ni très objectif. Le danger d'être contaminé est toujours présent à chaque sortie, aucun traitement n'est disponible. La seule réaction de son corps nous assure de s'en sortir. Ou pas. On est pas sortis des ennuis ...
 
-Sinon, une petite satistaction au travail : un sujet que j'ai pu faire laborieusement avancer pendant plusieurs mois nous a permis de récolter une remontée responsable d'une vulnérabilité sur un de nos portails web. Content.
+Sinon, une petite satistaction au travail : un sujet que j'ai fait laborieusement avancer pendant plusieurs mois nous a permis de récolter une remontée responsable d'une vulnérabilité sur un de nos portails web. Content.
 
 Mercredi, j'ai mis en ligne les clichés du [premier concours photo de confinement](https://www.flickr.com/gp/102517556@N08/ji4m9q). Sympa :-)
 
@@ -272,3 +272,14 @@ La box Internet montre des faiblesses (WiFi qui tombe, la box qui reboote ...). 
 
 De manière préventive, j'ai commandé un AP pour suppléer la box si le WiFi venait à lâcher définitivement. Reste à ce que l'AP arrive ... Nous verrons bien.
 
+# Confinement : jour 39 (jeudi 23 avril 2020)
+
+Plus du tout envie d'écrire. Pas le moral non plus. C'est bien entendu lié.
+
+Fin de l'histoire.
+
+# Postface - 20 mai 2021
+
+Ce premier (sic) confinement n'était, bien entendu, que le début de l'histoire médicale de cette année 2021-2021 tant pour la pandémie que pour notre petite famille. Mais, ça, je ne le savais / réalisais pas encore ...
+
+C'est _"**La Vie (c)**"_.
