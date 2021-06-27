@@ -1,6 +1,6 @@
 ---
 title: Réanimation à l'hôpital Saint André de Bordeaux. Merci, simplement et intensément merci.
-date: 30/05/2021
+date: 27/06/2021
 ---
 
 {:refdef: style="text-align: center;"}
