@@ -45,7 +45,7 @@ Finally, [@doegox](https://twitter.com/doegox) convinced me to postpone my decis
 {:refdef: style="text-align: center;"}
 ![jiska](/assets/articles/sharing-thoughts/jiska.jpg)
 <br> 
-_Enthusiastic speakers like Jiska are the core and the soul of the event ❤️<br>photo by doegox under CC BY-NC-SA_
+_Enthusiastic speakers like Jiska are the ❤️ and the soul of the event. 🙏 to all of them! <br>photo by doegox under CC BY-NC-SA_
 {: refdef}
 
 And now, some thoughts about organizing conferences!
