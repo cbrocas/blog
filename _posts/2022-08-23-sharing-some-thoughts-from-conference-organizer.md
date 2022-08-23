@@ -23,7 +23,7 @@ So, in this blogpost, I will share:
 
 # Being back on stage after 2 year-long pandemic
 
-When you have organized an event once a year for more than 10 years and suddenly, pandemic stops you and your friends during more than 2 years, **it impacts you**. No more physical contact nor social interaction whereas a conference is essentially a face-to-face event. Even if you don't see or admit it, it hurts you as a social person!
+When you have organized an event once a year for more than 10 years and suddenly, the pandemic stops you and your friends during more than 2 years, **it impacts you**. No more physical contact nor social interaction whereas a conference is essentially a face-to-face event. Even if you don't see or admit it, it hurts you as a social person!
 
 After that, the relaunch of the event hasn't been an easy path. One month before the #PTS22 event, I have even decided to resign just after the [2022 edition](https://2022.pass-the-salt.org/). I have shared it with [@doegox](https://twitter.com/doegox) and [@\_cryptocorn\_](https://twitter.com/_cryptocorn_).
 
@@ -52,7 +52,7 @@ And now, some thoughts about organizing conferences!
 
 For the record, my experience as a conference organizer comes from:
 - RMLL Security track curator role from 2008 to 2017
-- and Pass the SALT founder and organizer since 2018.
+- and Pass the SALT co-founder and co-organizer since 2018.
 
 # One more conference, really?
 
@@ -163,7 +163,7 @@ This last part is quite important for me. We all organize this event to encounte
 {:refdef: style="text-align: center;"}
 ![family](/assets/articles/sharing-thoughts/family.jpg)
 <br> 
-_Fun and furious are usually "The Family" members like Eric 😉 <br>photo by /me under CC BY-NC-SA license_
+_Fun and furious are usually "The Family" members like Eric 😉 <br>photo by doegox under CC BY-NC-SA license_
 {: refdef}
 
 One of our attendees, past speaker and seasoned conference organizer qualifies us as an event with _"a little extra soul”_ 🤩 
@@ -200,11 +200,11 @@ _Sat in front of Red Lines installation by Evan Roth, Rencontres d'Arles 2022 <b
 
 **Summer is also the time of Music and Photography festivals**. I always try to participate to these kind of event. I also try to find and read interviews of festival organizers. 
 
-For example, give a try to this <a href="https://www.fisheyemagazine.fr/rdv/cest-dans-le-mag/nous-mettons-les-artistes-en-orbite-arles-est-une-vraie-rampe-de-lancement/">Sam Stourdzé interview</a> [FR], former Rencontres d'Arles director (main French photography festival). 
+For example, give a try to this <a href="https://www.fisheyemagazine.fr/rdv/cest-dans-le-mag/nous-mettons-les-artistes-en-orbite-arles-est-une-vraie-rampe-de-lancement/">Sam Stourdzé interview</a> [fr], former director of the Rencontres d'Arles, the main French photography festival. 
 
 It is such a rich source of inspiration despite the differences between the events. 
 
-For example, Sam Stourdzé explains during the interview that the soul of an event mainly comes from of what happens besides the event, during moments of exchanges. He also advocates that the atmosphere coming from the different locations used to host the event gives a little extra soul to it. I can't agree more!
+For example, Sam Stourdzé explains during this interview that the soul of an event mainly comes from of what happens besides the event, during moments of exchanges. He also advocates that the atmosphere coming from the different locations used to host the event gives a little extra soul to it. I can't agree more!
 
 **As you can see, all of these inspiration sources provide you a lot of new perspectives and ideas you can try to adapt to your own event to improve it** 🙂.
 
