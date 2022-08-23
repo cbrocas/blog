@@ -213,7 +213,7 @@ For example, Sam Stourdzé explains during this interview that the soul of an ev
 {:refdef: style="text-align: center;"}
 ![program](/assets/articles/sharing-thoughts/toyou.jpg)
 <br> 
-_It's your turn to share your experiences 🫵<br>photo by Xme with doegox DSLR under CC BY-NC-SA license_
+_It's your turn to share your experiences 🫵<br>photo by Xme under CC BY-NC-SA license_
 {: refdef}
 
 I finally came to the end of this quite (too?) long article. I hope you enjoyed the ride and, of course, feel free to <a href="https://twitter.com/cbrocas">come back to me</a> to exchange about these topics. 
