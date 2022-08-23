@@ -216,4 +216,4 @@ _It's your turn to share your experiences 🫵<br>photo by Xavier Mertens under 
 
 I finally came to the end of this quite (too?) long article. I hope you enjoyed the ride and, of course, feel free to <a href="https://twitter.com/cbrocas">come back to me</a> to exchange about these topics. 
 
-For example, **I would really appreciate to read feedback coming from other conferences organizers** to learn from each other's experiences.
+In particular, **I would really appreciate to read feedback coming from other conferences organizers** to learn from each other's experiences.
