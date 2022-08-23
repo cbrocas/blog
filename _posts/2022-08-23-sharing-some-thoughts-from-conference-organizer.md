@@ -102,7 +102,7 @@ In our case, being part of the long term and act in line with our mission theref
 - set up **an event whose access is free of charge** for all (talks, workshops, pauses and social event included);<br> ➡️ done **since 2008** ;
 - add **each year** to a [self-hosted archive site](https://archives.pass-the-salt.org/) all the **slides and videos** produced during the current edition ; <br> ➡️ done **since 2008** ;
 - [document into the open all collaborations](https://www.pass-the-salt.org/achievements/#contributions) resulting from the conference. <br> ➡️ done **since 2011** ;
-- work with partners on a long-term basis like <a href="https://www.ubicast.eu/">Ubicast</a> for talks recording. It helps a lot a very small organization like us. Ubicast records and streams all the talks, provides us the recording as well as a portal for all the videos they recorded. They have been fair enough to also host ont the portal videos we recorded on Zoom during our virtual switch due to pandemic. 🙏 for all of this!<br> ➡️ done **since 2018** (and long before for the RMLL side) ;
+- work with partners on a long-term basis like we do with <a href="https://www.ubicast.eu/">Ubicast</a> for talks recording. It helps a lot a very small organization like us. Ubicast records and streams all the talks, provides us the recording as well as a portal for all the videos they recorded. They have been fair enough to also host ont the portal videos we recorded on Zoom during our virtual switch due to pandemic. 🙏 for all of this!<br> ➡️ done **since 2018** (and long before for the RMLL side) ;
 
 # Standing on the shoulders of giants
 
@@ -158,7 +158,13 @@ We also always **try to go to people, speak with a lot of present people, puttin
 _Sharing moments during #PTS22 speakers dinner <br>photo by doegox under CC BY-NC-SA license_
 {: refdef}
 
-This last part is quite important for me. We all organize this event to encounter people, new ones and old friends. For my part, without meetings, I would just quit the boat, as simple as that.
+This last part is quite important for me. We all organize this event to encounter people, new ones and old friends. For my part, without meetings, I would just quit the boat, as simple as that. Due to the warm feeling it produces when we regularly meet again, I used to call all the previous RMLL and PTS speakers (and regular attendees ofc), _"The Family (tm)"_. Enough said, I guess 🫳
+
+{:refdef: style="text-align: center;"}
+![family](/assets/articles/sharing-thoughts/family.jpg)
+<br> 
+_Fun and furious are usually "The Family" members like Eric 😉 <br>photo by /me with doegox DSLR under CC BY-NC-SA license_
+{: refdef}
 
 One of our attendees, past speaker and seasonned conference organizer qualifies us as an event with _"a little extra soul”_ 🤩 
 
