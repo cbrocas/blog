@@ -2,8 +2,6 @@
 title: Sharing some thoughts from a conference organizer
 ---
 
-**Note:** _this blog post is currently in a draft state. Do not trust its actual content. See you soon for a more definitive content._
-
 {:refdef: style="text-align: center;"}
 ![Chill](/assets/articles/sharing-thoughts/IMG_1681.JPG)
 <br> 
@@ -204,7 +202,7 @@ For example, give a try to this <a href="https://www.fisheyemagazine.fr/rdv/cest
 
 It is such a rich source of inspiration despite the differences between the events. 
 
-For example, Sam Stourdzé explains during this interview that the soul of an event mainly comes from of what happens besides the event, during moments of exchanges. He also advocates that the atmosphere coming from the different locations used to host the event gives a little extra soul to it. I can't agree more!
+Among other topics, Sam Stourdzé explains during this interview that the soul of an event mainly comes from of what happens besides the event, during moments of exchanges. He also advocates that the atmosphere coming from the different locations used to host the event gives a little extra soul to it. I can't agree more!
 
 **As you can see, all of these inspiration sources provide you a lot of new perspectives and ideas you can try to adapt to your own event to improve it** 🙂.
 
@@ -213,7 +211,7 @@ For example, Sam Stourdzé explains during this interview that the soul of an ev
 {:refdef: style="text-align: center;"}
 ![program](/assets/articles/sharing-thoughts/toyou.jpg)
 <br> 
-_It's your turn to share your experiences 🫵<br>photo by Xme under CC BY-NC-SA license_
+_It's your turn to share your experiences 🫵<br>photo by Xavier Mertens under CC BY-NC-SA license_
 {: refdef}
 
 I finally came to the end of this quite (too?) long article. I hope you enjoyed the ride and, of course, feel free to <a href="https://twitter.com/cbrocas">come back to me</a> to exchange about these topics. 
