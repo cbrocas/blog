@@ -45,7 +45,7 @@ Finally, [@doegox](https://twitter.com/doegox) convinced me to postpone my decis
 {:refdef: style="text-align: center;"}
 ![jiska](/assets/articles/sharing-thoughts/jiska.jpg)
 <br> 
-_Enthusiastic speakers like Jiska are the ❤️ and the soul of the event. 🙏 to all of them! <br>photo by doegox under CC BY-NC-SA_
+_Enthusiastic speakers like Jiska are the ❤️ and the soul of the event. <br>🙏 to all of them! <br>photo by doegox under CC BY-NC-SA_
 {: refdef}
 
 And now, some thoughts about organizing conferences!
@@ -76,7 +76,9 @@ Then, if you respect your mission at each step of your decision process, your mi
 
 **Being consistent over time with your mission helps you build credibility for your event** and allows you to build trust with participants and the broader security community.
 
-Last, having a specific mission brings clarity, readibility to attendees, speakers and sponsors. And as a tool, it definitively makes organizers life easier when, for example, you have to choose among the talks proposals of the call for paper.
+Having a specific mission **brings also clarity, readibility** to attendees, speakers and sponsors. 
+
+And **as a tool, it definitively makes organizers life easier** when, for example, you have to choose among the talks proposals of the call for paper.
 
 # Advocating for long-term actions
 
@@ -96,11 +98,11 @@ The values that underpin the event are:
 - **freedom of access** 
 - and **collaboration** between individuals.
 
-In our case, being part of the long term and act in line with our mission therefore translates into multiple choices:
+In our case, being part of the long term and act in line with our mission therefore translates into multiple choices done through our RMLL and PTS experiences:
 - set up **an event whose access is free of charge** for all (talks, workshops, pauses and social event included);<br> ➡️ done **since 2008** ;
 - add **each year** to a [self-hosted archive site](https://archives.pass-the-salt.org/) all the **slides and videos** produced during the current edition ; <br> ➡️ done **since 2008** ;
 - [document into the open all collaborations](https://www.pass-the-salt.org/achievements/#contributions) resulting from the conference. <br> ➡️ done **since 2011** ;
-- work with partners on a long-term basis like <a href="https://www.ubicast.eu/">Ubicast</a> for talks recording. It helps a lot a very small organization like us. Ubicast records and streams all the talks, provides us the recording as well as a portal for all the videos they recorded. They have been fair enough to also host ont the portal videos we recorded on Zoom during our virtual switch due to pandemic pandemic. 🙏 for all of this!<br> ➡️ done **since 2018** (and long before for the RMLL side) ;
+- work with partners on a long-term basis like <a href="https://www.ubicast.eu/">Ubicast</a> for talks recording. It helps a lot a very small organization like us. Ubicast records and streams all the talks, provides us the recording as well as a portal for all the videos they recorded. They have been fair enough to also host ont the portal videos we recorded on Zoom during our virtual switch due to pandemic. 🙏 for all of this!<br> ➡️ done **since 2018** (and long before for the RMLL side) ;
 
 # Standing on the shoulders of giants
 
@@ -109,21 +111,21 @@ But long term actions came also from our history.
 {:refdef: style="text-align: center;"}
 ![rmll](/assets/articles/sharing-thoughts/rmll2014-security-track.jpg)
 <br> 
-_full room before attending Lunar talk about Tor during RMLL 2014<br>photo by doegox under CC BY-NC-SA_
+_Full room before attending Lunar talk about Tor during RMLL 2014<br>photo by doegox under CC BY-NC-SA_
 {: refdef}
 
 Our roots mainly come from the [Libre Software Meeting](https://en.wikipedia.org/wiki/Libre_Software_Meeting) (or Rencontres Mondiales du Logiciel Libre / RMLL in French). 
 
-Apart from RMLL, Philippe has been part of the <a href="https://www.brucon.org/">BruCon</a> for years, member of <a href="https://www.hack.lu/">Hack.lu</a> and <a href="https://www.sstic.org">SSTIC</a> program committee. On his side, Mathieu has been a member of the <a href="https://www.sstic.org">SSTIC</a> organization team for a long time.
+Apart from RMLL, Philippe has also been part of the <a href="https://www.brucon.org/">BruCon</a> for years, member of <a href="https://www.hack.lu/">Hack.lu</a> and <a href="https://www.sstic.org">SSTIC</a> program committee. On his side, Mathieu has been a member of the <a href="https://www.sstic.org">SSTIC</a> organization team for a long time.
 
-We all have being part of the RMLL organization, mainly as Security track curators. We have learned a lot from this organization team, from the achievements and maybe even more from the fails!
+But we all have being part of the RMLL organization, mainly as Security track curators apart [Eloïse](https://twitter.com/_cryptocorn_) who started in 2014 as an organization team member at age of 16 🤩. We have learned a lot from this organization team, from the achievements and maybe even more from the fails!
 
 On the positive side, being part of a bigger event than our small track also helped us **to safely learn the job and try some ideas**: setting up an English only spoken track, see the benefits of having a speakers dinner etc.
 
-And to illustrate the "learning from the fails" aspect, since 2003, RMLL have been held in a different town each year. As so, the organization team changed almost entirely each year also. We have clearly identified this way of operating as a sure win to lose the expertise and the understanding of how an event works. 
+And to illustrate the _"learning from the fails"_ aspect, since 2003, RMLL have been held in a different town each year. As so, the local organization team changed almost entirely each year also. We have clearly identified this way of operating as a sure win to lose the expertise and the understanding of how an event works. 
 
 So, since we founded Pass the SALT, we paid a special attention to:
-- **the management of our small team**, 
+- **the management of our small team** by carefully making addition to it and trying to take care of each others desires as much as possible , 
 - **document the functioning of the conference** for new members or simply to be able to capitalize a little more year after year.
 
 For all these shared moments and so many great editions, **hats off to the creators of RMLL** and org team members from 2008 to 2017! Learned a lot and Pass the SALT wouldn't be there without you 👏
@@ -139,7 +141,7 @@ We created our conference with a special care to the details and as users of our
 {:refdef: style="text-align: center;"}
 ![program](/assets/articles/sharing-thoughts/program.png)
 <br> 
-_building a new feature: adding a foldable program to #PTS22 badge<br>photo by doegox under CC BY-NC-SA license_
+_Building a new feature: adding a foldable program to #PTS22 badge<br>photo by doegox under CC BY-NC-SA license_
 {: refdef}
 
 For example, we try to:
@@ -190,8 +192,24 @@ If you have participated to that kind of events as an organizer or even an atten
 _Sat in front of Red Lines installation by Evan Roth, Rencontres d'Arles 2022 <br>photo by F.B.(c)_
 {: refdef}
 
-**Summer is also the time of Music, Photography festivals**. I always try to participate to these kind of events. I try also to find and read interviews of festival organizers. For example, give a try to this <a href="https://www.fisheyemagazine.fr/rdv/cest-dans-le-mag/nous-mettons-les-artistes-en-orbite-arles-est-une-vraie-rampe-de-lancement/">Sam Stourdzé interview</a> [fr], former Rencontres d'Arles director (main French photography festival). It is such a rich source of inspiration despite the differences between the events. For example, Sam Stourdzé explains during the interview that the soul of an event mainly comes from of what happens besides the event, during moments of exchanges. It also advocates that the atmosphere coming from the different locations used to host the event gives a little extra soul to it. I can't agree more!
+**Summer is also the time of Music, Photography festivals**. I always try to participate to these kind of events. I try also to find and read interviews of festival organizers. 
+
+For example, give a try to this <a href="https://www.fisheyemagazine.fr/rdv/cest-dans-le-mag/nous-mettons-les-artistes-en-orbite-arles-est-une-vraie-rampe-de-lancement/">Sam Stourdzé interview</a> [FR], former Rencontres d'Arles director (main French photography festival). 
+
+It is such a rich source of inspiration despite the differences between the events. 
+
+For example, Sam Stourdzé explains during the interview that the soul of an event mainly comes from of what happens besides the event, during moments of exchanges. It also advocates that the atmosphere coming from the different locations used to host the event gives a little extra soul to it. I can't agree more!
 
 **As you can see, all of these inspiration sources provides you a lot of new perspectives and ideas you can try to adapt to your own event to improve it** 🙂.
 
-I finally came to the end of this quite (too?) long article. I hope you enjoy the ride and of course, feel free to <a href="https://twitter.com/cbrocas">come back to me</a> to exchange about these topics. For example, I would really appreciate to read feedback coming other conferences organizers to cross and enrich our experiences.
+# Last word
+
+{:refdef: style="text-align: center;"}
+![program](/assets/articles/sharing-thoughts/toyou.jpg)
+<br> 
+_It's your turn to share your experiences 🫵<br>photo by Xme with doegox DSLR under CC BY-NC-SA license_
+{: refdef}
+
+I finally came to the end of this quite (too?) long article. I hope you enjoy the ride and of course, feel free to <a href="https://twitter.com/cbrocas">come back to me</a> to exchange about these topics. 
+
+For example, **I would really appreciate to read feedback coming from other conferences organizers** to learn from each other's experiences.
