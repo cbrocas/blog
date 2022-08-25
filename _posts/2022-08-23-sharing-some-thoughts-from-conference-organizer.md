@@ -19,6 +19,10 @@ So, in this blogpost, I will share:
 - **some doubts** I have crossed during the restart of the conference 
 - **some thoughts about conference organization** after 15 years of involvement as a [volunteer conference founder and organizer](https://www.brocas.org/#about). 
 
+**Edit:** 
+- reading some comments after initial blog post publication focusing mainly on the resigning idea, I want to clarify one point: I have **only** spoke about it to show that it can happen and be handled with the help your co-org team members for ex.
+- IMHO (only) the second part dedicated to conference organisation decisions and goals is the most important part of the blog post.
+
 # Being back on stage after 2 year-long pandemic
 
 When you have organized an event once a year for more than 10 years and suddenly, the pandemic stops you and your friends during more than 2 years, **it impacts you**. No more physical contact nor social interaction whereas a conference is essentially a face-to-face event. Even if you don't see or admit it, it hurts you as a social person!
