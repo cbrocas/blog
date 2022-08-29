@@ -36,8 +36,8 @@ I didn't see the point of investing time and energy in events like Pass the SALT
 I doubted my own added value. I also doubted the impact that this type of event could have on the security ecosystem, on the speakers and on the attendees.
 
 I have been quite frustrated all along the process of restarting the event under its in-person form:
-- **fewer attendees** have registered and finally came,
 - we had to deal with constraints due to the pandemic (ex.: how to find a "safe" location for the social event?),
+- fewer attendees have registered and finally came,
 - **fewer speakers were also eager to physically attend the conference**. I definitely understand their point of view. But it has been very frustrating on my side because meeting new speakers, make interactions happen between them and other speakers or attendees is at the core of the event.
 
 Failing to provoke desire into some potential speakers heart has been really hard to live during this fragile moment of relaunching the event. **I wasn't sure anymore to have the words and the vision to lead this conference** and convince people to participate. 
